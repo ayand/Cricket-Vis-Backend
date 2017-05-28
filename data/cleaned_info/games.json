@@ -8,7 +8,8 @@
    "ground_name": "Melbourne",
    "ground_id": 56441,
    "match_id": 656495,
-   "date": "2015-03-29 00:00:00"
+   "date": "2015-03-29 00:00:00",
+   "result": "Australia won by 7 wickets (with 101 balls remaining)"
  },
  {
    "FIELD1": 70,
@@ -19,7 +20,8 @@
    "ground_name": "Sydney",
    "ground_id": 56544,
    "match_id": 656493,
-   "date": "2015-03-26 00:00:00"
+   "date": "2015-03-26 00:00:00",
+   "result": "Australia won by 95 runs"
  },
  {
    "FIELD1": 69,
@@ -30,7 +32,8 @@
    "ground_name": "Auckland",
    "ground_id": 58792,
    "match_id": 656491,
-   "date": "2015-03-24 00:00:00"
+   "date": "2015-03-24 00:00:00",
+   "result": "New Zealand won by 4 wickets (with 1 ball remaining) (D/L method)"
  },
  {
    "FIELD1": 68,
@@ -41,7 +44,8 @@
    "ground_name": "Wellington",
    "ground_id": 58899,
    "match_id": 656489,
-   "date": "2015-03-21 00:00:00"
+   "date": "2015-03-21 00:00:00",
+   "result": "New Zealand won by 143 runs"
  },
  {
    "FIELD1": 67,
@@ -52,7 +56,8 @@
    "ground_name": "Adelaide",
    "ground_id": 56293,
    "match_id": 656487,
-   "date": "2015-03-20 00:00:00"
+   "date": "2015-03-20 00:00:00",
+   "result": "Australia won by 6 wickets (with 97 balls remaining)"
  },
  {
    "FIELD1": 66,
@@ -63,7 +68,8 @@
    "ground_name": "Melbourne",
    "ground_id": 56441,
    "match_id": 656485,
-   "date": "2015-03-19 00:00:00"
+   "date": "2015-03-19 00:00:00",
+   "result": "India won by 109 runs"
  },
  {
    "FIELD1": 65,
@@ -74,7 +80,8 @@
    "ground_name": "Sydney",
    "ground_id": 56544,
    "match_id": 656483,
-   "date": "2015-03-18 00:00:00"
+   "date": "2015-03-18 00:00:00",
+   "result": "South Africa won by 9 wickets (with 192 balls remaining)"
  },
  {
    "FIELD1": 64,
@@ -85,7 +92,8 @@
    "ground_name": "Adelaide",
    "ground_id": 56293,
    "match_id": 656481,
-   "date": "2015-03-15 00:00:00"
+   "date": "2015-03-15 00:00:00",
+   "result": "Pakistan won by 7 wickets (with 23 balls remaining)"
  },
  {
    "FIELD1": 63,
@@ -96,7 +104,8 @@
    "ground_name": "Napier",
    "ground_id": 58857,
    "match_id": 656479,
-   "date": "2015-03-15 00:00:00"
+   "date": "2015-03-15 00:00:00",
+   "result": "West Indies won by 6 wickets (with 117 balls remaining)"
  },
  {
    "FIELD1": 61,
@@ -107,7 +116,8 @@
    "ground_name": "Auckland",
    "ground_id": 58792,
    "match_id": 656475,
-   "date": "2015-03-14 00:00:00"
+   "date": "2015-03-14 00:00:00",
+   "result": "India won by 6 wickets (with 8 balls remaining)"
  },
  {
    "FIELD1": 62,
@@ -118,7 +128,8 @@
    "ground_name": "Hobart",
    "ground_id": 56407,
    "match_id": 656477,
-   "date": "2015-03-14 00:00:00"
+   "date": "2015-03-14 00:00:00",
+   "result": "Australia won by 7 wickets (with 208 balls remaining)"
  },
  {
    "FIELD1": 60,
@@ -129,7 +140,8 @@
    "ground_name": "Sydney",
    "ground_id": 56544,
    "match_id": 656473,
-   "date": "2015-03-13 00:00:00"
+   "date": "2015-03-13 00:00:00",
+   "result": "England won by 9 wickets (with 41 balls remaining) (D/L method)"
  },
  {
    "FIELD1": 59,
@@ -140,7 +152,8 @@
    "ground_name": "Hamilton",
    "ground_id": 58831,
    "match_id": 656471,
-   "date": "2015-03-13 00:00:00"
+   "date": "2015-03-13 00:00:00",
+   "result": "New Zealand won by 3 wickets (with 7 balls remaining)"
  },
  {
    "FIELD1": 58,
@@ -151,7 +164,8 @@
    "ground_name": "Wellington",
    "ground_id": 58899,
    "match_id": 656469,
-   "date": "2015-03-12 00:00:00"
+   "date": "2015-03-12 00:00:00",
+   "result": "South Africa won by 146 runs"
  },
  {
    "FIELD1": 57,
@@ -162,7 +176,8 @@
    "ground_name": "Hobart",
    "ground_id": 56407,
    "match_id": 656467,
-   "date": "2015-03-11 00:00:00"
+   "date": "2015-03-11 00:00:00",
+   "result": "Sri Lanka won by 148 runs"
  },
  {
    "FIELD1": 56,
@@ -173,7 +188,8 @@
    "ground_name": "Hamilton",
    "ground_id": 58831,
    "match_id": 656465,
-   "date": "2015-03-10 00:00:00"
+   "date": "2015-03-10 00:00:00",
+   "result": "India won by 8 wickets (with 79 balls remaining)"
  },
  {
    "FIELD1": 55,
@@ -184,7 +200,8 @@
    "ground_name": "Adelaide",
    "ground_id": 56293,
    "match_id": 656463,
-   "date": "2015-03-09 00:00:00"
+   "date": "2015-03-09 00:00:00",
+   "result": "Bangladesh won by 15 runs"
  },
  {
    "FIELD1": 53,
@@ -195,7 +212,8 @@
    "ground_name": "Napier",
    "ground_id": 58857,
    "match_id": 656459,
-   "date": "2015-03-08 00:00:00"
+   "date": "2015-03-08 00:00:00",
+   "result": "New Zealand won by 6 wickets (with 83 balls remaining)"
  },
  {
    "FIELD1": 54,
@@ -206,7 +224,8 @@
    "ground_name": "Sydney",
    "ground_id": 56544,
    "match_id": 656461,
-   "date": "2015-03-08 00:00:00"
+   "date": "2015-03-08 00:00:00",
+   "result": "Australia won by 64 runs"
  },
  {
    "FIELD1": 52,
@@ -217,7 +236,8 @@
    "ground_name": "Hobart",
    "ground_id": 56407,
    "match_id": 656457,
-   "date": "2015-03-07 00:00:00"
+   "date": "2015-03-07 00:00:00",
+   "result": "Ireland won by 5 runs"
  },
  {
    "FIELD1": 51,
@@ -228,7 +248,8 @@
    "ground_name": "Auckland",
    "ground_id": 58792,
    "match_id": 656455,
-   "date": "2015-03-07 00:00:00"
+   "date": "2015-03-07 00:00:00",
+   "result": "Pakistan won by 29 runs (D/L method)"
  },
  {
    "FIELD1": 50,
@@ -239,7 +260,8 @@
    "ground_name": "Perth",
    "ground_id": 56490,
    "match_id": 656453,
-   "date": "2015-03-06 00:00:00"
+   "date": "2015-03-06 00:00:00",
+   "result": "India won by 4 wickets (with 65 balls remaining)"
  },
  {
    "FIELD1": 49,
@@ -250,7 +272,8 @@
    "ground_name": "Nelson",
    "ground_id": 424917,
    "match_id": 656451,
-   "date": "2015-03-05 00:00:00"
+   "date": "2015-03-05 00:00:00",
+   "result": "Bangladesh won by 6 wickets (with 11 balls remaining)"
  },
  {
    "FIELD1": 47,
@@ -261,7 +284,8 @@
    "ground_name": "Napier",
    "ground_id": 58857,
    "match_id": 656447,
-   "date": "2015-03-04 00:00:00"
+   "date": "2015-03-04 00:00:00",
+   "result": "Pakistan won by 129 runs"
  },
  {
    "FIELD1": 48,
@@ -272,7 +296,8 @@
    "ground_name": "Perth",
    "ground_id": 56490,
    "match_id": 656449,
-   "date": "2015-03-04 00:00:00"
+   "date": "2015-03-04 00:00:00",
+   "result": "Australia won by 275 runs"
  },
  {
    "FIELD1": 46,
@@ -283,7 +308,8 @@
    "ground_name": "Canberra",
    "ground_id": 56370,
    "match_id": 656445,
-   "date": "2015-03-03 00:00:00"
+   "date": "2015-03-03 00:00:00",
+   "result": "South Africa won by 201 runs"
  },
  {
    "FIELD1": 45,
@@ -294,7 +320,8 @@
    "ground_name": "Brisbane",
    "ground_id": 56336,
    "match_id": 656443,
-   "date": "2015-03-01 00:00:00"
+   "date": "2015-03-01 00:00:00",
+   "result": "Pakistan won by 20 runs"
  },
  {
    "FIELD1": 44,
@@ -305,7 +332,8 @@
    "ground_name": "Wellington",
    "ground_id": 58899,
    "match_id": 656441,
-   "date": "2015-03-01 00:00:00"
+   "date": "2015-03-01 00:00:00",
+   "result": "Sri Lanka won by 9 wickets (with 16 balls remaining)"
  },
  {
    "FIELD1": 43,
@@ -316,7 +344,8 @@
    "ground_name": "Perth",
    "ground_id": 56490,
    "match_id": 656439,
-   "date": "2015-02-28 00:00:00"
+   "date": "2015-02-28 00:00:00",
+   "result": "India won by 9 wickets (with 187 balls remaining)"
  },
  {
    "FIELD1": 42,
@@ -327,7 +356,8 @@
    "ground_name": "Auckland",
    "ground_id": 58792,
    "match_id": 656437,
-   "date": "2015-02-28 00:00:00"
+   "date": "2015-02-28 00:00:00",
+   "result": "New Zealand won by 1 wicket (with 161 balls remaining)"
  },
  {
    "FIELD1": 41,
@@ -338,7 +368,8 @@
    "ground_name": "Sydney",
    "ground_id": 56544,
    "match_id": 656435,
-   "date": "2015-02-27 00:00:00"
+   "date": "2015-02-27 00:00:00",
+   "result": "South Africa won by 257 runs"
  },
  {
    "FIELD1": 39,
@@ -349,7 +380,8 @@
    "ground_name": "Dunedin",
    "ground_id": 58827,
    "match_id": 656431,
-   "date": "2015-02-26 00:00:00"
+   "date": "2015-02-26 00:00:00",
+   "result": "Afghanistan won by 1 wicket (with 3 balls remaining)"
  },
  {
    "FIELD1": 40,
@@ -360,7 +392,8 @@
    "ground_name": "Melbourne",
    "ground_id": 56441,
    "match_id": 656433,
-   "date": "2015-02-26 00:00:00"
+   "date": "2015-02-26 00:00:00",
+   "result": "Sri Lanka won by 92 runs"
  },
  {
    "FIELD1": 38,
@@ -371,7 +404,8 @@
    "ground_name": "Brisbane",
    "ground_id": 56336,
    "match_id": 656429,
-   "date": "2015-02-25 00:00:00"
+   "date": "2015-02-25 00:00:00",
+   "result": "Ireland won by 2 wickets (with 4 balls remaining)"
  },
  {
    "FIELD1": 37,
@@ -382,7 +416,8 @@
    "ground_name": "Canberra",
    "ground_id": 56370,
    "match_id": 656427,
-   "date": "2015-02-24 00:00:00"
+   "date": "2015-02-24 00:00:00",
+   "result": "West Indies won by 73 runs (D/L method)"
  },
  {
    "FIELD1": 36,
@@ -393,7 +428,8 @@
    "ground_name": "Christchurch",
    "ground_id": 58810,
    "match_id": 656425,
-   "date": "2015-02-23 00:00:00"
+   "date": "2015-02-23 00:00:00",
+   "result": "England won by 119 runs"
  },
  {
    "FIELD1": 35,
@@ -404,7 +440,8 @@
    "ground_name": "Melbourne",
    "ground_id": 56441,
    "match_id": 656423,
-   "date": "2015-02-22 00:00:00"
+   "date": "2015-02-22 00:00:00",
+   "result": "India won by 130 runs"
  },
  {
    "FIELD1": 34,
@@ -415,7 +452,8 @@
    "ground_name": "Dunedin",
    "ground_id": 58827,
    "match_id": 656421,
-   "date": "2015-02-22 00:00:00"
+   "date": "2015-02-22 00:00:00",
+   "result": "Sri Lanka won by 4 wickets (with 10 balls remaining)"
  },
  {
    "FIELD1": 33,
@@ -426,7 +464,8 @@
    "ground_name": "Christchurch",
    "ground_id": 58810,
    "match_id": 656417,
-   "date": "2015-02-21 00:00:00"
+   "date": "2015-02-21 00:00:00",
+   "result": "West Indies won by 150 runs"
  },
  {
    "FIELD1": 32,
@@ -437,7 +476,8 @@
    "ground_name": "Wellington",
    "ground_id": 58899,
    "match_id": 656415,
-   "date": "2015-02-20 00:00:00"
+   "date": "2015-02-20 00:00:00",
+   "result": "New Zealand won by 8 wickets (with 226 balls remaining)"
  },
  {
    "FIELD1": 31,
@@ -448,7 +488,8 @@
    "ground_name": "Nelson",
    "ground_id": 424917,
    "match_id": 656413,
-   "date": "2015-02-19 00:00:00"
+   "date": "2015-02-19 00:00:00",
+   "result": "Zimbabwe won by 4 wickets (with 12 balls remaining)"
  },
  {
    "FIELD1": 30,
@@ -459,7 +500,8 @@
    "ground_name": "Canberra",
    "ground_id": 56370,
    "match_id": 656411,
-   "date": "2015-02-18 00:00:00"
+   "date": "2015-02-18 00:00:00",
+   "result": "Bangladesh won by 105 runs"
  },
  {
    "FIELD1": 29,
@@ -470,7 +512,8 @@
    "ground_name": "Dunedin",
    "ground_id": 58827,
    "match_id": 656409,
-   "date": "2015-02-17 00:00:00"
+   "date": "2015-02-17 00:00:00",
+   "result": "New Zealand won by 3 wickets (with 151 balls remaining)"
  },
  {
    "FIELD1": 28,
@@ -481,7 +524,8 @@
    "ground_name": "Nelson",
    "ground_id": 424917,
    "match_id": 656407,
-   "date": "2015-02-16 00:00:00"
+   "date": "2015-02-16 00:00:00",
+   "result": "Ireland won by 4 wickets (with 25 balls remaining)"
  },
  {
    "FIELD1": 27,
@@ -492,7 +536,8 @@
    "ground_name": "Adelaide",
    "ground_id": 56293,
    "match_id": 656405,
-   "date": "2015-02-15 00:00:00"
+   "date": "2015-02-15 00:00:00",
+   "result": "India won by 76 runs"
  },
  {
    "FIELD1": 26,
@@ -503,7 +548,8 @@
    "ground_name": "Hamilton",
    "ground_id": 58831,
    "match_id": 656403,
-   "date": "2015-02-15 00:00:00"
+   "date": "2015-02-15 00:00:00",
+   "result": "South Africa won by 62 runs"
  },
  {
    "FIELD1": 25,
@@ -514,7 +560,8 @@
    "ground_name": "Melbourne",
    "ground_id": 56441,
    "match_id": 656401,
-   "date": "2015-02-14 00:00:00"
+   "date": "2015-02-14 00:00:00",
+   "result": "Australia won by 111 runs"
  },
  {
    "FIELD1": 24,
@@ -525,6 +572,7 @@
    "ground_name": "Christchurch",
    "ground_id": 58810,
    "match_id": 656399,
-   "date": "2015-02-14 00:00:00"
+   "date": "2015-02-14 00:00:00",
+   "result": "New Zealand won by 98 runs"
  }
 ]
