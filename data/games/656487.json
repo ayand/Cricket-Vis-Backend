@@ -4913,9 +4913,9 @@
    "ended_y": 0.51,
    "ball_speed": 89.603,
    "cumul_runs": 112,
-   "wicket": false,
-   "wicket_method": "",
-   "who_out": null,
+   "wicket": true,
+   "wicket_method": "caught",
+   "who_out": 318788,
    "control": 0,
    "extras_type": ""
  },
