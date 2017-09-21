@@ -11,7 +11,7 @@ router.get('/', function(req, res, next) {
 
 router.get('/:matchID', function(req, res, next) {
     var fileName = req.params.matchID + ".json";
-    var matchBalls = JSON.parse(fs.readFileSync('data/games/' + fileName));
+    var matchBalls = JSON.parse(fs.readFileSync('data/newGames/' + fileName));
     return res.status(201).send(matchBalls);
 });
 
