@@ -9,4 +9,10 @@ router.get('/', function(req, res, next) {
   return res.status(201).send(players);
 });
 
+router.get('/list', function(req, res, next) {
+  //res.send('respond with a resource');
+  var players = JSON.parse(fs.readFileSync('data/cleaned_info/playerList.json'));
+  return res.status(201).send(players);
+});
+
 module.exports = router;
