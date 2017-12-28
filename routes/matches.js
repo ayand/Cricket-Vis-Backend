@@ -35,6 +35,14 @@ router.get('/:matchID', function(req, res, next) {
     return res.status(201).send(matchBalls);
 });
 
-
+router.get("/boundaries/:batsmanID", function(req, res, next) {
+    var balls = JSON.parse(fs.readFileSync('data/cleaned_info/allBalls.json'));
+    var boundaries = balls.filter(function(d) {
+        var condition1 = (d.batsman == parseInt(req.params.batsmanID));
+        var condition2 = (d.runs_batter == 4 || d.runs_batter == 6);
+        return condition1 && condition2;
+    })
+    return res.status(201).send(boundaries);
+})
 
 module.exports = router;
