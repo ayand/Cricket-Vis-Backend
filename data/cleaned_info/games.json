@@ -97,7 +97,7 @@
  },
  {
    "FIELD1": 63,
-   "team1_name": "U.A.E.",
+   "team1_name": "United Arab Emirates.",
    "team2_name": "West Indies",
    "team1_id": 27,
    "team2_id": 4,
@@ -158,7 +158,7 @@
  {
    "FIELD1": 58,
    "team1_name": "South Africa",
-   "team2_name": "U.A.E.",
+   "team2_name": "United Arab Emirates.",
    "team1_id": 3,
    "team2_id": 27,
    "ground_name": "Wellington",
@@ -278,7 +278,7 @@
  {
    "FIELD1": 47,
    "team1_name": "Pakistan",
-   "team2_name": "U.A.E.",
+   "team2_name": "United Arab Emirates.",
    "team1_id": 7,
    "team2_id": 27,
    "ground_name": "Napier",
@@ -338,7 +338,7 @@
  {
    "FIELD1": 43,
    "team1_name": "India",
-   "team2_name": "U.A.E.",
+   "team2_name": "United Arab Emirates.",
    "team1_id": 6,
    "team2_id": 27,
    "ground_name": "Perth",
@@ -398,7 +398,7 @@
  {
    "FIELD1": 38,
    "team1_name": "Ireland",
-   "team2_name": "U.A.E.",
+   "team2_name": "United Arab Emirates.",
    "team1_id": 29,
    "team2_id": 27,
    "ground_name": "Brisbane",
@@ -481,7 +481,7 @@
  },
  {
    "FIELD1": 31,
-   "team1_name": "U.A.E.",
+   "team1_name": "United Arab Emirates.",
    "team2_name": "Zimbabwe",
    "team1_id": 27,
    "team2_id": 9,
