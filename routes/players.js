@@ -15,4 +15,38 @@ router.get('/list', function(req, res, next) {
   return res.status(201).send(players);
 });
 
+router.get('/team/:team', function(req, res, next) {
+    var players = JSON.parse(fs.readFileSync('data/cleaned_info/players.json'));
+    var teamNameDict = {
+          "afghanistan": "Afghanistan",
+          "australia": "Australia",
+          "bangladesh": "Bangladesh",
+          "england": "England",
+          "india": "India",
+          "ireland": "Ireland",
+          "nz": "New Zealand",
+          "pakistan": "Pakistan",
+          "scotland": "Scotland",
+          "sa": "South Africa",
+          "sl": "Sri Lanka",
+          "uae": "United Arab Emirates",
+          "wi": "West Indies",
+          "zimbabwe": "Zimbabwe"
+    }
+    var result = []
+    var teamName = teamNameDict[req.params.team]
+    for (var player in players) {
+        //console.log(player);
+        //console.log(player["team"])
+        if (players[player]["team"] == teamName) {
+            result.push({
+                "id": parseInt(player),
+                "name": players[player]["name"],
+                "team": teamName
+            })
+        }
+    }
+    return res.status(201).send(result);
+})
+
 module.exports = router;
