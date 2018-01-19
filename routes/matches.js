@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var fs = require('file-system');
+var d3 = require('d3');
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
@@ -34,6 +35,65 @@ router.get('/:matchID', function(req, res, next) {
     var matchBalls = JSON.parse(fs.readFileSync('data/newGames/' + fileName));
     return res.status(201).send(matchBalls);
 });
+
+router.get('/team/:teamName', function(req, res, next) {
+    var teamNameDict = {
+          "afghanistan": "Afghanistan",
+          "australia": "Australia",
+          "bangladesh": "Bangladesh",
+          "england": "England",
+          "india": "India",
+          "ireland": "Ireland",
+          "nz": "New Zealand",
+          "pakistan": "Pakistan",
+          "scotland": "Scotland",
+          "sa": "South Africa",
+          "sl": "Sri Lanka",
+          "uae": "United Arab Emirates",
+          "wi": "West Indies",
+          "zimbabwe": "Zimbabwe"
+    }
+    var properName = teamNameDict[req.params.teamName];
+    var relevantBalls = JSON.parse(fs.readFileSync('data/cleaned_info/allBalls.json'))
+        .filter(function(d) {
+            return d.batting_team == properName || d.bowling_team == properName;
+        });
+
+    var battingBalls = relevantBalls.filter(function(d) { return d.batting_team == properName; })
+    var bowlingBalls = relevantBalls.filter(function(d) { return d.bowling_team == properName; });
+
+    var games = JSON.parse(fs.readFileSync('data/cleaned_info/games.json'))
+
+    var organizedBattingBalls = d3.nest()
+        .key(function(d) { return d.game; })
+        .sortKeys(d3.ascending)
+        .sortValues(function(a, b) { return parseInt(a[""]) - parseInt(b[""]); })
+        .entries(battingBalls);
+
+    var organizedBowlingBalls = d3.nest()
+        .key(function(d) { return d.game; })
+        .sortKeys(d3.ascending)
+        .sortValues(function(a, b) { return parseInt(a[""]) - parseInt(b[""]); })
+        .entries(bowlingBalls);
+
+    var divisions = [organizedBattingBalls, organizedBowlingBalls];
+
+    divisions.forEach(function(theGames) {
+        theGames.forEach(function(theGame) {
+          var gameID = theGame.key;
+          var relevantGame = games.filter(function(d) { return d.match_id == gameID; })[0];
+          theGame["date"] = relevantGame.date;
+          theGame["winning_team"] = relevantGame.winning_team;
+        })
+    })
+
+    var result = {
+        "batting_balls": organizedBattingBalls,
+        "bowling_balls": organizedBowlingBalls
+    }
+
+    return res.status(201).send(result);
+})
 
 router.get("/boundaries/:batsmanID", function(req, res, next) {
     var balls = JSON.parse(fs.readFileSync('data/cleaned_info/allBallsWithKey.json'));
