@@ -83,6 +83,7 @@ router.get('/team/:teamName', function(req, res, next) {
           var gameID = theGame.key;
           var relevantGame = games.filter(function(d) { return d.match_id == gameID; })[0];
           theGame["date"] = relevantGame.date;
+          theGame["opponent"] = properName == relevantGame.team1_name ? relevantGame.team2_name : relevantGame.team1_name;
           theGame["winning_team"] = relevantGame.winning_team;
         })
     })
