@@ -26,7 +26,7 @@ router.get('/graph', function(req, res, next) {
     var playerEdges = [];
     for (var key in batsmanDictionary) {
         batsmanDictionary[key].forEach(function(d) {
-            playerEdges.push({ "batsman": key, "bowler": d })
+            playerEdges.push({ "batsman": parseInt(key), "bowler": d })
         })
     }
 
