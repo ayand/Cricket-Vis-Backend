@@ -42,9 +42,9 @@ router.get('/graph', function(req, res, next) {
             var bLastName = bName[bName.length - 1];
             var bFirst = bName[0].charAt(0)
             if (bLastName == aLastName) {
-                return letterOrder.indexOf(bFirst) - letterOrder.indexOf(aFirst);
+                return letterOrder.indexOf(aFirst) - letterOrder.indexOf(bFirst);
             }
-            return ((bLastName > aLastName) ? 1 : -1)
+            return ((aLastName > bLastName) ? 1 : -1)
             //return letterOrder.indexOf(bLastName.charAt(0)) - letterOrder.indexOf(aLastName.charAt(0));
         }
         return teams.indexOf(a.team) - teams.indexOf(b.team);
