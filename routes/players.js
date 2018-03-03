@@ -29,6 +29,20 @@ router.get('/graph', function(req, res, next) {
             playerEdges.push({ "batsman": key, "bowler": d })
         })
     }
+
+    var teams = Array.from(new Set(playerNodes.map(function(d) { return d.team; })))
+    var letterOrder = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+    playerNodes.sort(function(a, b) {
+        if (a.team == b.team) {
+            var aName = a.name.split(" ");
+            var aLastName = aName[aName.length - 1];
+            var bName = b.name.split(" ");
+            var bLastName = bName[bName.length - 1];
+            return letterOrder.indexOf(bLastName.charAt(0)) - letterOrder.indexOf(aLastName.charAt(0));
+        }
+        return teams.indexOf(a.team) - teams.indexOf(b.team);
+    })
     return res.status(201).send({
         "nodes": playerNodes,
         "edges": playerEdges
