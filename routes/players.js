@@ -11,8 +11,24 @@ router.get('/', function(req, res, next) {
 
 router.get('/graph', function(req, res, next) {
     var playerNodes = JSON.parse(fs.readFileSync('data/cleaned_info/playerList.json'));
-    var playerEdges = Array.from(new Set(JSON.parse(fs.readFileSync('data/cleaned_info/allBalls.json'))
-        .map(function(d) { return { "batsman": d.batsman, "bowler": d.bowler } })))
+    var balls = JSON.parse(fs.readFileSync('data/cleaned_info/allBalls.json'))
+    var batsmanDictionary = {}
+    for (var i = 0; i < balls.length; i++) {
+        var batsman = balls[i].batsman;
+        var bowler = balls[i].bowler;
+        if (batsmanDictionary[batsman.toString()] == null) {
+            batsmanDictionary[batsman.toString()] = [];
+        }
+        if (!batsmanDictionary[batsman.toString()].includes(bowler)) {
+            batsmanDictionary[batsman.toString()].push(bowler);
+        }
+    }
+    var playerEdges = [];
+    for (var key in batsmanDictionary) {
+        batsmanDictionary[key].forEach(function(d) {
+            playerEdges.push({ "batsman": key, "bowler": d })
+        })
+    }
     return res.status(201).send({
         "nodes": playerNodes,
         "edges": playerEdges
