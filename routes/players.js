@@ -37,9 +37,15 @@ router.get('/graph', function(req, res, next) {
         if (a.team == b.team) {
             var aName = a.name.split(" ");
             var aLastName = aName[aName.length - 1];
+            var aFirst = aName[0].charAt(0);
             var bName = b.name.split(" ");
             var bLastName = bName[bName.length - 1];
-            return letterOrder.indexOf(bLastName.charAt(0)) - letterOrder.indexOf(aLastName.charAt(0));
+            var bFirst = bName[0].charAt(0)
+            if (bLastName == aLastName) {
+                return letterOrder.indexOf(bFirst) - letterOrder.indexOf(aFirst);
+            }
+            return ((bLastName > aLastName) ? 1 : -1)
+            //return letterOrder.indexOf(bLastName.charAt(0)) - letterOrder.indexOf(aLastName.charAt(0));
         }
         return teams.indexOf(a.team) - teams.indexOf(b.team);
     })
