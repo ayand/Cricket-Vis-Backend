@@ -9,6 +9,16 @@ router.get('/', function(req, res, next) {
   return res.status(201).send(players);
 });
 
+router.get('/graph', function(req, res, next) {
+    var playerNodes = JSON.parse(fs.readFileSync('data/cleaned_info/playerList.json'));
+    var playerEdges = Array.from(new Set(JSON.parse(fs.readFileSync('data/cleaned_info/allBalls.json'))
+        .map(function(d) { return { "batsman": d.batsman, "bowler": d.bowler } })))
+    return res.status(201).send({
+        "nodes": playerNodes,
+        "edges": playerEdges
+    })
+})
+
 router.get('/list', function(req, res, next) {
   //res.send('respond with a resource');
   var players = JSON.parse(fs.readFileSync('data/cleaned_info/playerList.json'));
