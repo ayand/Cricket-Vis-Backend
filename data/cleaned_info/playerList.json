@@ -108,7 +108,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Freddie Coleman", 
   "runs_conceded": 0, 
   "strike_rate": 79.38144329896907, 
@@ -120,7 +120,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Najibullah Zadran", 
   "runs_conceded": 0, 
   "strike_rate": 78.84615384615384, 
@@ -132,7 +132,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Nasir Jamal", 
   "runs_conceded": 0, 
   "strike_rate": 32.69230769230769, 
@@ -204,7 +204,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Ahmed Shehzad", 
   "runs_conceded": 0, 
   "strike_rate": 72.52396166134186, 
@@ -252,7 +252,7 @@
   "wickets_taken": 6
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Kumar Sangakkara", 
   "runs_conceded": 0, 
   "strike_rate": 105.87084148727985, 
@@ -276,7 +276,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Ross Taylor", 
   "runs_conceded": 0, 
   "strike_rate": 61.559888579387184, 
@@ -300,7 +300,7 @@
   "wickets_taken": 10
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Martin Guptill", 
   "runs_conceded": 0, 
   "strike_rate": 104.99040307101727, 
@@ -336,7 +336,7 @@
   "wickets_taken": 9
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Mominul Haque", 
   "runs_conceded": 0, 
   "strike_rate": 66.66666666666667, 
@@ -348,7 +348,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Misbah-ul-Haq", 
   "runs_conceded": 0, 
   "strike_rate": 75.26881720430107, 
@@ -384,7 +384,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Ian Bell", 
   "runs_conceded": 0, 
   "strike_rate": 77.28613569321534, 
@@ -396,7 +396,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Mushfiqur Rahim", 
   "runs_conceded": 0, 
   "strike_rate": 106.04982206405694, 
@@ -408,7 +408,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Shafiqullah", 
   "runs_conceded": 0, 
   "strike_rate": 46.875, 
@@ -432,7 +432,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Ajinkya Rahane", 
   "runs_conceded": 0, 
   "strike_rate": 83.2, 
@@ -444,7 +444,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "David Miller", 
   "runs_conceded": 0, 
   "strike_rate": 139.6551724137931, 
@@ -600,7 +600,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "David Warner", 
   "runs_conceded": 0, 
   "strike_rate": 120.62937062937063, 
@@ -624,7 +624,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Aaron Finch", 
   "runs_conceded": 0, 
   "strike_rate": 92.10526315789474, 
@@ -768,7 +768,7 @@
   "wickets_taken": 3
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Brendan Taylor", 
   "runs_conceded": 0, 
   "strike_rate": 107.17821782178218, 
@@ -828,7 +828,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Shikhar Dhawan", 
   "runs_conceded": 0, 
   "strike_rate": 91.96428571428571, 
@@ -864,7 +864,7 @@
   "wickets_taken": 8
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Brad Haddin", 
   "runs_conceded": 0, 
   "strike_rate": 157.5, 
@@ -912,7 +912,7 @@
   "wickets_taken": 15
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Brendon McCullum", 
   "runs_conceded": 0, 
   "strike_rate": 189.59537572254337, 
@@ -948,7 +948,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Tamim Iqbal", 
   "runs_conceded": 0, 
   "strike_rate": 75.86206896551724, 
@@ -1008,7 +1008,7 @@
   "wickets_taken": 8
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Afsar Zazai", 
   "runs_conceded": 0, 
   "strike_rate": 36.734693877551024, 
@@ -1044,7 +1044,7 @@
   "wickets_taken": 2
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Saqlain Haider", 
   "runs_conceded": 0, 
   "strike_rate": 58.333333333333336, 
@@ -1056,7 +1056,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Andy Balbirnie", 
   "runs_conceded": 0, 
   "strike_rate": 90.76923076923077, 
@@ -1104,7 +1104,7 @@
   "wickets_taken": 13
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Dimuth Karunaratne", 
   "runs_conceded": 0, 
   "strike_rate": 69.81132075471699, 
@@ -1164,7 +1164,7 @@
   "wickets_taken": 6
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Mahela Jayawardene", 
   "runs_conceded": 0, 
   "strike_rate": 74.4047619047619, 
@@ -1200,7 +1200,7 @@
   "wickets_taken": 9
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "MS Dhoni", 
   "runs_conceded": 0, 
   "strike_rate": 103.04347826086956, 
@@ -1212,7 +1212,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Hashim Amla", 
   "runs_conceded": 0, 
   "strike_rate": 95.96541786743516, 
@@ -1224,7 +1224,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Darren Bravo", 
   "runs_conceded": 0, 
   "strike_rate": 62.82051282051282, 
@@ -1236,7 +1236,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Upul Tharanga", 
   "runs_conceded": 0, 
   "strike_rate": 80.0, 
@@ -1320,7 +1320,7 @@
   "wickets_taken": 2
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Usman Ghani", 
   "runs_conceded": 0, 
   "strike_rate": 54.54545454545455, 
@@ -1368,7 +1368,7 @@
   "wickets_taken": 4
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Kusal Perera", 
   "runs_conceded": 0, 
   "strike_rate": 117.3913043478261, 
@@ -1380,7 +1380,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Preston Mommsen", 
   "runs_conceded": 0, 
   "strike_rate": 76.6839378238342, 
@@ -1404,7 +1404,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Imrul Kayes", 
   "runs_conceded": 0, 
   "strike_rate": 25.714285714285715, 
@@ -1416,7 +1416,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Andri Berenger", 
   "runs_conceded": 0, 
   "strike_rate": 48.62385321100918, 
@@ -1440,7 +1440,7 @@
   "wickets_taken": 13
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Hamish Gardiner", 
   "runs_conceded": 0, 
   "strike_rate": 45.283018867924525, 
@@ -1476,7 +1476,7 @@
   "wickets_taken": 3
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "William Porterfield", 
   "runs_conceded": 0, 
   "strike_rate": 67.23716381418093, 
@@ -1500,7 +1500,7 @@
   "wickets_taken": 3
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Eoin Morgan", 
   "runs_conceded": 0, 
   "strike_rate": 64.74820143884892, 
@@ -1512,7 +1512,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Umar Akmal", 
   "runs_conceded": 0, 
   "strike_rate": 80.78817733990148, 
@@ -1560,7 +1560,7 @@
   "wickets_taken": 9
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Denesh Ramdin", 
   "runs_conceded": 0, 
   "strike_rate": 70.86092715231788, 
@@ -1620,7 +1620,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Dinesh Chandimal", 
   "runs_conceded": 0, 
   "strike_rate": 216.66666666666666, 
@@ -1644,7 +1644,7 @@
   "wickets_taken": 2
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Regis Chakabva", 
   "runs_conceded": 0, 
   "strike_rate": 66.66666666666667, 
@@ -1656,7 +1656,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Amjad Ali", 
   "runs_conceded": 0, 
   "strike_rate": 51.891891891891895, 
@@ -1692,7 +1692,7 @@
   "wickets_taken": 4
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Sarfraz Ahmed", 
   "runs_conceded": 0, 
   "strike_rate": 84.65608465608466, 
@@ -1716,7 +1716,7 @@
   "wickets_taken": 6
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Stuart Matsikenyeri", 
   "runs_conceded": 0, 
   "strike_rate": 82.6086956521739, 
@@ -1776,7 +1776,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Craig Ervine", 
   "runs_conceded": 0, 
   "strike_rate": 89.32584269662921, 
@@ -1788,7 +1788,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Alex Hales", 
   "runs_conceded": 0, 
   "strike_rate": 95.5223880597015, 
@@ -1800,7 +1800,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Nasir Jamshed", 
   "runs_conceded": 0, 
   "strike_rate": 21.73913043478261, 
@@ -1812,7 +1812,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Swapnil Patil", 
   "runs_conceded": 0, 
   "strike_rate": 55.33596837944664, 
@@ -1860,7 +1860,7 @@
   "wickets_taken": 12
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Matthew Cross", 
   "runs_conceded": 0, 
   "strike_rate": 73.33333333333333, 
@@ -1896,7 +1896,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "George Bailey", 
   "runs_conceded": 0, 
   "strike_rate": 79.71014492753623, 
@@ -1908,7 +1908,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Jos Buttler", 
   "runs_conceded": 0, 
   "strike_rate": 138.23529411764707, 
@@ -1920,7 +1920,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Lahiru Thirimanne", 
   "runs_conceded": 0, 
   "strike_rate": 85.07042253521126, 
@@ -1992,7 +1992,7 @@
   "wickets_taken": 3
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Niall O'Brien", 
   "runs_conceded": 0, 
   "strike_rate": 109.34065934065934, 
@@ -2004,7 +2004,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Johnson Charles", 
   "runs_conceded": 0, 
   "strike_rate": 126.08695652173913, 
@@ -2100,7 +2100,7 @@
   "wickets_taken": 7
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Younis Khan", 
   "runs_conceded": 0, 
   "strike_rate": 79.62962962962963, 
@@ -2136,7 +2136,7 @@
   "wickets_taken": 7
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "James Taylor", 
   "runs_conceded": 0, 
   "strike_rate": 88.69047619047619, 
@@ -2172,7 +2172,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Chamu Chibhabha", 
   "runs_conceded": 0, 
   "strike_rate": 66.21621621621621, 
@@ -2232,7 +2232,7 @@
   "wickets_taken": 7
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Quinton de Kock", 
   "runs_conceded": 0, 
   "strike_rate": 85.29411764705883, 
@@ -2256,7 +2256,7 @@
   "wickets_taken": 5
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Ed Joyce", 
   "runs_conceded": 0, 
   "strike_rate": 98.79518072289157, 
@@ -2268,7 +2268,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Jonathan Carter", 
   "runs_conceded": 0, 
   "strike_rate": 70.625, 
@@ -2280,7 +2280,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Gary Wilson", 
   "runs_conceded": 0, 
   "strike_rate": 104.44444444444444, 
@@ -2328,7 +2328,7 @@
   "wickets_taken": 1
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Gary Ballance", 
   "runs_conceded": 0, 
   "strike_rate": 50.70422535211268, 
@@ -2340,7 +2340,7 @@
   "wickets_taken": 0
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Anamul Haque", 
   "runs_conceded": 0, 
   "strike_rate": 59.183673469387756, 
@@ -2364,7 +2364,7 @@
   "wickets_taken": 4
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Luke Ronchi", 
   "runs_conceded": 0, 
   "strike_rate": 119.67213114754098, 
@@ -2424,7 +2424,7 @@
   "wickets_taken": 8
  }, 
  {
-  "overs_bowled": -1, 
+  "overs_bowled": 0, 
   "name": "Calum MacLeod", 
   "runs_conceded": 0, 
   "strike_rate": 76.19047619047619, 
