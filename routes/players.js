@@ -1,10 +1,9 @@
 var express = require('express');
 var router = express.Router();
 var fs = require('file-system');
+var d3 = require('d3');
 
-/* GET users listing. */
 router.get('/', function(req, res, next) {
-  //res.send('respond with a resource');
   var players = JSON.parse(fs.readFileSync('data/cleaned_info/players.json'));
   return res.status(201).send(players);
 });
@@ -12,7 +11,47 @@ router.get('/', function(req, res, next) {
 router.get('/graph', function(req, res, next) {
     var playerNodes = JSON.parse(fs.readFileSync('data/cleaned_info/playerList.json'));
     var balls = JSON.parse(fs.readFileSync('data/cleaned_info/allBalls.json'))
-    var batsmanDictionary = {}
+    var playerEdges = [];
+
+    var playerComboStats = d3.nest()
+        .key(function(d) { return d.batsman; })
+        .key(function(d) { return d.bowler; })
+        .rollup(function(leaves) {
+            return {
+                "number_of_balls": leaves.length,
+                "runs_scored": d3.sum(leaves, function(d) {
+                    return (d.extras_type != "Wd" && d.extras_type != "Nb") ? d.runs_batter : 0;
+                })
+            }
+        })
+        .entries(balls);
+
+    playerComboStats.forEach(function(batsman) {
+        var batsmanID = parseInt(batsman.key)
+        batsman.values.forEach(function(bowler) {
+            var bowlerID = parseInt(bowler.key);
+            var numberOfBalls = bowler.value.number_of_balls;
+            var runsScored = bowler.value.runs_scored;
+            playerEdges.push({
+                "batsman": batsmanID,
+                "bowler": bowlerID,
+                "number_of_balls": numberOfBalls,
+                "runs_scored": runsScored
+            })
+        })
+    })
+
+    /*var dividedByBatsman = d3.nest()
+        .key(function(d) { return d.batsman; })
+        .entries(balls);
+
+    dividedByBatsman.forEach(function(batsman) {
+        var dividedByBowler = d3.nest()
+            .key(function(d) { return d.bowler })
+
+    })*/
+
+    /*var batsmanDictionary = {}
     for (var i = 0; i < balls.length; i++) {
         var batsman = balls[i].batsman;
         var bowler = balls[i].bowler;
@@ -28,7 +67,7 @@ router.get('/graph', function(req, res, next) {
         batsmanDictionary[key].forEach(function(d) {
             playerEdges.push({ "batsman": parseInt(key), "bowler": d })
         })
-    }
+    }*/
 
     var teams = Array.from(new Set(playerNodes.map(function(d) { return d.team; })))
     var letterOrder = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
