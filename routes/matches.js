@@ -36,6 +36,14 @@ router.get('/:matchID', function(req, res, next) {
     return res.status(201).send(matchBalls);
 });
 
+router.get('/:matchID/partnerships', function(req, res, next) {
+    var fileName = "partnerships.json";
+    var partnerships = JSON.parse(fs.readFileSync('data/cleaned_info/partnerships.json')).filter(function(d) {
+        return d.game == parseInt(req.params.matchID)
+    });
+    return res.status(201).send(partnerships);
+});
+
 router.get('/team/:teamName', function(req, res, next) {
     var teamNameDict = {
           "afghanistan": "Afghanistan",
