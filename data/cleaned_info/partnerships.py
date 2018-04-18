@@ -37,8 +37,10 @@ for game in games:
             if (names[0], names[1]) not in partnershipSet:
                 print(str(battingDict[names[0]][names[1]]))
                 print(str(battingDict[names[1]][names[0]]))
-                row = { "batsman_1": names[0], "batsman_2": names[1], "game": game, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
-                partnershipList.append(row)
+                row1 = { "batsman_1": names[0], "batsman_2": names[1], "game": game, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                row2 = { "batsman_1": names[1], "batsman_2": names[0], "game": game, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                partnershipList.append(row1)
+                partnershipList.append(row2)
                 partnershipSet.add((names[0], names[1]))
 
 with open('partnerships.json', 'w') as g:
