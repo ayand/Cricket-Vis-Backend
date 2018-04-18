@@ -9,6 +9,9 @@ games = [656399,656401,656403,656405,656407,656409,656411,656413,656415,
 inputFile = open("allBalls.json", "r")
 allBalls = json.load(inputFile)
 
+playerFile = open("players.json")
+playerDict = json.load(playerFile)
+
 partnershipList = []
 
 for game in games:
@@ -21,6 +24,9 @@ for game in games:
         runs_scored = ball["runs_batter"]
         if batsman not in battingDict:
             battingDict[batsman] = {}
+            #print(playerDict[str(ball["batsman"])]["team"])
+            battingDict[batsman]["team"] = ball["batting_team"]
+            #print(str(battingDict[batsman]))
         if non_striker not in battingDict:
             battingDict[non_striker] = {}
         if non_striker not in battingDict[batsman]:
@@ -28,20 +34,28 @@ for game in games:
         if batsman not in battingDict[non_striker]:
             battingDict[non_striker][batsman] = 0
         battingDict[batsman][non_striker] += runs_scored
+        battingDict[batsman]["team"] = ball["batting_team"]
+        battingDict[non_striker]["team"] = ball["batting_team"]
+        print(str(battingDict[batsman]))
     partnershipSet = set()
+    """print("Dictionary:")
+    print(str(battingDict))"""
     for key in battingDict:
         for subkey in battingDict[key]:
-            print("Key: " + key + ", Subkey: " + subkey)
-            names = [key, subkey]
-            names.sort()
-            if (names[0], names[1]) not in partnershipSet:
-                print(str(battingDict[names[0]][names[1]]))
-                print(str(battingDict[names[1]][names[0]]))
-                row1 = { "batsman_1": names[0], "batsman_2": names[1], "game": game, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
-                row2 = { "batsman_1": names[1], "batsman_2": names[0], "game": game, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
-                partnershipList.append(row1)
-                partnershipList.append(row2)
-                partnershipSet.add((names[0], names[1]))
+            if subkey != "team":
+                #print("Key: " + key + ", Subkey: " + subkey)
+                names = [key, subkey]
+                names.sort()
+                if (names[0], names[1]) not in partnershipSet:
+                    print(key)
+                    print(str(battingDict[key]))
+                    team = battingDict[key]["team"]
+                    #print("Team: " + battingDict[key]["team"])
+                    row1 = { "batsman_1": names[0], "batsman_2": names[1], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                    row2 = { "batsman_1": names[1], "batsman_2": names[0], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                    partnershipList.append(row1)
+                    partnershipList.append(row2)
+                    partnershipSet.add((names[0], names[1]))
 
 with open('partnerships.json', 'w') as g:
      json.dump(partnershipList, g, indent=1)
