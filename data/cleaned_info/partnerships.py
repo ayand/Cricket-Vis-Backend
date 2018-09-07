@@ -51,10 +51,10 @@ for game in games:
                     print(str(battingDict[key]))
                     team = battingDict[key]["team"]
                     #print("Team: " + battingDict[key]["team"])
-                    row1 = { "batsman_1": key, "batsman_2": subkey, "game": game, "team": team, "score": battingDict[key][subkey] + battingDict[subkey][key] }
-                    #row2 = { "batsman_1": names[1], "batsman_2": names[0], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                    row1 = { "batsman_1": names[0], "batsman_2": names[1], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                    row2 = { "batsman_1": names[1], "batsman_2": names[0], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
                     partnershipList.append(row1)
-                    #partnershipList.append(row2)
+                    partnershipList.append(row2)
                     partnershipSet.add((names[0], names[1]))
 
 with open('partnerships.json', 'w') as g:
