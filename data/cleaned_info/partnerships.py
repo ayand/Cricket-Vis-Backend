@@ -51,8 +51,20 @@ for game in games:
                     print(str(battingDict[key]))
                     team = battingDict[key]["team"]
                     #print("Team: " + battingDict[key]["team"])
-                    row1 = { "batsman_1": names[0], "batsman_2": names[1], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
-                    row2 = { "batsman_1": names[1], "batsman_2": names[0], "game": game, "team": team, "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]] }
+                    row1 = { "batsman_1": names[0],\
+                            "batsman_2": names[1],\
+                            "game": game,\
+                            "team": team,\
+                            "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]],\
+                            "batsman_1_score": battingDict[names[0]][names[1]],\
+                            "batsman_2_score": battingDict[names[1]][names[0]] }
+                    row2 = { "batsman_1": names[1],\
+                            "batsman_2": names[0],\
+                            "game": game,\
+                            "team": team,\
+                            "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]],\
+                            "batsman_1_score": battingDict[names[1]][names[0]],\
+                            "batsman_2_score": battingDict[names[0]][names[1]] }
                     partnershipList.append(row1)
                     partnershipList.append(row2)
                     partnershipSet.add((names[0], names[1]))
