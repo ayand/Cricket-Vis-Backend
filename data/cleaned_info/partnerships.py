@@ -1,5 +1,10 @@
 import json
 
+def partnershipOrdering(a, b):
+    if a["game"] == b["game"]:
+        return a["position"] - b["position"]
+    return a["game"] - b["game"]
+
 games = [656399,656401,656403,656405,656407,656409,656411,656413,656415,
     656417,656421,656423,656425,656427,656429,656431,656433,656435,656437,
     656439,656441,656443,656445,656447,656449,656451,656453,656455,656457,
@@ -25,9 +30,7 @@ for game in games:
         non_striker = ball["non_striker"]
         runs_scored = ball["runs_batter"]
         extra_runs = ball["extras"]
-        if ball["batting_team"] != currentTeam:
-            currentTeam = ball["batting_team"]
-            currentPosition = 0
+        
         if batsman not in battingDict:
             battingDict[batsman] = {}
             #print(playerDict[str(ball["batsman"])]["team"])
@@ -85,6 +88,7 @@ for game in games:
                     partnershipList.append(row2)
                     partnershipSet.add((names[0], names[1]))
 
+partnershipList = sorted(partnershipList, cmp=partnershipOrdering)
 with open('partnerships.json', 'w') as g:
      json.dump(partnershipList, g, indent=1)
 print("Done")
