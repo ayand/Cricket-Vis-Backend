@@ -22,6 +22,7 @@ for game in games:
         batsman = ball["batsman_name"]
         non_striker = ball["non_striker"]
         runs_scored = ball["runs_batter"]
+        extra_runs = ball["extras"]
         if batsman not in battingDict:
             battingDict[batsman] = {}
             #print(playerDict[str(ball["batsman"])]["team"])
@@ -30,10 +31,11 @@ for game in games:
         if non_striker not in battingDict:
             battingDict[non_striker] = {}
         if non_striker not in battingDict[batsman]:
-            battingDict[batsman][non_striker] = 0
+            battingDict[batsman][non_striker] = { "score": 0, "extras": 0 }
         if batsman not in battingDict[non_striker]:
-            battingDict[non_striker][batsman] = 0
-        battingDict[batsman][non_striker] += runs_scored
+            battingDict[non_striker][batsman] = { "score": 0, "extras": 0 }
+        battingDict[batsman][non_striker]["score"] += runs_scored
+        battingDict[batsman][non_striker]["extras"] += extra_runs
         battingDict[batsman]["team"] = ball["batting_team"]
         battingDict[non_striker]["team"] = ball["batting_team"]
         print(str(battingDict[batsman]))
@@ -51,20 +53,24 @@ for game in games:
                     print(str(battingDict[key]))
                     team = battingDict[key]["team"]
                     #print("Team: " + battingDict[key]["team"])
+                    score = battingDict[names[0]][names[1]]["score"] \
+                        + battingDict[names[1]][names[0]]["score"]\
+                        + battingDict[names[0]][names[1]]["extras"]\
+                        + battingDict[names[1]][names[0]]["extras"]
                     row1 = { "batsman_1": names[0],\
                             "batsman_2": names[1],\
                             "game": game,\
                             "team": team,\
-                            "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]],\
-                            "batsman_1_score": battingDict[names[0]][names[1]],\
-                            "batsman_2_score": battingDict[names[1]][names[0]] }
+                            "score": score,\
+                            "batsman_1_score": battingDict[names[0]][names[1]]["score"],\
+                            "batsman_2_score": battingDict[names[1]][names[0]]["score"] }
                     row2 = { "batsman_1": names[1],\
                             "batsman_2": names[0],\
                             "game": game,\
                             "team": team,\
-                            "score": battingDict[names[0]][names[1]] + battingDict[names[1]][names[0]],\
-                            "batsman_1_score": battingDict[names[1]][names[0]],\
-                            "batsman_2_score": battingDict[names[0]][names[1]] }
+                            "score": score,\
+                            "batsman_1_score": battingDict[names[1]][names[0]]["score"],\
+                            "batsman_2_score": battingDict[names[0]][names[1]]["score"] }
                     partnershipList.append(row1)
                     partnershipList.append(row2)
                     partnershipSet.add((names[0], names[1]))

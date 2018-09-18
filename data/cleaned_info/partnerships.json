@@ -23,7 +23,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Rangana Herath", 
   "game": 656399, 
-  "score": 17, 
+  "score": 20, 
   "team": "Sri Lanka"
  }, 
  {
@@ -32,7 +32,7 @@
   "batsman_1": "Rangana Herath", 
   "batsman_2": "Angelo Mathews", 
   "game": 656399, 
-  "score": 17, 
+  "score": 20, 
   "team": "Sri Lanka"
  }, 
  {
@@ -41,7 +41,7 @@
   "batsman_1": "Rangana Herath", 
   "batsman_2": "Suranga Lakmal", 
   "game": 656399, 
-  "score": 14, 
+  "score": 16, 
   "team": "Sri Lanka"
  }, 
  {
@@ -50,7 +50,7 @@
   "batsman_1": "Suranga Lakmal", 
   "batsman_2": "Rangana Herath", 
   "game": 656399, 
-  "score": 14, 
+  "score": 16, 
   "team": "Sri Lanka"
  }, 
  {
@@ -59,7 +59,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Luke Ronchi", 
   "game": 656399, 
-  "score": 72, 
+  "score": 73, 
   "team": "New Zealand"
  }, 
  {
@@ -68,7 +68,7 @@
   "batsman_1": "Luke Ronchi", 
   "batsman_2": "Corey Anderson", 
   "game": 656399, 
-  "score": 72, 
+  "score": 73, 
   "team": "New Zealand"
  }, 
  {
@@ -77,7 +77,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Nuwan Kulasekara", 
   "game": 656399, 
-  "score": 25, 
+  "score": 28, 
   "team": "Sri Lanka"
  }, 
  {
@@ -86,7 +86,7 @@
   "batsman_1": "Nuwan Kulasekara", 
   "batsman_2": "Angelo Mathews", 
   "game": 656399, 
-  "score": 25, 
+  "score": 28, 
   "team": "Sri Lanka"
  }, 
  {
@@ -131,7 +131,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Martin Guptill", 
   "game": 656399, 
-  "score": 104, 
+  "score": 111, 
   "team": "New Zealand"
  }, 
  {
@@ -140,7 +140,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Brendon McCullum", 
   "game": 656399, 
-  "score": 104, 
+  "score": 111, 
   "team": "New Zealand"
  }, 
  {
@@ -167,7 +167,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Grant Elliott", 
   "game": 656399, 
-  "score": 61, 
+  "score": 65, 
   "team": "New Zealand"
  }, 
  {
@@ -176,7 +176,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Corey Anderson", 
   "game": 656399, 
-  "score": 61, 
+  "score": 65, 
   "team": "New Zealand"
  }, 
  {
@@ -185,7 +185,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Dimuth Karunaratne", 
   "game": 656399, 
-  "score": 33, 
+  "score": 34, 
   "team": "Sri Lanka"
  }, 
  {
@@ -194,7 +194,7 @@
   "batsman_1": "Dimuth Karunaratne", 
   "batsman_2": "Angelo Mathews", 
   "game": 656399, 
-  "score": 33, 
+  "score": 34, 
   "team": "Sri Lanka"
  }, 
  {
@@ -221,7 +221,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Lahiru Thirimanne", 
   "game": 656399, 
-  "score": 56, 
+  "score": 57, 
   "team": "Sri Lanka"
  }, 
  {
@@ -230,7 +230,7 @@
   "batsman_1": "Lahiru Thirimanne", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656399, 
-  "score": 56, 
+  "score": 57, 
   "team": "Sri Lanka"
  }, 
  {
@@ -239,7 +239,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Ross Taylor", 
   "game": 656399, 
-  "score": 56, 
+  "score": 57, 
   "team": "New Zealand"
  }, 
  {
@@ -248,7 +248,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Kane Williamson", 
   "game": 656399, 
-  "score": 56, 
+  "score": 57, 
   "team": "New Zealand"
  }, 
  {
@@ -257,7 +257,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Jeevan Mendis", 
   "game": 656399, 
-  "score": 4, 
+  "score": 5, 
   "team": "Sri Lanka"
  }, 
  {
@@ -266,7 +266,7 @@
   "batsman_1": "Jeevan Mendis", 
   "batsman_2": "Angelo Mathews", 
   "game": 656399, 
-  "score": 4, 
+  "score": 5, 
   "team": "Sri Lanka"
  }, 
  {
@@ -329,7 +329,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "David Warner", 
   "game": 656401, 
-  "score": 55, 
+  "score": 57, 
   "team": "Australia"
  }, 
  {
@@ -338,7 +338,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Aaron Finch", 
   "game": 656401, 
-  "score": 55, 
+  "score": 57, 
   "team": "Australia"
  }, 
  {
@@ -347,7 +347,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "George Bailey", 
   "game": 656401, 
-  "score": 144, 
+  "score": 146, 
   "team": "Australia"
  }, 
  {
@@ -356,7 +356,7 @@
   "batsman_1": "George Bailey", 
   "batsman_2": "Aaron Finch", 
   "game": 656401, 
-  "score": 144, 
+  "score": 146, 
   "team": "Australia"
  }, 
  {
@@ -365,7 +365,7 @@
   "batsman_1": "Glenn Maxwell", 
   "batsman_2": "Mitchell Marsh", 
   "game": 656401, 
-  "score": 52, 
+  "score": 53, 
   "team": "Australia"
  }, 
  {
@@ -374,7 +374,7 @@
   "batsman_1": "Mitchell Marsh", 
   "batsman_2": "Glenn Maxwell", 
   "game": 656401, 
-  "score": 52, 
+  "score": 53, 
   "team": "Australia"
  }, 
  {
@@ -401,7 +401,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Moeen Ali", 
   "game": 656401, 
-  "score": 22, 
+  "score": 25, 
   "team": "England"
  }, 
  {
@@ -410,7 +410,7 @@
   "batsman_1": "Moeen Ali", 
   "batsman_2": "Ian Bell", 
   "game": 656401, 
-  "score": 22, 
+  "score": 25, 
   "team": "England"
  }, 
  {
@@ -419,7 +419,7 @@
   "batsman_1": "Gary Ballance", 
   "batsman_2": "Ian Bell", 
   "game": 656401, 
-  "score": 22, 
+  "score": 24, 
   "team": "England"
  }, 
  {
@@ -428,7 +428,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Gary Ballance", 
   "game": 656401, 
-  "score": 22, 
+  "score": 24, 
   "team": "England"
  }, 
  {
@@ -545,7 +545,7 @@
   "batsman_1": "James Anderson", 
   "batsman_2": "James Taylor", 
   "game": 656401, 
-  "score": 30, 
+  "score": 36, 
   "team": "England"
  }, 
  {
@@ -554,7 +554,7 @@
   "batsman_1": "James Taylor", 
   "batsman_2": "James Anderson", 
   "game": 656401, 
-  "score": 30, 
+  "score": 36, 
   "team": "England"
  }, 
  {
@@ -563,7 +563,7 @@
   "batsman_1": "James Taylor", 
   "batsman_2": "Jos Buttler", 
   "game": 656401, 
-  "score": 16, 
+  "score": 19, 
   "team": "England"
  }, 
  {
@@ -572,7 +572,7 @@
   "batsman_1": "Jos Buttler", 
   "batsman_2": "James Taylor", 
   "game": 656401, 
-  "score": 16, 
+  "score": 19, 
   "team": "England"
  }, 
  {
@@ -581,7 +581,7 @@
   "batsman_1": "Eoin Morgan", 
   "batsman_2": "James Taylor", 
   "game": 656401, 
-  "score": 5, 
+  "score": 7, 
   "team": "England"
  }, 
  {
@@ -590,7 +590,7 @@
   "batsman_1": "James Taylor", 
   "batsman_2": "Eoin Morgan", 
   "game": 656401, 
-  "score": 5, 
+  "score": 7, 
   "team": "England"
  }, 
  {
@@ -635,7 +635,7 @@
   "batsman_1": "Solomon Mire", 
   "batsman_2": "Tendai Chatara", 
   "game": 656403, 
-  "score": 26, 
+  "score": 27, 
   "team": "Zimbabwe"
  }, 
  {
@@ -644,7 +644,7 @@
   "batsman_1": "Tendai Chatara", 
   "batsman_2": "Solomon Mire", 
   "game": 656403, 
-  "score": 26, 
+  "score": 27, 
   "team": "Zimbabwe"
  }, 
  {
@@ -653,7 +653,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Solomon Mire", 
   "game": 656403, 
-  "score": 3, 
+  "score": 4, 
   "team": "Zimbabwe"
  }, 
  {
@@ -662,7 +662,7 @@
   "batsman_1": "Solomon Mire", 
   "batsman_2": "Craig Ervine", 
   "game": 656403, 
-  "score": 3, 
+  "score": 4, 
   "team": "Zimbabwe"
  }, 
  {
@@ -689,7 +689,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Elton Chigumbura", 
   "game": 656403, 
-  "score": 17, 
+  "score": 18, 
   "team": "Zimbabwe"
  }, 
  {
@@ -698,7 +698,7 @@
   "batsman_1": "Elton Chigumbura", 
   "batsman_2": "Craig Ervine", 
   "game": 656403, 
-  "score": 17, 
+  "score": 18, 
   "team": "Zimbabwe"
  }, 
  {
@@ -725,7 +725,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Hashim Amla", 
   "game": 656403, 
-  "score": 10, 
+  "score": 11, 
   "team": "South Africa"
  }, 
  {
@@ -734,7 +734,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Faf du Plessis", 
   "game": 656403, 
-  "score": 10, 
+  "score": 11, 
   "team": "South Africa"
  }, 
  {
@@ -743,7 +743,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Quinton de Kock", 
   "game": 656403, 
-  "score": 9, 
+  "score": 10, 
   "team": "South Africa"
  }, 
  {
@@ -752,7 +752,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Hashim Amla", 
   "game": 656403, 
-  "score": 9, 
+  "score": 10, 
   "team": "South Africa"
  }, 
  {
@@ -761,7 +761,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Hamilton Masakadza", 
   "game": 656403, 
-  "score": 52, 
+  "score": 54, 
   "team": "Zimbabwe"
  }, 
  {
@@ -770,7 +770,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Brendan Taylor", 
   "game": 656403, 
-  "score": 52, 
+  "score": 54, 
   "team": "Zimbabwe"
  }, 
  {
@@ -779,7 +779,7 @@
   "batsman_1": "Chamu Chibhabha", 
   "batsman_2": "Hamilton Masakadza", 
   "game": 656403, 
-  "score": 98, 
+  "score": 105, 
   "team": "Zimbabwe"
  }, 
  {
@@ -788,7 +788,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Chamu Chibhabha", 
   "game": 656403, 
-  "score": 98, 
+  "score": 105, 
   "team": "Zimbabwe"
  }, 
  {
@@ -797,7 +797,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sean Williams", 
   "game": 656403, 
-  "score": 22, 
+  "score": 23, 
   "team": "Zimbabwe"
  }, 
  {
@@ -806,7 +806,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Brendan Taylor", 
   "game": 656403, 
-  "score": 22, 
+  "score": 23, 
   "team": "Zimbabwe"
  }, 
  {
@@ -833,7 +833,7 @@
   "batsman_1": "Chamu Chibhabha", 
   "batsman_2": "Sikandar Raza", 
   "game": 656403, 
-  "score": 23, 
+  "score": 32, 
   "team": "Zimbabwe"
  }, 
  {
@@ -842,7 +842,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Chamu Chibhabha", 
   "game": 656403, 
-  "score": 23, 
+  "score": 32, 
   "team": "Zimbabwe"
  }, 
  {
@@ -851,7 +851,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Faf du Plessis", 
   "game": 656403, 
-  "score": 43, 
+  "score": 46, 
   "team": "South Africa"
  }, 
  {
@@ -860,7 +860,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "AB de Villiers", 
   "game": 656403, 
-  "score": 43, 
+  "score": 46, 
   "team": "South Africa"
  }, 
  {
@@ -869,7 +869,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "David Miller", 
   "game": 656403, 
-  "score": 15, 
+  "score": 16, 
   "team": "South Africa"
  }, 
  {
@@ -878,7 +878,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "AB de Villiers", 
   "game": 656403, 
-  "score": 15, 
+  "score": 16, 
   "team": "South Africa"
  }, 
  {
@@ -887,7 +887,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "Jean-Paul Duminy", 
   "game": 656403, 
-  "score": 243, 
+  "score": 256, 
   "team": "South Africa"
  }, 
  {
@@ -896,7 +896,7 @@
   "batsman_1": "Jean-Paul Duminy", 
   "batsman_2": "David Miller", 
   "game": 656403, 
-  "score": 243, 
+  "score": 256, 
   "team": "South Africa"
  }, 
  {
@@ -905,7 +905,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Virat Kohli", 
   "game": 656405, 
-  "score": 127, 
+  "score": 129, 
   "team": "India"
  }, 
  {
@@ -914,7 +914,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656405, 
-  "score": 127, 
+  "score": 129, 
   "team": "India"
  }, 
  {
@@ -923,7 +923,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656405, 
-  "score": 32, 
+  "score": 34, 
   "team": "India"
  }, 
  {
@@ -932,7 +932,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Rohit Sharma", 
   "game": 656405, 
-  "score": 32, 
+  "score": 34, 
   "team": "India"
  }, 
  {
@@ -959,7 +959,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Sohail Khan", 
   "game": 656405, 
-  "score": 16, 
+  "score": 17, 
   "team": "Pakistan"
  }, 
  {
@@ -968,7 +968,7 @@
   "batsman_1": "Sohail Khan", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656405, 
-  "score": 16, 
+  "score": 17, 
   "team": "Pakistan"
  }, 
  {
@@ -1013,7 +1013,7 @@
   "batsman_1": "Suresh Raina", 
   "batsman_2": "Virat Kohli", 
   "game": 656405, 
-  "score": 108, 
+  "score": 110, 
   "team": "India"
  }, 
  {
@@ -1022,7 +1022,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Suresh Raina", 
   "game": 656405, 
-  "score": 108, 
+  "score": 110, 
   "team": "India"
  }, 
  {
@@ -1085,7 +1085,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Yasir Shah", 
   "game": 656405, 
-  "score": 46, 
+  "score": 49, 
   "team": "Pakistan"
  }, 
  {
@@ -1094,7 +1094,7 @@
   "batsman_1": "Yasir Shah", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656405, 
-  "score": 46, 
+  "score": 49, 
   "team": "Pakistan"
  }, 
  {
@@ -1103,7 +1103,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Shahid Afridi", 
   "game": 656405, 
-  "score": 45, 
+  "score": 46, 
   "team": "Pakistan"
  }, 
  {
@@ -1112,7 +1112,7 @@
   "batsman_1": "Shahid Afridi", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656405, 
-  "score": 45, 
+  "score": 46, 
   "team": "Pakistan"
  }, 
  {
@@ -1193,7 +1193,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Younis Khan", 
   "game": 656405, 
-  "score": 10, 
+  "score": 11, 
   "team": "Pakistan"
  }, 
  {
@@ -1202,7 +1202,7 @@
   "batsman_1": "Younis Khan", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656405, 
-  "score": 10, 
+  "score": 11, 
   "team": "Pakistan"
  }, 
  {
@@ -1211,7 +1211,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Haris Sohail", 
   "game": 656405, 
-  "score": 62, 
+  "score": 68, 
   "team": "Pakistan"
  }, 
  {
@@ -1220,7 +1220,7 @@
   "batsman_1": "Haris Sohail", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656405, 
-  "score": 62, 
+  "score": 68, 
   "team": "Pakistan"
  }, 
  {
@@ -1229,7 +1229,7 @@
   "batsman_1": "Andre Russell", 
   "batsman_2": "Lendl Simmons", 
   "game": 656407, 
-  "score": 59, 
+  "score": 61, 
   "team": "West Indies"
  }, 
  {
@@ -1238,7 +1238,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Andre Russell", 
   "game": 656407, 
-  "score": 59, 
+  "score": 61, 
   "team": "West Indies"
  }, 
  {
@@ -1265,7 +1265,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Niall O'Brien", 
   "game": 656407, 
-  "score": 11, 
+  "score": 12, 
   "team": "Ireland"
  }, 
  {
@@ -1274,7 +1274,7 @@
   "batsman_1": "Niall O'Brien", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656407, 
-  "score": 11, 
+  "score": 12, 
   "team": "Ireland"
  }, 
  {
@@ -1283,7 +1283,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Darren Bravo", 
   "game": 656407, 
-  "score": 0, 
+  "score": 1, 
   "team": "West Indies"
  }, 
  {
@@ -1292,7 +1292,7 @@
   "batsman_1": "Darren Bravo", 
   "batsman_2": "Chris Gayle", 
   "game": 656407, 
-  "score": 0, 
+  "score": 1, 
   "team": "West Indies"
  }, 
  {
@@ -1301,7 +1301,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Dwayne Smith", 
   "game": 656407, 
-  "score": 28, 
+  "score": 30, 
   "team": "West Indies"
  }, 
  {
@@ -1310,7 +1310,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Chris Gayle", 
   "game": 656407, 
-  "score": 28, 
+  "score": 30, 
   "team": "West Indies"
  }, 
  {
@@ -1391,7 +1391,7 @@
   "batsman_1": "Darren Sammy", 
   "batsman_2": "Lendl Simmons", 
   "game": 656407, 
-  "score": 149, 
+  "score": 154, 
   "team": "West Indies"
  }, 
  {
@@ -1400,7 +1400,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Darren Sammy", 
   "game": 656407, 
-  "score": 149, 
+  "score": 154, 
   "team": "West Indies"
  }, 
  {
@@ -1427,7 +1427,7 @@
   "batsman_1": "Paul Stirling", 
   "batsman_2": "William Porterfield", 
   "game": 656407, 
-  "score": 61, 
+  "score": 71, 
   "team": "Ireland"
  }, 
  {
@@ -1436,7 +1436,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Paul Stirling", 
   "game": 656407, 
-  "score": 61, 
+  "score": 71, 
   "team": "Ireland"
  }, 
  {
@@ -1445,7 +1445,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "Paul Stirling", 
   "game": 656407, 
-  "score": 105, 
+  "score": 106, 
   "team": "Ireland"
  }, 
  {
@@ -1454,7 +1454,7 @@
   "batsman_1": "Paul Stirling", 
   "batsman_2": "Ed Joyce", 
   "game": 656407, 
-  "score": 105, 
+  "score": 106, 
   "team": "Ireland"
  }, 
  {
@@ -1463,7 +1463,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "Niall O'Brien", 
   "game": 656407, 
-  "score": 95, 
+  "score": 96, 
   "team": "Ireland"
  }, 
  {
@@ -1472,7 +1472,7 @@
   "batsman_1": "Niall O'Brien", 
   "batsman_2": "Ed Joyce", 
   "game": 656407, 
-  "score": 95, 
+  "score": 96, 
   "team": "Ireland"
  }, 
  {
@@ -1553,7 +1553,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Richie Berrington", 
   "game": 656409, 
-  "score": 93, 
+  "score": 97, 
   "team": "Scotland"
  }, 
  {
@@ -1562,7 +1562,7 @@
   "batsman_1": "Richie Berrington", 
   "batsman_2": "Matt Machan", 
   "game": 656409, 
-  "score": 93, 
+  "score": 97, 
   "team": "Scotland"
  }, 
  {
@@ -1607,7 +1607,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Kane Williamson", 
   "game": 656409, 
-  "score": 38, 
+  "score": 40, 
   "team": "New Zealand"
  }, 
  {
@@ -1616,7 +1616,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Grant Elliott", 
   "game": 656409, 
-  "score": 38, 
+  "score": 40, 
   "team": "New Zealand"
  }, 
  {
@@ -1625,7 +1625,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Grant Elliott", 
   "game": 656409, 
-  "score": 10, 
+  "score": 11, 
   "team": "New Zealand"
  }, 
  {
@@ -1634,7 +1634,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Corey Anderson", 
   "game": 656409, 
-  "score": 10, 
+  "score": 11, 
   "team": "New Zealand"
  }, 
  {
@@ -1661,7 +1661,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Ross Taylor", 
   "game": 656409, 
-  "score": 16, 
+  "score": 18, 
   "team": "New Zealand"
  }, 
  {
@@ -1670,7 +1670,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Kane Williamson", 
   "game": 656409, 
-  "score": 16, 
+  "score": 18, 
   "team": "New Zealand"
  }, 
  {
@@ -1697,7 +1697,7 @@
   "batsman_1": "Calum MacLeod", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656409, 
-  "score": 0, 
+  "score": 1, 
   "team": "Scotland"
  }, 
  {
@@ -1706,7 +1706,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Calum MacLeod", 
   "game": 656409, 
-  "score": 0, 
+  "score": 1, 
   "team": "Scotland"
  }, 
  {
@@ -1733,7 +1733,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Matt Machan", 
   "game": 656409, 
-  "score": 10, 
+  "score": 11, 
   "team": "Scotland"
  }, 
  {
@@ -1742,7 +1742,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656409, 
-  "score": 10, 
+  "score": 11, 
   "team": "Scotland"
  }, 
  {
@@ -1805,7 +1805,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Kane Williamson", 
   "game": 656409, 
-  "score": 29, 
+  "score": 30, 
   "team": "New Zealand"
  }, 
  {
@@ -1814,7 +1814,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Brendon McCullum", 
   "game": 656409, 
-  "score": 29, 
+  "score": 30, 
   "team": "New Zealand"
  }, 
  {
@@ -1823,7 +1823,7 @@
   "batsman_1": "Anamul Haque", 
   "batsman_2": "Tamim Iqbal", 
   "game": 656411, 
-  "score": 43, 
+  "score": 47, 
   "team": "Bangladesh"
  }, 
  {
@@ -1832,7 +1832,7 @@
   "batsman_1": "Tamim Iqbal", 
   "batsman_2": "Anamul Haque", 
   "game": 656411, 
-  "score": 43, 
+  "score": 47, 
   "team": "Bangladesh"
  }, 
  {
@@ -1841,7 +1841,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656411, 
-  "score": 60, 
+  "score": 62, 
   "team": "Afghanistan"
  }, 
  {
@@ -1850,7 +1850,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656411, 
-  "score": 60, 
+  "score": 62, 
   "team": "Afghanistan"
  }, 
  {
@@ -1949,7 +1949,7 @@
   "batsman_1": "Mohammad Nabi", 
   "batsman_2": "Najibullah Zadran", 
   "game": 656411, 
-  "score": 57, 
+  "score": 58, 
   "team": "Afghanistan"
  }, 
  {
@@ -1958,7 +1958,7 @@
   "batsman_1": "Najibullah Zadran", 
   "batsman_2": "Mohammad Nabi", 
   "game": 656411, 
-  "score": 57, 
+  "score": 58, 
   "team": "Afghanistan"
  }, 
  {
@@ -1967,7 +1967,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656411, 
-  "score": 47, 
+  "score": 50, 
   "team": "Bangladesh"
  }, 
  {
@@ -1976,7 +1976,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656411, 
-  "score": 47, 
+  "score": 50, 
   "team": "Bangladesh"
  }, 
  {
@@ -2039,7 +2039,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656411, 
-  "score": 112, 
+  "score": 114, 
   "team": "Bangladesh"
  }, 
  {
@@ -2048,7 +2048,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656411, 
-  "score": 112, 
+  "score": 114, 
   "team": "Bangladesh"
  }, 
  {
@@ -2075,7 +2075,7 @@
   "batsman_1": "Rubel Hossain", 
   "batsman_2": "Taskin Ahmed", 
   "game": 656411, 
-  "score": 1, 
+  "score": 4, 
   "team": "Bangladesh"
  }, 
  {
@@ -2084,7 +2084,7 @@
   "batsman_1": "Taskin Ahmed", 
   "batsman_2": "Rubel Hossain", 
   "game": 656411, 
-  "score": 1, 
+  "score": 4, 
   "team": "Bangladesh"
  }, 
  {
@@ -2129,7 +2129,7 @@
   "batsman_1": "Mashrafe Mortaza", 
   "batsman_2": "Mominul Haque", 
   "game": 656411, 
-  "score": 15, 
+  "score": 16, 
   "team": "Bangladesh"
  }, 
  {
@@ -2138,7 +2138,7 @@
   "batsman_1": "Mominul Haque", 
   "batsman_2": "Mashrafe Mortaza", 
   "game": 656411, 
-  "score": 15, 
+  "score": 16, 
   "team": "Bangladesh"
  }, 
  {
@@ -2201,7 +2201,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "game": 656413, 
-  "score": 14, 
+  "score": 19, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2210,7 +2210,7 @@
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "game": 656413, 
-  "score": 14, 
+  "score": 19, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2237,7 +2237,7 @@
   "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Krishna Chandran", 
   "game": 656413, 
-  "score": 4, 
+  "score": 5, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2246,7 +2246,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Andri Raffaelo", 
   "game": 656413, 
-  "score": 4, 
+  "score": 5, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2255,7 +2255,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Sean Williams", 
   "game": 656413, 
-  "score": 80, 
+  "score": 83, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2264,7 +2264,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Craig Ervine", 
   "game": 656413, 
-  "score": 80, 
+  "score": 83, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2273,7 +2273,7 @@
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Krishna Chandran", 
   "game": 656413, 
-  "score": 8, 
+  "score": 9, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2282,7 +2282,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Andri Berenger", 
   "game": 656413, 
-  "score": 8, 
+  "score": 9, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2309,7 +2309,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Mohammad Naveed", 
   "game": 656413, 
-  "score": 47, 
+  "score": 53, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2318,7 +2318,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Amjad Javed", 
   "game": 656413, 
-  "score": 47, 
+  "score": 53, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2327,7 +2327,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Krishna Chandran", 
   "game": 656413, 
-  "score": 73, 
+  "score": 82, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2336,7 +2336,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Khurram Khan", 
   "game": 656413, 
-  "score": 73, 
+  "score": 82, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2345,7 +2345,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Sikandar Raza", 
   "game": 656413, 
-  "score": 59, 
+  "score": 64, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2354,7 +2354,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Regis Chakabva", 
   "game": 656413, 
-  "score": 59, 
+  "score": 64, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2363,7 +2363,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Regis Chakabva", 
   "game": 656413, 
-  "score": 38, 
+  "score": 40, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2372,7 +2372,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Brendan Taylor", 
   "game": 656413, 
-  "score": 38, 
+  "score": 40, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2381,7 +2381,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Regis Chakabva", 
   "game": 656413, 
-  "score": 6, 
+  "score": 8, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2390,7 +2390,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Hamilton Masakadza", 
   "game": 656413, 
-  "score": 6, 
+  "score": 8, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2417,7 +2417,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Solomon Mire", 
   "game": 656413, 
-  "score": 19, 
+  "score": 23, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2426,7 +2426,7 @@
   "batsman_1": "Solomon Mire", 
   "batsman_2": "Sean Williams", 
   "game": 656413, 
-  "score": 19, 
+  "score": 23, 
   "team": "Zimbabwe"
  }, 
  {
@@ -2453,7 +2453,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Swapnil Patil", 
   "game": 656413, 
-  "score": 79, 
+  "score": 82, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2462,7 +2462,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656413, 
-  "score": 79, 
+  "score": 82, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2471,7 +2471,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656413, 
-  "score": 13, 
+  "score": 14, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2480,7 +2480,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Rohan Mustafa", 
   "game": 656413, 
-  "score": 13, 
+  "score": 14, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -2489,7 +2489,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Ross Taylor", 
   "game": 656415, 
-  "score": 8, 
+  "score": 13, 
   "team": "New Zealand"
  }, 
  {
@@ -2498,7 +2498,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Kane Williamson", 
   "game": 656415, 
-  "score": 8, 
+  "score": 13, 
   "team": "New Zealand"
  }, 
  {
@@ -2525,7 +2525,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Martin Guptill", 
   "game": 656415, 
-  "score": 98, 
+  "score": 105, 
   "team": "New Zealand"
  }, 
  {
@@ -2534,7 +2534,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Brendon McCullum", 
   "game": 656415, 
-  "score": 98, 
+  "score": 105, 
   "team": "New Zealand"
  }, 
  {
@@ -2543,7 +2543,7 @@
   "batsman_1": "Gary Ballance", 
   "batsman_2": "Moeen Ali", 
   "game": 656415, 
-  "score": 17, 
+  "score": 18, 
   "team": "England"
  }, 
  {
@@ -2552,7 +2552,7 @@
   "batsman_1": "Moeen Ali", 
   "batsman_2": "Gary Ballance", 
   "game": 656415, 
-  "score": 17, 
+  "score": 18, 
   "team": "England"
  }, 
  {
@@ -2561,7 +2561,7 @@
   "batsman_1": "Gary Ballance", 
   "batsman_2": "Joe Root", 
   "game": 656415, 
-  "score": 17, 
+  "score": 21, 
   "team": "England"
  }, 
  {
@@ -2570,7 +2570,7 @@
   "batsman_1": "Joe Root", 
   "batsman_2": "Gary Ballance", 
   "game": 656415, 
-  "score": 17, 
+  "score": 21, 
   "team": "England"
  }, 
  {
@@ -2615,7 +2615,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Moeen Ali", 
   "game": 656415, 
-  "score": 15, 
+  "score": 18, 
   "team": "England"
  }, 
  {
@@ -2624,7 +2624,7 @@
   "batsman_1": "Moeen Ali", 
   "batsman_2": "Ian Bell", 
   "game": 656415, 
-  "score": 15, 
+  "score": 18, 
   "team": "England"
  }, 
  {
@@ -2651,7 +2651,7 @@
   "batsman_1": "Chris Woakes", 
   "batsman_2": "Joe Root", 
   "game": 656415, 
-  "score": 1, 
+  "score": 2, 
   "team": "England"
  }, 
  {
@@ -2660,7 +2660,7 @@
   "batsman_1": "Joe Root", 
   "batsman_2": "Chris Woakes", 
   "game": 656415, 
-  "score": 1, 
+  "score": 2, 
   "team": "England"
  }, 
  {
@@ -2705,7 +2705,7 @@
   "batsman_1": "Eoin Morgan", 
   "batsman_2": "Joe Root", 
   "game": 656415, 
-  "score": 43, 
+  "score": 47, 
   "team": "England"
  }, 
  {
@@ -2714,7 +2714,7 @@
   "batsman_1": "Joe Root", 
   "batsman_2": "Eoin Morgan", 
   "game": 656415, 
-  "score": 43, 
+  "score": 47, 
   "team": "England"
  }, 
  {
@@ -2741,7 +2741,7 @@
   "batsman_1": "Andre Russell", 
   "batsman_2": "Lendl Simmons", 
   "game": 656417, 
-  "score": 47, 
+  "score": 51, 
   "team": "West Indies"
  }, 
  {
@@ -2750,7 +2750,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Andre Russell", 
   "game": 656417, 
-  "score": 47, 
+  "score": 51, 
   "team": "West Indies"
  }, 
  {
@@ -2777,7 +2777,7 @@
   "batsman_1": "Shahid Afridi", 
   "batsman_2": "Wahab Riaz", 
   "game": 656417, 
-  "score": 14, 
+  "score": 16, 
   "team": "Pakistan"
  }, 
  {
@@ -2786,7 +2786,7 @@
   "batsman_1": "Wahab Riaz", 
   "batsman_2": "Shahid Afridi", 
   "game": 656417, 
-  "score": 14, 
+  "score": 16, 
   "team": "Pakistan"
  }, 
  {
@@ -2795,7 +2795,7 @@
   "batsman_1": "Sohaib Maqsood", 
   "batsman_2": "Umar Akmal", 
   "game": 656417, 
-  "score": 77, 
+  "score": 80, 
   "team": "Pakistan"
  }, 
  {
@@ -2804,7 +2804,7 @@
   "batsman_1": "Umar Akmal", 
   "batsman_2": "Sohaib Maqsood", 
   "game": 656417, 
-  "score": 77, 
+  "score": 80, 
   "team": "Pakistan"
  }, 
  {
@@ -2813,7 +2813,7 @@
   "batsman_1": "Shahid Afridi", 
   "batsman_2": "Umar Akmal", 
   "game": 656417, 
-  "score": 32, 
+  "score": 34, 
   "team": "Pakistan"
  }, 
  {
@@ -2822,7 +2822,7 @@
   "batsman_1": "Umar Akmal", 
   "batsman_2": "Shahid Afridi", 
   "game": 656417, 
-  "score": 32, 
+  "score": 34, 
   "team": "Pakistan"
  }, 
  {
@@ -2849,7 +2849,7 @@
   "batsman_1": "Darren Bravo", 
   "batsman_2": "Denesh Ramdin", 
   "game": 656417, 
-  "score": 48, 
+  "score": 49, 
   "team": "West Indies"
  }, 
  {
@@ -2858,7 +2858,7 @@
   "batsman_1": "Denesh Ramdin", 
   "batsman_2": "Darren Bravo", 
   "game": 656417, 
-  "score": 48, 
+  "score": 49, 
   "team": "West Indies"
  }, 
  {
@@ -2867,7 +2867,7 @@
   "batsman_1": "Darren Bravo", 
   "batsman_2": "Marlon Samuels", 
   "game": 656417, 
-  "score": 69, 
+  "score": 75, 
   "team": "West Indies"
  }, 
  {
@@ -2876,7 +2876,7 @@
   "batsman_1": "Marlon Samuels", 
   "batsman_2": "Darren Bravo", 
   "game": 656417, 
-  "score": 69, 
+  "score": 75, 
   "team": "West Indies"
  }, 
  {
@@ -2885,7 +2885,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Dwayne Smith", 
   "game": 656417, 
-  "score": 16, 
+  "score": 17, 
   "team": "West Indies"
  }, 
  {
@@ -2894,7 +2894,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Chris Gayle", 
   "game": 656417, 
-  "score": 16, 
+  "score": 17, 
   "team": "West Indies"
  }, 
  {
@@ -2903,7 +2903,7 @@
   "batsman_1": "Denesh Ramdin", 
   "batsman_2": "Lendl Simmons", 
   "game": 656417, 
-  "score": 40, 
+  "score": 42, 
   "team": "West Indies"
  }, 
  {
@@ -2912,7 +2912,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Denesh Ramdin", 
   "game": 656417, 
-  "score": 40, 
+  "score": 42, 
   "team": "West Indies"
  }, 
  {
@@ -2921,7 +2921,7 @@
   "batsman_1": "Darren Sammy", 
   "batsman_2": "Lendl Simmons", 
   "game": 656417, 
-  "score": 56, 
+  "score": 65, 
   "team": "West Indies"
  }, 
  {
@@ -2930,7 +2930,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Darren Sammy", 
   "game": 656417, 
-  "score": 56, 
+  "score": 65, 
   "team": "West Indies"
  }, 
  {
@@ -2975,7 +2975,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Sohaib Maqsood", 
   "game": 656417, 
-  "score": 22, 
+  "score": 24, 
   "team": "Pakistan"
  }, 
  {
@@ -2984,7 +2984,7 @@
   "batsman_1": "Sohaib Maqsood", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656417, 
-  "score": 22, 
+  "score": 24, 
   "team": "Pakistan"
  }, 
  {
@@ -3083,7 +3083,7 @@
   "batsman_1": "Dimuth Karunaratne", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656421, 
-  "score": 15, 
+  "score": 16, 
   "team": "Sri Lanka"
  }, 
  {
@@ -3092,7 +3092,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Dimuth Karunaratne", 
   "game": 656421, 
-  "score": 15, 
+  "score": 16, 
   "team": "Sri Lanka"
  }, 
  {
@@ -3101,7 +3101,7 @@
   "batsman_1": "Afsar Zazai", 
   "batsman_2": "Mirwais Ashraf", 
   "game": 656421, 
-  "score": 40, 
+  "score": 46, 
   "team": "Afghanistan"
  }, 
  {
@@ -3110,7 +3110,7 @@
   "batsman_1": "Mirwais Ashraf", 
   "batsman_2": "Afsar Zazai", 
   "game": 656421, 
-  "score": 40, 
+  "score": 46, 
   "team": "Afghanistan"
  }, 
  {
@@ -3119,7 +3119,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Mahela Jayawardene", 
   "game": 656421, 
-  "score": 123, 
+  "score": 126, 
   "team": "Sri Lanka"
  }, 
  {
@@ -3128,7 +3128,7 @@
   "batsman_1": "Mahela Jayawardene", 
   "batsman_2": "Angelo Mathews", 
   "game": 656421, 
-  "score": 123, 
+  "score": 126, 
   "team": "Sri Lanka"
  }, 
  {
@@ -3137,7 +3137,7 @@
   "batsman_1": "Asghar Stanikzai", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656421, 
-  "score": 80, 
+  "score": 88, 
   "team": "Afghanistan"
  }, 
  {
@@ -3146,7 +3146,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Asghar Stanikzai", 
   "game": 656421, 
-  "score": 80, 
+  "score": 88, 
   "team": "Afghanistan"
  }, 
  {
@@ -3155,7 +3155,7 @@
   "batsman_1": "Mohammad Nabi", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656421, 
-  "score": 26, 
+  "score": 29, 
   "team": "Afghanistan"
  }, 
  {
@@ -3164,7 +3164,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Mohammad Nabi", 
   "game": 656421, 
-  "score": 26, 
+  "score": 29, 
   "team": "Afghanistan"
  }, 
  {
@@ -3227,7 +3227,7 @@
   "batsman_1": "Jeevan Mendis", 
   "batsman_2": "Thisara Perera", 
   "game": 656421, 
-  "score": 56, 
+  "score": 58, 
   "team": "Sri Lanka"
  }, 
  {
@@ -3236,7 +3236,7 @@
   "batsman_1": "Thisara Perera", 
   "batsman_2": "Jeevan Mendis", 
   "game": 656421, 
-  "score": 56, 
+  "score": 58, 
   "team": "Sri Lanka"
  }, 
  {
@@ -3263,7 +3263,7 @@
   "batsman_1": "Afsar Zazai", 
   "batsman_2": "Najibullah Zadran", 
   "game": 656421, 
-  "score": 2, 
+  "score": 6, 
   "team": "Afghanistan"
  }, 
  {
@@ -3272,7 +3272,7 @@
   "batsman_1": "Najibullah Zadran", 
   "batsman_2": "Afsar Zazai", 
   "game": 656421, 
-  "score": 2, 
+  "score": 6, 
   "team": "Afghanistan"
  }, 
  {
@@ -3317,7 +3317,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656421, 
-  "score": 32, 
+  "score": 34, 
   "team": "Afghanistan"
  }, 
  {
@@ -3326,7 +3326,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656421, 
-  "score": 32, 
+  "score": 34, 
   "team": "Afghanistan"
  }, 
  {
@@ -3335,7 +3335,7 @@
   "batsman_1": "Imran Tahir", 
   "batsman_2": "Wayne Parnell", 
   "game": 656423, 
-  "score": 15, 
+  "score": 16, 
   "team": "South Africa"
  }, 
  {
@@ -3344,7 +3344,7 @@
   "batsman_1": "Wayne Parnell", 
   "batsman_2": "Imran Tahir", 
   "game": 656423, 
-  "score": 15, 
+  "score": 16, 
   "team": "South Africa"
  }, 
  {
@@ -3353,7 +3353,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Virat Kohli", 
   "game": 656423, 
-  "score": 123, 
+  "score": 127, 
   "team": "India"
  }, 
  {
@@ -3362,7 +3362,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656423, 
-  "score": 123, 
+  "score": 127, 
   "team": "India"
  }, 
  {
@@ -3389,7 +3389,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656423, 
-  "score": 120, 
+  "score": 125, 
   "team": "India"
  }, 
  {
@@ -3398,7 +3398,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656423, 
-  "score": 120, 
+  "score": 125, 
   "team": "India"
  }, 
  {
@@ -3407,7 +3407,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Quinton de Kock", 
   "game": 656423, 
-  "score": 9, 
+  "score": 12, 
   "team": "South Africa"
  }, 
  {
@@ -3416,7 +3416,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Hashim Amla", 
   "game": 656423, 
-  "score": 9, 
+  "score": 12, 
   "team": "South Africa"
  }, 
  {
@@ -3479,7 +3479,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Hashim Amla", 
   "game": 656423, 
-  "score": 26, 
+  "score": 28, 
   "team": "South Africa"
  }, 
  {
@@ -3488,7 +3488,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Faf du Plessis", 
   "game": 656423, 
-  "score": 26, 
+  "score": 28, 
   "team": "South Africa"
  }, 
  {
@@ -3551,7 +3551,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Ravichandran Ashwin", 
   "game": 656423, 
-  "score": 17, 
+  "score": 18, 
   "team": "India"
  }, 
  {
@@ -3560,7 +3560,7 @@
   "batsman_1": "Ravichandran Ashwin", 
   "batsman_2": "MS Dhoni", 
   "game": 656423, 
-  "score": 17, 
+  "score": 18, 
   "team": "India"
  }, 
  {
@@ -3641,7 +3641,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "Jean-Paul Duminy", 
   "game": 656423, 
-  "score": 13, 
+  "score": 14, 
   "team": "South Africa"
  }, 
  {
@@ -3650,7 +3650,7 @@
   "batsman_1": "Jean-Paul Duminy", 
   "batsman_2": "David Miller", 
   "game": 656423, 
-  "score": 13, 
+  "score": 14, 
   "team": "South Africa"
  }, 
  {
@@ -3695,7 +3695,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Preston Mommsen", 
   "game": 656425, 
-  "score": 56, 
+  "score": 60, 
   "team": "Scotland"
  }, 
  {
@@ -3704,7 +3704,7 @@
   "batsman_1": "Preston Mommsen", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656425, 
-  "score": 56, 
+  "score": 60, 
   "team": "Scotland"
  }, 
  {
@@ -3839,7 +3839,7 @@
   "batsman_1": "Steven Finn", 
   "batsman_2": "Stuart Broad", 
   "game": 656425, 
-  "score": 1, 
+  "score": 3, 
   "team": "England"
  }, 
  {
@@ -3848,7 +3848,7 @@
   "batsman_1": "Stuart Broad", 
   "batsman_2": "Steven Finn", 
   "game": 656425, 
-  "score": 1, 
+  "score": 3, 
   "team": "England"
  }, 
  {
@@ -3857,7 +3857,7 @@
   "batsman_1": "Alasdair Evans", 
   "batsman_2": "Majid Haq", 
   "game": 656425, 
-  "score": 23, 
+  "score": 24, 
   "team": "Scotland"
  }, 
  {
@@ -3866,7 +3866,7 @@
   "batsman_1": "Majid Haq", 
   "batsman_2": "Alasdair Evans", 
   "game": 656425, 
-  "score": 23, 
+  "score": 24, 
   "team": "Scotland"
  }, 
  {
@@ -3875,7 +3875,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Moeen Ali", 
   "game": 656425, 
-  "score": 162, 
+  "score": 172, 
   "team": "England"
  }, 
  {
@@ -3884,7 +3884,7 @@
   "batsman_1": "Moeen Ali", 
   "batsman_2": "Ian Bell", 
   "game": 656425, 
-  "score": 162, 
+  "score": 172, 
   "team": "England"
  }, 
  {
@@ -3893,7 +3893,7 @@
   "batsman_1": "Eoin Morgan", 
   "batsman_2": "James Taylor", 
   "game": 656425, 
-  "score": 46, 
+  "score": 49, 
   "team": "England"
  }, 
  {
@@ -3902,7 +3902,7 @@
   "batsman_1": "James Taylor", 
   "batsman_2": "Eoin Morgan", 
   "game": 656425, 
-  "score": 46, 
+  "score": 49, 
   "team": "England"
  }, 
  {
@@ -3911,7 +3911,7 @@
   "batsman_1": "Josh Davey", 
   "batsman_2": "Matthew Cross", 
   "game": 656425, 
-  "score": 21, 
+  "score": 22, 
   "team": "Scotland"
  }, 
  {
@@ -3920,7 +3920,7 @@
   "batsman_1": "Matthew Cross", 
   "batsman_2": "Josh Davey", 
   "game": 656425, 
-  "score": 21, 
+  "score": 22, 
   "team": "Scotland"
  }, 
  {
@@ -3929,7 +3929,7 @@
   "batsman_1": "Majid Haq", 
   "batsman_2": "Matthew Cross", 
   "game": 656425, 
-  "score": 9, 
+  "score": 10, 
   "team": "Scotland"
  }, 
  {
@@ -3938,7 +3938,7 @@
   "batsman_1": "Matthew Cross", 
   "batsman_2": "Majid Haq", 
   "game": 656425, 
-  "score": 9, 
+  "score": 10, 
   "team": "Scotland"
  }, 
  {
@@ -3947,7 +3947,7 @@
   "batsman_1": "Chris Woakes", 
   "batsman_2": "Eoin Morgan", 
   "game": 656425, 
-  "score": 2, 
+  "score": 3, 
   "team": "England"
  }, 
  {
@@ -3956,7 +3956,7 @@
   "batsman_1": "Eoin Morgan", 
   "batsman_2": "Chris Woakes", 
   "game": 656425, 
-  "score": 2, 
+  "score": 3, 
   "team": "England"
  }, 
  {
@@ -3965,7 +3965,7 @@
   "batsman_1": "Eoin Morgan", 
   "batsman_2": "Jos Buttler", 
   "game": 656425, 
-  "score": 40, 
+  "score": 45, 
   "team": "England"
  }, 
  {
@@ -3974,7 +3974,7 @@
   "batsman_1": "Jos Buttler", 
   "batsman_2": "Eoin Morgan", 
   "game": 656425, 
-  "score": 40, 
+  "score": 45, 
   "team": "England"
  }, 
  {
@@ -4001,7 +4001,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Sean Williams", 
   "game": 656427, 
-  "score": 48, 
+  "score": 51, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4010,7 +4010,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Craig Ervine", 
   "game": 656427, 
-  "score": 48, 
+  "score": 51, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4019,7 +4019,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Stuart Matsikenyeri", 
   "game": 656427, 
-  "score": 45, 
+  "score": 49, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4028,7 +4028,7 @@
   "batsman_1": "Stuart Matsikenyeri", 
   "batsman_2": "Craig Ervine", 
   "game": 656427, 
-  "score": 45, 
+  "score": 49, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4073,7 +4073,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Marlon Samuels", 
   "game": 656427, 
-  "score": 348, 
+  "score": 372, 
   "team": "West Indies"
  }, 
  {
@@ -4082,7 +4082,7 @@
   "batsman_1": "Marlon Samuels", 
   "batsman_2": "Chris Gayle", 
   "game": 656427, 
-  "score": 348, 
+  "score": 372, 
   "team": "West Indies"
  }, 
  {
@@ -4091,7 +4091,7 @@
   "batsman_1": "Elton Chigumbura", 
   "batsman_2": "Tinashe Panyangara", 
   "game": 656427, 
-  "score": 14, 
+  "score": 15, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4100,7 +4100,7 @@
   "batsman_1": "Tinashe Panyangara", 
   "batsman_2": "Elton Chigumbura", 
   "game": 656427, 
-  "score": 14, 
+  "score": 15, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4127,7 +4127,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sikandar Raza", 
   "game": 656427, 
-  "score": 13, 
+  "score": 20, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4136,7 +4136,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Brendan Taylor", 
   "game": 656427, 
-  "score": 13, 
+  "score": 20, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4145,7 +4145,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Sikandar Raza", 
   "game": 656427, 
-  "score": 9, 
+  "score": 11, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4154,7 +4154,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Regis Chakabva", 
   "game": 656427, 
-  "score": 9, 
+  "score": 11, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4163,7 +4163,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sean Williams", 
   "game": 656427, 
-  "score": 78, 
+  "score": 80, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4172,7 +4172,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Brendan Taylor", 
   "game": 656427, 
-  "score": 78, 
+  "score": 80, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4181,7 +4181,7 @@
   "batsman_1": "Elton Chigumbura", 
   "batsman_2": "Tendai Chatara", 
   "game": 656427, 
-  "score": 11, 
+  "score": 12, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4190,7 +4190,7 @@
   "batsman_1": "Tendai Chatara", 
   "batsman_2": "Elton Chigumbura", 
   "game": 656427, 
-  "score": 11, 
+  "score": 12, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4199,7 +4199,7 @@
   "batsman_1": "Tafadzwa Kamungozi", 
   "batsman_2": "Tendai Chatara", 
   "game": 656427, 
-  "score": 18, 
+  "score": 23, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4208,7 +4208,7 @@
   "batsman_1": "Tendai Chatara", 
   "batsman_2": "Tafadzwa Kamungozi", 
   "game": 656427, 
-  "score": 18, 
+  "score": 23, 
   "team": "Zimbabwe"
  }, 
  {
@@ -4217,7 +4217,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656429, 
-  "score": 66, 
+  "score": 72, 
   "team": "Ireland"
  }, 
  {
@@ -4226,7 +4226,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "Gary Wilson", 
   "game": 656429, 
-  "score": 66, 
+  "score": 72, 
   "team": "Ireland"
  }, 
  {
@@ -4235,7 +4235,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656429, 
-  "score": 46, 
+  "score": 47, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4244,7 +4244,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "game": 656429, 
-  "score": 46, 
+  "score": 47, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4379,7 +4379,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "John Mooney", 
   "game": 656429, 
-  "score": 15, 
+  "score": 16, 
   "team": "Ireland"
  }, 
  {
@@ -4388,7 +4388,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Gary Wilson", 
   "game": 656429, 
-  "score": 15, 
+  "score": 16, 
   "team": "Ireland"
  }, 
  {
@@ -4415,7 +4415,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Gary Wilson", 
   "game": 656429, 
-  "score": 72, 
+  "score": 74, 
   "team": "Ireland"
  }, 
  {
@@ -4424,7 +4424,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656429, 
-  "score": 72, 
+  "score": 74, 
   "team": "Ireland"
  }, 
  {
@@ -4433,7 +4433,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656429, 
-  "score": 5, 
+  "score": 6, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4442,7 +4442,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Rohan Mustafa", 
   "game": 656429, 
-  "score": 5, 
+  "score": 6, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4451,7 +4451,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "game": 656429, 
-  "score": 13, 
+  "score": 14, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4460,7 +4460,7 @@
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "game": 656429, 
-  "score": 13, 
+  "score": 14, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4487,7 +4487,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656429, 
-  "score": 98, 
+  "score": 107, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4496,7 +4496,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Amjad Javed", 
   "game": 656429, 
-  "score": 98, 
+  "score": 107, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4505,7 +4505,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656429, 
-  "score": 28, 
+  "score": 31, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4514,7 +4514,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Mohammad Naveed", 
   "game": 656429, 
-  "score": 28, 
+  "score": 31, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4541,7 +4541,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Raffaelo", 
   "game": 656429, 
-  "score": 33, 
+  "score": 35, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4550,7 +4550,7 @@
   "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Amjad Ali", 
   "game": 656429, 
-  "score": 33, 
+  "score": 35, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -4559,7 +4559,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "William Porterfield", 
   "game": 656429, 
-  "score": 66, 
+  "score": 68, 
   "team": "Ireland"
  }, 
  {
@@ -4568,7 +4568,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Ed Joyce", 
   "game": 656429, 
-  "score": 66, 
+  "score": 68, 
   "team": "Ireland"
  }, 
  {
@@ -4613,7 +4613,7 @@
   "batsman_1": "Matthew Cross", 
   "batsman_2": "Richie Berrington", 
   "game": 656431, 
-  "score": 30, 
+  "score": 37, 
   "team": "Scotland"
  }, 
  {
@@ -4622,7 +4622,7 @@
   "batsman_1": "Richie Berrington", 
   "batsman_2": "Matthew Cross", 
   "game": 656431, 
-  "score": 30, 
+  "score": 37, 
   "team": "Scotland"
  }, 
  {
@@ -4631,7 +4631,7 @@
   "batsman_1": "Majid Haq", 
   "batsman_2": "Richie Berrington", 
   "game": 656431, 
-  "score": 9, 
+  "score": 10, 
   "team": "Scotland"
  }, 
  {
@@ -4640,7 +4640,7 @@
   "batsman_1": "Richie Berrington", 
   "batsman_2": "Majid Haq", 
   "game": 656431, 
-  "score": 9, 
+  "score": 10, 
   "team": "Scotland"
  }, 
  {
@@ -4667,7 +4667,7 @@
   "batsman_1": "Dawlat Zadran", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656431, 
-  "score": 33, 
+  "score": 35, 
   "team": "Afghanistan"
  }, 
  {
@@ -4676,7 +4676,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Dawlat Zadran", 
   "game": 656431, 
-  "score": 33, 
+  "score": 35, 
   "team": "Afghanistan"
  }, 
  {
@@ -4685,7 +4685,7 @@
   "batsman_1": "Hamid Hassan", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656431, 
-  "score": 59, 
+  "score": 60, 
   "team": "Afghanistan"
  }, 
  {
@@ -4694,7 +4694,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Hamid Hassan", 
   "game": 656431, 
-  "score": 59, 
+  "score": 60, 
   "team": "Afghanistan"
  }, 
  {
@@ -4739,7 +4739,7 @@
   "batsman_1": "Najibullah Zadran", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656431, 
-  "score": 6, 
+  "score": 7, 
   "team": "Afghanistan"
  }, 
  {
@@ -4748,7 +4748,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Najibullah Zadran", 
   "game": 656431, 
-  "score": 6, 
+  "score": 7, 
   "team": "Afghanistan"
  }, 
  {
@@ -4757,7 +4757,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656431, 
-  "score": 36, 
+  "score": 39, 
   "team": "Afghanistan"
  }, 
  {
@@ -4766,7 +4766,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656431, 
-  "score": 36, 
+  "score": 39, 
   "team": "Afghanistan"
  }, 
  {
@@ -4775,7 +4775,7 @@
   "batsman_1": "Hamid Hassan", 
   "batsman_2": "Shapoor Zadran", 
   "game": 656431, 
-  "score": 16, 
+  "score": 19, 
   "team": "Afghanistan"
  }, 
  {
@@ -4784,7 +4784,7 @@
   "batsman_1": "Shapoor Zadran", 
   "batsman_2": "Hamid Hassan", 
   "game": 656431, 
-  "score": 16, 
+  "score": 19, 
   "team": "Afghanistan"
  }, 
  {
@@ -4793,7 +4793,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656431, 
-  "score": 40, 
+  "score": 42, 
   "team": "Afghanistan"
  }, 
  {
@@ -4802,7 +4802,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656431, 
-  "score": 40, 
+  "score": 42, 
   "team": "Afghanistan"
  }, 
  {
@@ -4811,7 +4811,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Preston Mommsen", 
   "game": 656431, 
-  "score": 52, 
+  "score": 53, 
   "team": "Scotland"
  }, 
  {
@@ -4820,7 +4820,7 @@
   "batsman_1": "Preston Mommsen", 
   "batsman_2": "Matt Machan", 
   "game": 656431, 
-  "score": 52, 
+  "score": 53, 
   "team": "Scotland"
  }, 
  {
@@ -4847,7 +4847,7 @@
   "batsman_1": "Calum MacLeod", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656431, 
-  "score": 1, 
+  "score": 7, 
   "team": "Scotland"
  }, 
  {
@@ -4856,7 +4856,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Calum MacLeod", 
   "game": 656431, 
-  "score": 1, 
+  "score": 7, 
   "team": "Scotland"
  }, 
  {
@@ -4865,7 +4865,7 @@
   "batsman_1": "Hamish Gardiner", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656431, 
-  "score": 29, 
+  "score": 31, 
   "team": "Scotland"
  }, 
  {
@@ -4874,7 +4874,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Hamish Gardiner", 
   "game": 656431, 
-  "score": 29, 
+  "score": 31, 
   "team": "Scotland"
  }, 
  {
@@ -4901,7 +4901,7 @@
   "batsman_1": "Alasdair Evans", 
   "batsman_2": "Majid Haq", 
   "game": 656431, 
-  "score": 54, 
+  "score": 62, 
   "team": "Scotland"
  }, 
  {
@@ -4910,7 +4910,7 @@
   "batsman_1": "Majid Haq", 
   "batsman_2": "Alasdair Evans", 
   "game": 656431, 
-  "score": 54, 
+  "score": 62, 
   "team": "Scotland"
  }, 
  {
@@ -4955,7 +4955,7 @@
   "batsman_1": "Anamul Haque", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656433, 
-  "score": 35, 
+  "score": 43, 
   "team": "Bangladesh"
  }, 
  {
@@ -4964,7 +4964,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Anamul Haque", 
   "game": 656433, 
-  "score": 35, 
+  "score": 43, 
   "team": "Bangladesh"
  }, 
  {
@@ -4973,7 +4973,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656433, 
-  "score": 15, 
+  "score": 16, 
   "team": "Bangladesh"
  }, 
  {
@@ -4982,7 +4982,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656433, 
-  "score": 15, 
+  "score": 16, 
   "team": "Bangladesh"
  }, 
  {
@@ -4991,7 +4991,7 @@
   "batsman_1": "Lahiru Thirimanne", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656433, 
-  "score": 115, 
+  "score": 122, 
   "team": "Sri Lanka"
  }, 
  {
@@ -5000,7 +5000,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Lahiru Thirimanne", 
   "game": 656433, 
-  "score": 115, 
+  "score": 122, 
   "team": "Sri Lanka"
  }, 
  {
@@ -5009,7 +5009,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656433, 
-  "score": 203, 
+  "score": 210, 
   "team": "Sri Lanka"
  }, 
  {
@@ -5018,7 +5018,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656433, 
-  "score": 203, 
+  "score": 210, 
   "team": "Sri Lanka"
  }, 
  {
@@ -5063,7 +5063,7 @@
   "batsman_1": "Anamul Haque", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656433, 
-  "score": 38, 
+  "score": 40, 
   "team": "Bangladesh"
  }, 
  {
@@ -5072,7 +5072,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Anamul Haque", 
   "game": 656433, 
-  "score": 38, 
+  "score": 40, 
   "team": "Bangladesh"
  }, 
  {
@@ -5081,7 +5081,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656433, 
-  "score": 63, 
+  "score": 64, 
   "team": "Bangladesh"
  }, 
  {
@@ -5090,7 +5090,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656433, 
-  "score": 63, 
+  "score": 64, 
   "team": "Bangladesh"
  }, 
  {
@@ -5099,7 +5099,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Sabbir Rahman", 
   "game": 656433, 
-  "score": 42, 
+  "score": 44, 
   "team": "Bangladesh"
  }, 
  {
@@ -5108,7 +5108,7 @@
   "batsman_1": "Sabbir Rahman", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656433, 
-  "score": 42, 
+  "score": 44, 
   "team": "Bangladesh"
  }, 
  {
@@ -5117,7 +5117,7 @@
   "batsman_1": "Mashrafe Mortaza", 
   "batsman_2": "Sabbir Rahman", 
   "game": 656433, 
-  "score": 19, 
+  "score": 20, 
   "team": "Bangladesh"
  }, 
  {
@@ -5126,7 +5126,7 @@
   "batsman_1": "Sabbir Rahman", 
   "batsman_2": "Mashrafe Mortaza", 
   "game": 656433, 
-  "score": 19, 
+  "score": 20, 
   "team": "Bangladesh"
  }, 
  {
@@ -5153,7 +5153,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Rilee Rossouw", 
   "game": 656435, 
-  "score": 128, 
+  "score": 134, 
   "team": "South Africa"
  }, 
  {
@@ -5162,7 +5162,7 @@
   "batsman_1": "Rilee Rossouw", 
   "batsman_2": "AB de Villiers", 
   "game": 656435, 
-  "score": 128, 
+  "score": 134, 
   "team": "South Africa"
  }, 
  {
@@ -5243,7 +5243,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Hashim Amla", 
   "game": 656435, 
-  "score": 123, 
+  "score": 127, 
   "team": "South Africa"
  }, 
  {
@@ -5252,7 +5252,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Faf du Plessis", 
   "game": 656435, 
-  "score": 123, 
+  "score": 127, 
   "team": "South Africa"
  }, 
  {
@@ -5261,7 +5261,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Quinton de Kock", 
   "game": 656435, 
-  "score": 16, 
+  "score": 18, 
   "team": "South Africa"
  }, 
  {
@@ -5270,7 +5270,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Hashim Amla", 
   "game": 656435, 
-  "score": 16, 
+  "score": 18, 
   "team": "South Africa"
  }, 
  {
@@ -5297,7 +5297,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Jonathan Carter", 
   "game": 656435, 
-  "score": 33, 
+  "score": 36, 
   "team": "West Indies"
  }, 
  {
@@ -5306,7 +5306,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Dwayne Smith", 
   "game": 656435, 
-  "score": 33, 
+  "score": 36, 
   "team": "West Indies"
  }, 
  {
@@ -5333,7 +5333,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Marlon Samuels", 
   "game": 656435, 
-  "score": 1, 
+  "score": 4, 
   "team": "West Indies"
  }, 
  {
@@ -5342,7 +5342,7 @@
   "batsman_1": "Marlon Samuels", 
   "batsman_2": "Dwayne Smith", 
   "game": 656435, 
-  "score": 1, 
+  "score": 4, 
   "team": "West Indies"
  }, 
  {
@@ -5351,7 +5351,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Dwayne Smith", 
   "game": 656435, 
-  "score": 10, 
+  "score": 12, 
   "team": "West Indies"
  }, 
  {
@@ -5360,7 +5360,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Chris Gayle", 
   "game": 656435, 
-  "score": 10, 
+  "score": 12, 
   "team": "West Indies"
  }, 
  {
@@ -5405,7 +5405,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "David Miller", 
   "game": 656435, 
-  "score": 46, 
+  "score": 48, 
   "team": "South Africa"
  }, 
  {
@@ -5414,7 +5414,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "AB de Villiers", 
   "game": 656435, 
-  "score": 46, 
+  "score": 48, 
   "team": "South Africa"
  }, 
  {
@@ -5423,7 +5423,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Farhaan Behardien", 
   "game": 656435, 
-  "score": 78, 
+  "score": 80, 
   "team": "South Africa"
  }, 
  {
@@ -5432,7 +5432,7 @@
   "batsman_1": "Farhaan Behardien", 
   "batsman_2": "AB de Villiers", 
   "game": 656435, 
-  "score": 78, 
+  "score": 80, 
   "team": "South Africa"
  }, 
  {
@@ -5441,7 +5441,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Luke Ronchi", 
   "game": 656437, 
-  "score": 7, 
+  "score": 8, 
   "team": "New Zealand"
  }, 
  {
@@ -5450,7 +5450,7 @@
   "batsman_1": "Luke Ronchi", 
   "batsman_2": "Kane Williamson", 
   "game": 656437, 
-  "score": 7, 
+  "score": 8, 
   "team": "New Zealand"
  }, 
  {
@@ -5513,7 +5513,7 @@
   "batsman_1": "Brad Haddin", 
   "batsman_2": "Michael Clarke", 
   "game": 656437, 
-  "score": 6, 
+  "score": 7, 
   "team": "Australia"
  }, 
  {
@@ -5522,7 +5522,7 @@
   "batsman_1": "Michael Clarke", 
   "batsman_2": "Brad Haddin", 
   "game": 656437, 
-  "score": 6, 
+  "score": 7, 
   "team": "Australia"
  }, 
  {
@@ -5549,7 +5549,7 @@
   "batsman_1": "Brad Haddin", 
   "batsman_2": "Pat Cummins", 
   "game": 656437, 
-  "score": 44, 
+  "score": 45, 
   "team": "Australia"
  }, 
  {
@@ -5558,7 +5558,7 @@
   "batsman_1": "Pat Cummins", 
   "batsman_2": "Brad Haddin", 
   "game": 656437, 
-  "score": 44, 
+  "score": 45, 
   "team": "Australia"
  }, 
  {
@@ -5567,7 +5567,7 @@
   "batsman_1": "Daniel Vettori", 
   "batsman_2": "Kane Williamson", 
   "game": 656437, 
-  "score": 5, 
+  "score": 6, 
   "team": "New Zealand"
  }, 
  {
@@ -5576,7 +5576,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Daniel Vettori", 
   "game": 656437, 
-  "score": 5, 
+  "score": 6, 
   "team": "New Zealand"
  }, 
  {
@@ -5585,7 +5585,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Kane Williamson", 
   "game": 656437, 
-  "score": 33, 
+  "score": 38, 
   "team": "New Zealand"
  }, 
  {
@@ -5594,7 +5594,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Brendon McCullum", 
   "game": 656437, 
-  "score": 33, 
+  "score": 38, 
   "team": "New Zealand"
  }, 
  {
@@ -5603,7 +5603,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Martin Guptill", 
   "game": 656437, 
-  "score": 37, 
+  "score": 40, 
   "team": "New Zealand"
  }, 
  {
@@ -5612,7 +5612,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Brendon McCullum", 
   "game": 656437, 
-  "score": 37, 
+  "score": 40, 
   "team": "New Zealand"
  }, 
  {
@@ -5621,7 +5621,7 @@
   "batsman_1": "Michael Clarke", 
   "batsman_2": "Mitchell Marsh", 
   "game": 656437, 
-  "score": 0, 
+  "score": 1, 
   "team": "Australia"
  }, 
  {
@@ -5630,7 +5630,7 @@
   "batsman_1": "Mitchell Marsh", 
   "batsman_2": "Michael Clarke", 
   "game": 656437, 
-  "score": 0, 
+  "score": 1, 
   "team": "Australia"
  }, 
  {
@@ -5639,7 +5639,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Kane Williamson", 
   "game": 656437, 
-  "score": 51, 
+  "score": 52, 
   "team": "New Zealand"
  }, 
  {
@@ -5648,7 +5648,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Corey Anderson", 
   "game": 656437, 
-  "score": 51, 
+  "score": 52, 
   "team": "New Zealand"
  }, 
  {
@@ -5657,7 +5657,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "David Warner", 
   "game": 656437, 
-  "score": 23, 
+  "score": 30, 
   "team": "Australia"
  }, 
  {
@@ -5666,7 +5666,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Aaron Finch", 
   "game": 656437, 
-  "score": 23, 
+  "score": 30, 
   "team": "Australia"
  }, 
  {
@@ -5675,7 +5675,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Shane Watson", 
   "game": 656437, 
-  "score": 48, 
+  "score": 50, 
   "team": "Australia"
  }, 
  {
@@ -5684,7 +5684,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "David Warner", 
   "game": 656437, 
-  "score": 48, 
+  "score": 50, 
   "team": "Australia"
  }, 
  {
@@ -5819,7 +5819,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Krishna Chandran", 
   "game": 656439, 
-  "score": 4, 
+  "score": 6, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5828,7 +5828,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Amjad Ali", 
   "game": 656439, 
-  "score": 4, 
+  "score": 6, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5837,7 +5837,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Raffaelo", 
   "game": 656439, 
-  "score": 1, 
+  "score": 3, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5846,7 +5846,7 @@
   "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Amjad Ali", 
   "game": 656439, 
-  "score": 1, 
+  "score": 3, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5873,7 +5873,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656439, 
-  "score": 7, 
+  "score": 9, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5882,7 +5882,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Amjad Javed", 
   "game": 656439, 
-  "score": 7, 
+  "score": 9, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5909,7 +5909,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Krishna Chandran", 
   "game": 656439, 
-  "score": 11, 
+  "score": 15, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5918,7 +5918,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Khurram Khan", 
   "game": 656439, 
-  "score": 11, 
+  "score": 15, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5945,7 +5945,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Swapnil Patil", 
   "game": 656439, 
-  "score": 11, 
+  "score": 13, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5954,7 +5954,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Khurram Khan", 
   "game": 656439, 
-  "score": 11, 
+  "score": 13, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -5999,7 +5999,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656439, 
-  "score": 7, 
+  "score": 8, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6008,7 +6008,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Rohan Mustafa", 
   "game": 656439, 
-  "score": 7, 
+  "score": 8, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6035,7 +6035,7 @@
   "batsman_1": "Lahiru Thirimanne", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656441, 
-  "score": 95, 
+  "score": 100, 
   "team": "Sri Lanka"
  }, 
  {
@@ -6044,7 +6044,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Lahiru Thirimanne", 
   "game": 656441, 
-  "score": 95, 
+  "score": 100, 
   "team": "Sri Lanka"
  }, 
  {
@@ -6053,7 +6053,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Lahiru Thirimanne", 
   "game": 656441, 
-  "score": 205, 
+  "score": 212, 
   "team": "Sri Lanka"
  }, 
  {
@@ -6062,7 +6062,7 @@
   "batsman_1": "Lahiru Thirimanne", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656441, 
-  "score": 205, 
+  "score": 212, 
   "team": "Sri Lanka"
  }, 
  {
@@ -6071,7 +6071,7 @@
   "batsman_1": "Gary Ballance", 
   "batsman_2": "Ian Bell", 
   "game": 656441, 
-  "score": 8, 
+  "score": 9, 
   "team": "England"
  }, 
  {
@@ -6080,7 +6080,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Gary Ballance", 
   "game": 656441, 
-  "score": 8, 
+  "score": 9, 
   "team": "England"
  }, 
  {
@@ -6089,7 +6089,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Joe Root", 
   "game": 656441, 
-  "score": 29, 
+  "score": 30, 
   "team": "England"
  }, 
  {
@@ -6098,7 +6098,7 @@
   "batsman_1": "Joe Root", 
   "batsman_2": "Ian Bell", 
   "game": 656441, 
-  "score": 29, 
+  "score": 30, 
   "team": "England"
  }, 
  {
@@ -6107,7 +6107,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Moeen Ali", 
   "game": 656441, 
-  "score": 51, 
+  "score": 62, 
   "team": "England"
  }, 
  {
@@ -6116,7 +6116,7 @@
   "batsman_1": "Moeen Ali", 
   "batsman_2": "Ian Bell", 
   "game": 656441, 
-  "score": 51, 
+  "score": 62, 
   "team": "England"
  }, 
  {
@@ -6125,7 +6125,7 @@
   "batsman_1": "James Taylor", 
   "batsman_2": "Joe Root", 
   "game": 656441, 
-  "score": 96, 
+  "score": 98, 
   "team": "England"
  }, 
  {
@@ -6134,7 +6134,7 @@
   "batsman_1": "Joe Root", 
   "batsman_2": "James Taylor", 
   "game": 656441, 
-  "score": 96, 
+  "score": 98, 
   "team": "England"
  }, 
  {
@@ -6143,7 +6143,7 @@
   "batsman_1": "Chris Woakes", 
   "batsman_2": "Jos Buttler", 
   "game": 656441, 
-  "score": 42, 
+  "score": 44, 
   "team": "England"
  }, 
  {
@@ -6152,7 +6152,7 @@
   "batsman_1": "Jos Buttler", 
   "batsman_2": "Chris Woakes", 
   "game": 656441, 
-  "score": 42, 
+  "score": 44, 
   "team": "England"
  }, 
  {
@@ -6179,7 +6179,7 @@
   "batsman_1": "Eoin Morgan", 
   "batsman_2": "Joe Root", 
   "game": 656441, 
-  "score": 59, 
+  "score": 60, 
   "team": "England"
  }, 
  {
@@ -6188,7 +6188,7 @@
   "batsman_1": "Joe Root", 
   "batsman_2": "Eoin Morgan", 
   "game": 656441, 
-  "score": 59, 
+  "score": 60, 
   "team": "England"
  }, 
  {
@@ -6215,7 +6215,7 @@
   "batsman_1": "Chamu Chibhabha", 
   "batsman_2": "Sikandar Raza", 
   "game": 656443, 
-  "score": 13, 
+  "score": 14, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6224,7 +6224,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Chamu Chibhabha", 
   "game": 656443, 
-  "score": 13, 
+  "score": 14, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6251,7 +6251,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sean Williams", 
   "game": 656443, 
-  "score": 45, 
+  "score": 54, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6260,7 +6260,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Brendan Taylor", 
   "game": 656443, 
-  "score": 45, 
+  "score": 54, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6269,7 +6269,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Sean Williams", 
   "game": 656443, 
-  "score": 21, 
+  "score": 22, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6278,7 +6278,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Craig Ervine", 
   "game": 656443, 
-  "score": 21, 
+  "score": 22, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6305,7 +6305,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Umar Akmal", 
   "game": 656443, 
-  "score": 67, 
+  "score": 69, 
   "team": "Pakistan"
  }, 
  {
@@ -6314,7 +6314,7 @@
   "batsman_1": "Umar Akmal", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656443, 
-  "score": 67, 
+  "score": 69, 
   "team": "Pakistan"
  }, 
  {
@@ -6323,7 +6323,7 @@
   "batsman_1": "Sohail Khan", 
   "batsman_2": "Wahab Riaz", 
   "game": 656443, 
-  "score": 30, 
+  "score": 33, 
   "team": "Pakistan"
  }, 
  {
@@ -6332,7 +6332,7 @@
   "batsman_1": "Wahab Riaz", 
   "batsman_2": "Sohail Khan", 
   "game": 656443, 
-  "score": 30, 
+  "score": 33, 
   "team": "Pakistan"
  }, 
  {
@@ -6341,7 +6341,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Wahab Riaz", 
   "game": 656443, 
-  "score": 43, 
+  "score": 47, 
   "team": "Pakistan"
  }, 
  {
@@ -6350,7 +6350,7 @@
   "batsman_1": "Wahab Riaz", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656443, 
-  "score": 43, 
+  "score": 47, 
   "team": "Pakistan"
  }, 
  {
@@ -6359,7 +6359,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Sikandar Raza", 
   "game": 656443, 
-  "score": 7, 
+  "score": 8, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6368,7 +6368,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Hamilton Masakadza", 
   "game": 656443, 
-  "score": 7, 
+  "score": 8, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6377,7 +6377,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Hamilton Masakadza", 
   "game": 656443, 
-  "score": 48, 
+  "score": 52, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6386,7 +6386,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Brendan Taylor", 
   "game": 656443, 
-  "score": 48, 
+  "score": 52, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6413,7 +6413,7 @@
   "batsman_1": "Elton Chigumbura", 
   "batsman_2": "Tinashe Panyangara", 
   "game": 656443, 
-  "score": 45, 
+  "score": 47, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6422,7 +6422,7 @@
   "batsman_1": "Tinashe Panyangara", 
   "batsman_2": "Elton Chigumbura", 
   "game": 656443, 
-  "score": 45, 
+  "score": 47, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6431,7 +6431,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Solomon Mire", 
   "game": 656443, 
-  "score": 15, 
+  "score": 16, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6440,7 +6440,7 @@
   "batsman_1": "Solomon Mire", 
   "batsman_2": "Craig Ervine", 
   "game": 656443, 
-  "score": 15, 
+  "score": 16, 
   "team": "Zimbabwe"
  }, 
  {
@@ -6449,7 +6449,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Sohaib Maqsood", 
   "game": 656443, 
-  "score": 26, 
+  "score": 28, 
   "team": "Pakistan"
  }, 
  {
@@ -6458,7 +6458,7 @@
   "batsman_1": "Sohaib Maqsood", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656443, 
-  "score": 26, 
+  "score": 28, 
   "team": "Pakistan"
  }, 
  {
@@ -6467,7 +6467,7 @@
   "batsman_1": "Haris Sohail", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656443, 
-  "score": 48, 
+  "score": 54, 
   "team": "Pakistan"
  }, 
  {
@@ -6476,7 +6476,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Haris Sohail", 
   "game": 656443, 
-  "score": 48, 
+  "score": 54, 
   "team": "Pakistan"
  }, 
  {
@@ -6503,7 +6503,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Haris Sohail", 
   "game": 656443, 
-  "score": 0, 
+  "score": 3, 
   "team": "Pakistan"
  }, 
  {
@@ -6512,7 +6512,7 @@
   "batsman_1": "Haris Sohail", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656443, 
-  "score": 0, 
+  "score": 3, 
   "team": "Pakistan"
  }, 
  {
@@ -6521,7 +6521,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "Rilee Rossouw", 
   "game": 656445, 
-  "score": 107, 
+  "score": 110, 
   "team": "South Africa"
  }, 
  {
@@ -6530,7 +6530,7 @@
   "batsman_1": "Rilee Rossouw", 
   "batsman_2": "David Miller", 
   "game": 656445, 
-  "score": 107, 
+  "score": 110, 
   "team": "South Africa"
  }, 
  {
@@ -6539,7 +6539,7 @@
   "batsman_1": "Andy McBrine", 
   "batsman_2": "George Dockrell", 
   "game": 656445, 
-  "score": 9, 
+  "score": 10, 
   "team": "Ireland"
  }, 
  {
@@ -6548,7 +6548,7 @@
   "batsman_1": "George Dockrell", 
   "batsman_2": "Andy McBrine", 
   "game": 656445, 
-  "score": 9, 
+  "score": 10, 
   "team": "Ireland"
  }, 
  {
@@ -6557,7 +6557,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656445, 
-  "score": 20, 
+  "score": 21, 
   "team": "Ireland"
  }, 
  {
@@ -6566,7 +6566,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "John Mooney", 
   "game": 656445, 
-  "score": 20, 
+  "score": 21, 
   "team": "Ireland"
  }, 
  {
@@ -6593,7 +6593,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Hashim Amla", 
   "game": 656445, 
-  "score": 242, 
+  "score": 247, 
   "team": "South Africa"
  }, 
  {
@@ -6602,7 +6602,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Faf du Plessis", 
   "game": 656445, 
-  "score": 242, 
+  "score": 247, 
   "team": "South Africa"
  }, 
  {
@@ -6611,7 +6611,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Quinton de Kock", 
   "game": 656445, 
-  "score": 9, 
+  "score": 12, 
   "team": "South Africa"
  }, 
  {
@@ -6620,7 +6620,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Hashim Amla", 
   "game": 656445, 
-  "score": 9, 
+  "score": 12, 
   "team": "South Africa"
  }, 
  {
@@ -6665,7 +6665,7 @@
   "batsman_1": "George Dockrell", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656445, 
-  "score": 16, 
+  "score": 17, 
   "team": "Ireland"
  }, 
  {
@@ -6674,7 +6674,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "George Dockrell", 
   "game": 656445, 
-  "score": 16, 
+  "score": 17, 
   "team": "Ireland"
  }, 
  {
@@ -6683,7 +6683,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656445, 
-  "score": 73, 
+  "score": 81, 
   "team": "Ireland"
  }, 
  {
@@ -6692,7 +6692,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656445, 
-  "score": 73, 
+  "score": 81, 
   "team": "Ireland"
  }, 
  {
@@ -6737,7 +6737,7 @@
   "batsman_1": "George Dockrell", 
   "batsman_2": "Max Sorensen", 
   "game": 656445, 
-  "score": 32, 
+  "score": 33, 
   "team": "Ireland"
  }, 
  {
@@ -6746,7 +6746,7 @@
   "batsman_1": "Max Sorensen", 
   "batsman_2": "George Dockrell", 
   "game": 656445, 
-  "score": 32, 
+  "score": 33, 
   "team": "Ireland"
  }, 
  {
@@ -6791,7 +6791,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Nasir Jamshed", 
   "game": 656447, 
-  "score": 9, 
+  "score": 10, 
   "team": "Pakistan"
  }, 
  {
@@ -6800,7 +6800,7 @@
   "batsman_1": "Nasir Jamshed", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656447, 
-  "score": 9, 
+  "score": 10, 
   "team": "Pakistan"
  }, 
  {
@@ -6809,7 +6809,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Amjad Ali", 
   "game": 656447, 
-  "score": 0, 
+  "score": 2, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6818,7 +6818,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Amjad Ali", 
   "game": 656447, 
-  "score": 0, 
+  "score": 2, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6827,7 +6827,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Raffaelo", 
   "game": 656447, 
-  "score": 14, 
+  "score": 16, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6836,7 +6836,7 @@
   "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Amjad Ali", 
   "game": 656447, 
-  "score": 14, 
+  "score": 16, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6899,7 +6899,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Umar Akmal", 
   "game": 656447, 
-  "score": 51, 
+  "score": 61, 
   "team": "Pakistan"
  }, 
  {
@@ -6908,7 +6908,7 @@
   "batsman_1": "Umar Akmal", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656447, 
-  "score": 51, 
+  "score": 61, 
   "team": "Pakistan"
  }, 
  {
@@ -6917,7 +6917,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Krishna Chandran", 
   "game": 656447, 
-  "score": 4, 
+  "score": 6, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6926,7 +6926,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Khurram Khan", 
   "game": 656447, 
-  "score": 4, 
+  "score": 6, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6953,7 +6953,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656447, 
-  "score": 81, 
+  "score": 83, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -6962,7 +6962,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "game": 656447, 
-  "score": 81, 
+  "score": 83, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -7061,7 +7061,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Haris Sohail", 
   "game": 656447, 
-  "score": 155, 
+  "score": 160, 
   "team": "Pakistan"
  }, 
  {
@@ -7070,7 +7070,7 @@
   "batsman_1": "Haris Sohail", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656447, 
-  "score": 155, 
+  "score": 160, 
   "team": "Pakistan"
  }, 
  {
@@ -7079,7 +7079,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Swapnil Patil", 
   "game": 656447, 
-  "score": 62, 
+  "score": 68, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -7088,7 +7088,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Amjad Javed", 
   "game": 656447, 
-  "score": 62, 
+  "score": 68, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -7133,7 +7133,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "David Warner", 
   "game": 656449, 
-  "score": 12, 
+  "score": 14, 
   "team": "Australia"
  }, 
  {
@@ -7142,7 +7142,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Aaron Finch", 
   "game": 656449, 
-  "score": 12, 
+  "score": 14, 
   "team": "Australia"
  }, 
  {
@@ -7205,7 +7205,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Usman Ghani", 
   "game": 656449, 
-  "score": 23, 
+  "score": 30, 
   "team": "Afghanistan"
  }, 
  {
@@ -7214,7 +7214,7 @@
   "batsman_1": "Usman Ghani", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656449, 
-  "score": 23, 
+  "score": 30, 
   "team": "Afghanistan"
  }, 
  {
@@ -7223,7 +7223,7 @@
   "batsman_1": "Glenn Maxwell", 
   "batsman_2": "Steven Smith", 
   "game": 656449, 
-  "score": 61, 
+  "score": 65, 
   "team": "Australia"
  }, 
  {
@@ -7232,7 +7232,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "Glenn Maxwell", 
   "game": 656449, 
-  "score": 61, 
+  "score": 65, 
   "team": "Australia"
  }, 
  {
@@ -7241,7 +7241,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Steven Smith", 
   "game": 656449, 
-  "score": 251, 
+  "score": 260, 
   "team": "Australia"
  }, 
  {
@@ -7250,7 +7250,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "David Warner", 
   "game": 656449, 
-  "score": 251, 
+  "score": 260, 
   "team": "Australia"
  }, 
  {
@@ -7259,7 +7259,7 @@
   "batsman_1": "Glenn Maxwell", 
   "batsman_2": "James Faulkner", 
   "game": 656449, 
-  "score": 41, 
+  "score": 43, 
   "team": "Australia"
  }, 
  {
@@ -7268,7 +7268,7 @@
   "batsman_1": "James Faulkner", 
   "batsman_2": "Glenn Maxwell", 
   "game": 656449, 
-  "score": 41, 
+  "score": 43, 
   "team": "Australia"
  }, 
  {
@@ -7295,7 +7295,7 @@
   "batsman_1": "Asghar Stanikzai", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656449, 
-  "score": 12, 
+  "score": 14, 
   "team": "Afghanistan"
  }, 
  {
@@ -7304,7 +7304,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Asghar Stanikzai", 
   "game": 656449, 
-  "score": 12, 
+  "score": 14, 
   "team": "Afghanistan"
  }, 
  {
@@ -7313,7 +7313,7 @@
   "batsman_1": "Afsar Zazai", 
   "batsman_2": "Hamid Hassan", 
   "game": 656449, 
-  "score": 8, 
+  "score": 9, 
   "team": "Afghanistan"
  }, 
  {
@@ -7322,7 +7322,7 @@
   "batsman_1": "Hamid Hassan", 
   "batsman_2": "Afsar Zazai", 
   "game": 656449, 
-  "score": 8, 
+  "score": 9, 
   "team": "Afghanistan"
  }, 
  {
@@ -7349,7 +7349,7 @@
   "batsman_1": "Mohammad Nabi", 
   "batsman_2": "Najibullah Zadran", 
   "game": 656449, 
-  "score": 7, 
+  "score": 9, 
   "team": "Afghanistan"
  }, 
  {
@@ -7358,7 +7358,7 @@
   "batsman_1": "Najibullah Zadran", 
   "batsman_2": "Mohammad Nabi", 
   "game": 656449, 
-  "score": 7, 
+  "score": 9, 
   "team": "Afghanistan"
  }, 
  {
@@ -7367,7 +7367,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656449, 
-  "score": 42, 
+  "score": 48, 
   "team": "Afghanistan"
  }, 
  {
@@ -7376,7 +7376,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656449, 
-  "score": 42, 
+  "score": 48, 
   "team": "Afghanistan"
  }, 
  {
@@ -7403,7 +7403,7 @@
   "batsman_1": "Afsar Zazai", 
   "batsman_2": "Najibullah Zadran", 
   "game": 656449, 
-  "score": 26, 
+  "score": 28, 
   "team": "Afghanistan"
  }, 
  {
@@ -7412,7 +7412,7 @@
   "batsman_1": "Najibullah Zadran", 
   "batsman_2": "Afsar Zazai", 
   "game": 656449, 
-  "score": 26, 
+  "score": 28, 
   "team": "Afghanistan"
  }, 
  {
@@ -7421,7 +7421,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Tamim Iqbal", 
   "game": 656451, 
-  "score": 134, 
+  "score": 139, 
   "team": "Bangladesh"
  }, 
  {
@@ -7430,7 +7430,7 @@
   "batsman_1": "Tamim Iqbal", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656451, 
-  "score": 134, 
+  "score": 139, 
   "team": "Bangladesh"
  }, 
  {
@@ -7457,7 +7457,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Tamim Iqbal", 
   "game": 656451, 
-  "score": 4, 
+  "score": 5, 
   "team": "Bangladesh"
  }, 
  {
@@ -7466,7 +7466,7 @@
   "batsman_1": "Tamim Iqbal", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656451, 
-  "score": 4, 
+  "score": 5, 
   "team": "Bangladesh"
  }, 
  {
@@ -7493,7 +7493,7 @@
   "batsman_1": "Matthew Cross", 
   "batsman_2": "Richie Berrington", 
   "game": 656451, 
-  "score": 38, 
+  "score": 39, 
   "team": "Scotland"
  }, 
  {
@@ -7502,7 +7502,7 @@
   "batsman_1": "Richie Berrington", 
   "batsman_2": "Matthew Cross", 
   "game": 656451, 
-  "score": 38, 
+  "score": 39, 
   "team": "Scotland"
  }, 
  {
@@ -7511,7 +7511,7 @@
   "batsman_1": "Alasdair Evans", 
   "batsman_2": "Josh Davey", 
   "game": 656451, 
-  "score": 2, 
+  "score": 3, 
   "team": "Scotland"
  }, 
  {
@@ -7520,7 +7520,7 @@
   "batsman_1": "Josh Davey", 
   "batsman_2": "Alasdair Evans", 
   "game": 656451, 
-  "score": 2, 
+  "score": 3, 
   "team": "Scotland"
  }, 
  {
@@ -7565,7 +7565,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Preston Mommsen", 
   "game": 656451, 
-  "score": 139, 
+  "score": 141, 
   "team": "Scotland"
  }, 
  {
@@ -7574,7 +7574,7 @@
   "batsman_1": "Preston Mommsen", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656451, 
-  "score": 139, 
+  "score": 141, 
   "team": "Scotland"
  }, 
  {
@@ -7583,7 +7583,7 @@
   "batsman_1": "Hamish Gardiner", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656451, 
-  "score": 24, 
+  "score": 25, 
   "team": "Scotland"
  }, 
  {
@@ -7592,7 +7592,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Hamish Gardiner", 
   "game": 656451, 
-  "score": 24, 
+  "score": 25, 
   "team": "Scotland"
  }, 
  {
@@ -7619,7 +7619,7 @@
   "batsman_1": "Kyle Coetzer", 
   "batsman_2": "Matt Machan", 
   "game": 656451, 
-  "score": 76, 
+  "score": 78, 
   "team": "Scotland"
  }, 
  {
@@ -7628,7 +7628,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Kyle Coetzer", 
   "game": 656451, 
-  "score": 76, 
+  "score": 78, 
   "team": "Scotland"
  }, 
  {
@@ -7655,7 +7655,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656451, 
-  "score": 43, 
+  "score": 46, 
   "team": "Bangladesh"
  }, 
  {
@@ -7664,7 +7664,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656451, 
-  "score": 43, 
+  "score": 46, 
   "team": "Bangladesh"
  }, 
  {
@@ -7673,7 +7673,7 @@
   "batsman_1": "Jason Holder", 
   "batsman_2": "Kemar Roach", 
   "game": 656453, 
-  "score": 6, 
+  "score": 7, 
   "team": "West Indies"
  }, 
  {
@@ -7682,7 +7682,7 @@
   "batsman_1": "Kemar Roach", 
   "batsman_2": "Jason Holder", 
   "game": 656453, 
-  "score": 6, 
+  "score": 7, 
   "team": "West Indies"
  }, 
  {
@@ -7691,7 +7691,7 @@
   "batsman_1": "Jason Holder", 
   "batsman_2": "Jerome Taylor", 
   "game": 656453, 
-  "score": 49, 
+  "score": 51, 
   "team": "West Indies"
  }, 
  {
@@ -7700,7 +7700,7 @@
   "batsman_1": "Jerome Taylor", 
   "batsman_2": "Jason Holder", 
   "game": 656453, 
-  "score": 49, 
+  "score": 51, 
   "team": "West Indies"
  }, 
  {
@@ -7709,7 +7709,7 @@
   "batsman_1": "Andre Russell", 
   "batsman_2": "Darren Sammy", 
   "game": 656453, 
-  "score": 10, 
+  "score": 14, 
   "team": "West Indies"
  }, 
  {
@@ -7718,7 +7718,7 @@
   "batsman_1": "Darren Sammy", 
   "batsman_2": "Andre Russell", 
   "game": 656453, 
-  "score": 10, 
+  "score": 14, 
   "team": "West Indies"
  }, 
  {
@@ -7727,7 +7727,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Virat Kohli", 
   "game": 656453, 
-  "score": 39, 
+  "score": 43, 
   "team": "India"
  }, 
  {
@@ -7736,7 +7736,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656453, 
-  "score": 39, 
+  "score": 43, 
   "team": "India"
  }, 
  {
@@ -7745,7 +7745,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Suresh Raina", 
   "game": 656453, 
-  "score": 10, 
+  "score": 15, 
   "team": "India"
  }, 
  {
@@ -7754,7 +7754,7 @@
   "batsman_1": "Suresh Raina", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656453, 
-  "score": 10, 
+  "score": 15, 
   "team": "India"
  }, 
  {
@@ -7763,7 +7763,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Suresh Raina", 
   "game": 656453, 
-  "score": 22, 
+  "score": 29, 
   "team": "India"
  }, 
  {
@@ -7772,7 +7772,7 @@
   "batsman_1": "Suresh Raina", 
   "batsman_2": "MS Dhoni", 
   "game": 656453, 
-  "score": 22, 
+  "score": 29, 
   "team": "India"
  }, 
  {
@@ -7799,7 +7799,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Virat Kohli", 
   "game": 656453, 
-  "score": 8, 
+  "score": 9, 
   "team": "India"
  }, 
  {
@@ -7808,7 +7808,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Rohit Sharma", 
   "game": 656453, 
-  "score": 8, 
+  "score": 9, 
   "team": "India"
  }, 
  {
@@ -7817,7 +7817,7 @@
   "batsman_1": "Darren Sammy", 
   "batsman_2": "Jason Holder", 
   "game": 656453, 
-  "score": 34, 
+  "score": 39, 
   "team": "West Indies"
  }, 
  {
@@ -7826,7 +7826,7 @@
   "batsman_1": "Jason Holder", 
   "batsman_2": "Darren Sammy", 
   "game": 656453, 
-  "score": 34, 
+  "score": 39, 
   "team": "West Indies"
  }, 
  {
@@ -7835,7 +7835,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Dwayne Smith", 
   "game": 656453, 
-  "score": 6, 
+  "score": 8, 
   "team": "West Indies"
  }, 
  {
@@ -7844,7 +7844,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Chris Gayle", 
   "game": 656453, 
-  "score": 6, 
+  "score": 8, 
   "team": "West Indies"
  }, 
  {
@@ -7871,7 +7871,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Marlon Samuels", 
   "game": 656453, 
-  "score": 4, 
+  "score": 7, 
   "team": "West Indies"
  }, 
  {
@@ -7880,7 +7880,7 @@
   "batsman_1": "Marlon Samuels", 
   "batsman_2": "Chris Gayle", 
   "game": 656453, 
-  "score": 4, 
+  "score": 7, 
   "team": "West Indies"
  }, 
  {
@@ -7889,7 +7889,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Lendl Simmons", 
   "game": 656453, 
-  "score": 30, 
+  "score": 32, 
   "team": "West Indies"
  }, 
  {
@@ -7898,7 +7898,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Jonathan Carter", 
   "game": 656453, 
-  "score": 30, 
+  "score": 32, 
   "team": "West Indies"
  }, 
  {
@@ -7907,7 +7907,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Ravichandran Ashwin", 
   "game": 656453, 
-  "score": 45, 
+  "score": 51, 
   "team": "India"
  }, 
  {
@@ -7916,7 +7916,7 @@
   "batsman_1": "Ravichandran Ashwin", 
   "batsman_2": "MS Dhoni", 
   "game": 656453, 
-  "score": 45, 
+  "score": 51, 
   "team": "India"
  }, 
  {
@@ -7925,7 +7925,7 @@
   "batsman_1": "Darren Sammy", 
   "batsman_2": "Jonathan Carter", 
   "game": 656453, 
-  "score": 3, 
+  "score": 4, 
   "team": "West Indies"
  }, 
  {
@@ -7934,7 +7934,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Darren Sammy", 
   "game": 656453, 
-  "score": 3, 
+  "score": 4, 
   "team": "West Indies"
  }, 
  {
@@ -7943,7 +7943,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Jonathan Carter", 
   "game": 656453, 
-  "score": 19, 
+  "score": 20, 
   "team": "West Indies"
  }, 
  {
@@ -7952,7 +7952,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Chris Gayle", 
   "game": 656453, 
-  "score": 19, 
+  "score": 20, 
   "team": "West Indies"
  }, 
  {
@@ -7961,7 +7961,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Ravindra Jadeja", 
   "game": 656453, 
-  "score": 24, 
+  "score": 27, 
   "team": "India"
  }, 
  {
@@ -7970,7 +7970,7 @@
   "batsman_1": "Ravindra Jadeja", 
   "batsman_2": "MS Dhoni", 
   "game": 656453, 
-  "score": 24, 
+  "score": 27, 
   "team": "India"
  }, 
  {
@@ -7979,7 +7979,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Hashim Amla", 
   "game": 656455, 
-  "score": 65, 
+  "score": 67, 
   "team": "South Africa"
  }, 
  {
@@ -7988,7 +7988,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Faf du Plessis", 
   "game": 656455, 
-  "score": 65, 
+  "score": 67, 
   "team": "South Africa"
  }, 
  {
@@ -7997,7 +7997,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Sohaib Maqsood", 
   "game": 656455, 
-  "score": 23, 
+  "score": 24, 
   "team": "Pakistan"
  }, 
  {
@@ -8006,7 +8006,7 @@
   "batsman_1": "Sohaib Maqsood", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656455, 
-  "score": 23, 
+  "score": 24, 
   "team": "Pakistan"
  }, 
  {
@@ -8015,7 +8015,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Dale Steyn", 
   "game": 656455, 
-  "score": 35, 
+  "score": 36, 
   "team": "South Africa"
  }, 
  {
@@ -8024,7 +8024,7 @@
   "batsman_1": "Dale Steyn", 
   "batsman_2": "AB de Villiers", 
   "game": 656455, 
-  "score": 35, 
+  "score": 36, 
   "team": "South Africa"
  }, 
  {
@@ -8069,7 +8069,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Jean-Paul Duminy", 
   "game": 656455, 
-  "score": 24, 
+  "score": 25, 
   "team": "South Africa"
  }, 
  {
@@ -8078,7 +8078,7 @@
   "batsman_1": "Jean-Paul Duminy", 
   "batsman_2": "AB de Villiers", 
   "game": 656455, 
-  "score": 24, 
+  "score": 25, 
   "team": "South Africa"
  }, 
  {
@@ -8087,7 +8087,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Morne Morkel", 
   "game": 656455, 
-  "score": 26, 
+  "score": 28, 
   "team": "South Africa"
  }, 
  {
@@ -8096,7 +8096,7 @@
   "batsman_1": "Morne Morkel", 
   "batsman_2": "AB de Villiers", 
   "game": 656455, 
-  "score": 26, 
+  "score": 28, 
   "team": "South Africa"
  }, 
  {
@@ -8105,7 +8105,7 @@
   "batsman_1": "Imran Tahir", 
   "batsman_2": "Morne Morkel", 
   "game": 656455, 
-  "score": 1, 
+  "score": 2, 
   "team": "South Africa"
  }, 
  {
@@ -8114,7 +8114,7 @@
   "batsman_1": "Morne Morkel", 
   "batsman_2": "Imran Tahir", 
   "game": 656455, 
-  "score": 1, 
+  "score": 2, 
   "team": "South Africa"
  }, 
  {
@@ -8159,7 +8159,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Sarfraz Ahmed", 
   "game": 656455, 
-  "score": 28, 
+  "score": 30, 
   "team": "Pakistan"
  }, 
  {
@@ -8168,7 +8168,7 @@
   "batsman_1": "Sarfraz Ahmed", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656455, 
-  "score": 28, 
+  "score": 30, 
   "team": "Pakistan"
  }, 
  {
@@ -8177,7 +8177,7 @@
   "batsman_1": "Sarfraz Ahmed", 
   "batsman_2": "Younis Khan", 
   "game": 656455, 
-  "score": 58, 
+  "score": 62, 
   "team": "Pakistan"
  }, 
  {
@@ -8186,7 +8186,7 @@
   "batsman_1": "Younis Khan", 
   "batsman_2": "Sarfraz Ahmed", 
   "game": 656455, 
-  "score": 58, 
+  "score": 62, 
   "team": "Pakistan"
  }, 
  {
@@ -8213,7 +8213,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Sohail Khan", 
   "game": 656455, 
-  "score": 2, 
+  "score": 6, 
   "team": "Pakistan"
  }, 
  {
@@ -8222,7 +8222,7 @@
   "batsman_1": "Sohail Khan", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656455, 
-  "score": 2, 
+  "score": 6, 
   "team": "Pakistan"
  }, 
  {
@@ -8267,7 +8267,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Kyle Abbott", 
   "game": 656455, 
-  "score": 33, 
+  "score": 34, 
   "team": "South Africa"
  }, 
  {
@@ -8276,7 +8276,7 @@
   "batsman_1": "Kyle Abbott", 
   "batsman_2": "AB de Villiers", 
   "game": 656455, 
-  "score": 33, 
+  "score": 34, 
   "team": "South Africa"
  }, 
  {
@@ -8303,7 +8303,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Younis Khan", 
   "game": 656455, 
-  "score": 37, 
+  "score": 40, 
   "team": "Pakistan"
  }, 
  {
@@ -8312,7 +8312,7 @@
   "batsman_1": "Younis Khan", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656455, 
-  "score": 37, 
+  "score": 40, 
   "team": "Pakistan"
  }, 
  {
@@ -8393,7 +8393,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "John Mooney", 
   "game": 656457, 
-  "score": 10, 
+  "score": 11, 
   "team": "Ireland"
  }, 
  {
@@ -8402,7 +8402,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656457, 
-  "score": 10, 
+  "score": 11, 
   "team": "Ireland"
  }, 
  {
@@ -8411,7 +8411,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Sean Williams", 
   "game": 656457, 
-  "score": 34, 
+  "score": 36, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8420,7 +8420,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Craig Ervine", 
   "game": 656457, 
-  "score": 34, 
+  "score": 36, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8429,7 +8429,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sean Williams", 
   "game": 656457, 
-  "score": 145, 
+  "score": 149, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8438,7 +8438,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Brendan Taylor", 
   "game": 656457, 
-  "score": 145, 
+  "score": 149, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8447,7 +8447,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "William Porterfield", 
   "game": 656457, 
-  "score": 61, 
+  "score": 63, 
   "team": "Ireland"
  }, 
  {
@@ -8456,7 +8456,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Ed Joyce", 
   "game": 656457, 
-  "score": 61, 
+  "score": 63, 
   "team": "Ireland"
  }, 
  {
@@ -8465,7 +8465,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Ed Joyce", 
   "game": 656457, 
-  "score": 134, 
+  "score": 138, 
   "team": "Ireland"
  }, 
  {
@@ -8474,7 +8474,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656457, 
-  "score": 134, 
+  "score": 138, 
   "team": "Ireland"
  }, 
  {
@@ -8501,7 +8501,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656457, 
-  "score": 56, 
+  "score": 59, 
   "team": "Ireland"
  }, 
  {
@@ -8510,7 +8510,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656457, 
-  "score": 56, 
+  "score": 59, 
   "team": "Ireland"
  }, 
  {
@@ -8555,7 +8555,7 @@
   "batsman_1": "Chamu Chibhabha", 
   "batsman_2": "Sikandar Raza", 
   "game": 656457, 
-  "score": 30, 
+  "score": 32, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8564,7 +8564,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Chamu Chibhabha", 
   "game": 656457, 
-  "score": 30, 
+  "score": 32, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8609,7 +8609,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Sean Williams", 
   "game": 656457, 
-  "score": 38, 
+  "score": 41, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8618,7 +8618,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Regis Chakabva", 
   "game": 656457, 
-  "score": 38, 
+  "score": 41, 
   "team": "Zimbabwe"
  }, 
  {
@@ -8627,7 +8627,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Gary Wilson", 
   "game": 656457, 
-  "score": 28, 
+  "score": 32, 
   "team": "Ireland"
  }, 
  {
@@ -8636,7 +8636,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656457, 
-  "score": 28, 
+  "score": 32, 
   "team": "Ireland"
  }, 
  {
@@ -8663,7 +8663,7 @@
   "batsman_1": "Paul Stirling", 
   "batsman_2": "William Porterfield", 
   "game": 656457, 
-  "score": 15, 
+  "score": 16, 
   "team": "Ireland"
  }, 
  {
@@ -8672,7 +8672,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Paul Stirling", 
   "game": 656457, 
-  "score": 15, 
+  "score": 16, 
   "team": "Ireland"
  }, 
  {
@@ -8681,7 +8681,7 @@
   "batsman_1": "Dawlat Zadran", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656459, 
-  "score": 5, 
+  "score": 6, 
   "team": "Afghanistan"
  }, 
  {
@@ -8690,7 +8690,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Dawlat Zadran", 
   "game": 656459, 
-  "score": 5, 
+  "score": 6, 
   "team": "Afghanistan"
  }, 
  {
@@ -8699,7 +8699,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Ross Taylor", 
   "game": 656459, 
-  "score": 31, 
+  "score": 32, 
   "team": "New Zealand"
  }, 
  {
@@ -8708,7 +8708,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Martin Guptill", 
   "game": 656459, 
-  "score": 31, 
+  "score": 32, 
   "team": "New Zealand"
  }, 
  {
@@ -8717,7 +8717,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Martin Guptill", 
   "game": 656459, 
-  "score": 57, 
+  "score": 58, 
   "team": "New Zealand"
  }, 
  {
@@ -8726,7 +8726,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Kane Williamson", 
   "game": 656459, 
-  "score": 57, 
+  "score": 58, 
   "team": "New Zealand"
  }, 
  {
@@ -8735,7 +8735,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Martin Guptill", 
   "game": 656459, 
-  "score": 51, 
+  "score": 53, 
   "team": "New Zealand"
  }, 
  {
@@ -8744,7 +8744,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Brendon McCullum", 
   "game": 656459, 
-  "score": 51, 
+  "score": 53, 
   "team": "New Zealand"
  }, 
  {
@@ -8753,7 +8753,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Usman Ghani", 
   "game": 656459, 
-  "score": 0, 
+  "score": 1, 
   "team": "Afghanistan"
  }, 
  {
@@ -8762,7 +8762,7 @@
   "batsman_1": "Usman Ghani", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656459, 
-  "score": 0, 
+  "score": 1, 
   "team": "Afghanistan"
  }, 
  {
@@ -8771,7 +8771,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Usman Ghani", 
   "game": 656459, 
-  "score": 1, 
+  "score": 5, 
   "team": "Afghanistan"
  }, 
  {
@@ -8780,7 +8780,7 @@
   "batsman_1": "Usman Ghani", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656459, 
-  "score": 1, 
+  "score": 5, 
   "team": "Afghanistan"
  }, 
  {
@@ -8843,7 +8843,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656459, 
-  "score": 24, 
+  "score": 25, 
   "team": "Afghanistan"
  }, 
  {
@@ -8852,7 +8852,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656459, 
-  "score": 24, 
+  "score": 25, 
   "team": "Afghanistan"
  }, 
  {
@@ -8861,7 +8861,7 @@
   "batsman_1": "Najibullah Zadran", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656459, 
-  "score": 81, 
+  "score": 86, 
   "team": "Afghanistan"
  }, 
  {
@@ -8870,7 +8870,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Najibullah Zadran", 
   "game": 656459, 
-  "score": 81, 
+  "score": 86, 
   "team": "Afghanistan"
  }, 
  {
@@ -8879,7 +8879,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Ross Taylor", 
   "game": 656459, 
-  "score": 12, 
+  "score": 13, 
   "team": "New Zealand"
  }, 
  {
@@ -8888,7 +8888,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Corey Anderson", 
   "game": 656459, 
-  "score": 12, 
+  "score": 13, 
   "team": "New Zealand"
  }, 
  {
@@ -8897,7 +8897,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Ross Taylor", 
   "game": 656459, 
-  "score": 31, 
+  "score": 32, 
   "team": "New Zealand"
  }, 
  {
@@ -8906,7 +8906,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Grant Elliott", 
   "game": 656459, 
-  "score": 31, 
+  "score": 32, 
   "team": "New Zealand"
  }, 
  {
@@ -8915,7 +8915,7 @@
   "batsman_1": "Hamid Hassan", 
   "batsman_2": "Shapoor Zadran", 
   "game": 656459, 
-  "score": 18, 
+  "score": 20, 
   "team": "Afghanistan"
  }, 
  {
@@ -8924,7 +8924,7 @@
   "batsman_1": "Shapoor Zadran", 
   "batsman_2": "Hamid Hassan", 
   "game": 656459, 
-  "score": 18, 
+  "score": 20, 
   "team": "Afghanistan"
  }, 
  {
@@ -8969,7 +8969,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "Steven Smith", 
   "game": 656461, 
-  "score": 21, 
+  "score": 22, 
   "team": "Australia"
  }, 
  {
@@ -8978,7 +8978,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "Aaron Finch", 
   "game": 656461, 
-  "score": 21, 
+  "score": 22, 
   "team": "Australia"
  }, 
  {
@@ -8987,7 +8987,7 @@
   "batsman_1": "Michael Clarke", 
   "batsman_2": "Steven Smith", 
   "game": 656461, 
-  "score": 133, 
+  "score": 134, 
   "team": "Australia"
  }, 
  {
@@ -8996,7 +8996,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "Michael Clarke", 
   "game": 656461, 
-  "score": 133, 
+  "score": 134, 
   "team": "Australia"
  }, 
  {
@@ -9059,7 +9059,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Dinesh Chandimal", 
   "game": 656461, 
-  "score": 78, 
+  "score": 80, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9068,7 +9068,7 @@
   "batsman_1": "Dinesh Chandimal", 
   "batsman_2": "Angelo Mathews", 
   "game": 656461, 
-  "score": 78, 
+  "score": 80, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9077,7 +9077,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656461, 
-  "score": 12, 
+  "score": 13, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9086,7 +9086,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Angelo Mathews", 
   "game": 656461, 
-  "score": 12, 
+  "score": 13, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9095,7 +9095,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Mahela Jayawardene", 
   "game": 656461, 
-  "score": 49, 
+  "score": 53, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9104,7 +9104,7 @@
   "batsman_1": "Mahela Jayawardene", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656461, 
-  "score": 49, 
+  "score": 53, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9131,7 +9131,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656461, 
-  "score": 127, 
+  "score": 130, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9140,7 +9140,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656461, 
-  "score": 127, 
+  "score": 130, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9149,7 +9149,7 @@
   "batsman_1": "Seekkuge Prasanna", 
   "batsman_2": "Upul Tharanga", 
   "game": 656461, 
-  "score": 11, 
+  "score": 12, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9158,7 +9158,7 @@
   "batsman_1": "Upul Tharanga", 
   "batsman_2": "Seekkuge Prasanna", 
   "game": 656461, 
-  "score": 11, 
+  "score": 12, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9257,7 +9257,7 @@
   "batsman_1": "Mitchell Johnson", 
   "batsman_2": "Xavier Doherty", 
   "game": 656461, 
-  "score": 1, 
+  "score": 2, 
   "team": "Australia"
  }, 
  {
@@ -9266,7 +9266,7 @@
   "batsman_1": "Xavier Doherty", 
   "batsman_2": "Mitchell Johnson", 
   "game": 656461, 
-  "score": 1, 
+  "score": 2, 
   "team": "Australia"
  }, 
  {
@@ -9275,7 +9275,7 @@
   "batsman_1": "Glenn Maxwell", 
   "batsman_2": "Shane Watson", 
   "game": 656461, 
-  "score": 157, 
+  "score": 160, 
   "team": "Australia"
  }, 
  {
@@ -9284,7 +9284,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "Glenn Maxwell", 
   "game": 656461, 
-  "score": 157, 
+  "score": 160, 
   "team": "Australia"
  }, 
  {
@@ -9347,7 +9347,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656463, 
-  "score": 135, 
+  "score": 141, 
   "team": "Bangladesh"
  }, 
  {
@@ -9356,7 +9356,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656463, 
-  "score": 135, 
+  "score": 141, 
   "team": "Bangladesh"
  }, 
  {
@@ -9365,7 +9365,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656463, 
-  "score": 81, 
+  "score": 86, 
   "team": "Bangladesh"
  }, 
  {
@@ -9374,7 +9374,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656463, 
-  "score": 81, 
+  "score": 86, 
   "team": "Bangladesh"
  }, 
  {
@@ -9455,7 +9455,7 @@
   "batsman_1": "Chris Woakes", 
   "batsman_2": "Stuart Broad", 
   "game": 656463, 
-  "score": 19, 
+  "score": 22, 
   "team": "England"
  }, 
  {
@@ -9464,7 +9464,7 @@
   "batsman_1": "Stuart Broad", 
   "batsman_2": "Chris Woakes", 
   "game": 656463, 
-  "score": 19, 
+  "score": 22, 
   "team": "England"
  }, 
  {
@@ -9491,7 +9491,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Moeen Ali", 
   "game": 656463, 
-  "score": 41, 
+  "score": 43, 
   "team": "England"
  }, 
  {
@@ -9500,7 +9500,7 @@
   "batsman_1": "Moeen Ali", 
   "batsman_2": "Ian Bell", 
   "game": 656463, 
-  "score": 41, 
+  "score": 43, 
   "team": "England"
  }, 
  {
@@ -9599,7 +9599,7 @@
   "batsman_1": "Mashrafe Mortaza", 
   "batsman_2": "Sabbir Rahman", 
   "game": 656463, 
-  "score": 2, 
+  "score": 4, 
   "team": "Bangladesh"
  }, 
  {
@@ -9608,7 +9608,7 @@
   "batsman_1": "Sabbir Rahman", 
   "batsman_2": "Mashrafe Mortaza", 
   "game": 656463, 
-  "score": 2, 
+  "score": 4, 
   "team": "Bangladesh"
  }, 
  {
@@ -9617,7 +9617,7 @@
   "batsman_1": "Arafat Sunny", 
   "batsman_2": "Mashrafe Mortaza", 
   "game": 656463, 
-  "score": 9, 
+  "score": 10, 
   "team": "Bangladesh"
  }, 
  {
@@ -9626,7 +9626,7 @@
   "batsman_1": "Mashrafe Mortaza", 
   "batsman_2": "Arafat Sunny", 
   "game": 656463, 
-  "score": 9, 
+  "score": 10, 
   "team": "Bangladesh"
  }, 
  {
@@ -9635,7 +9635,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Virat Kohli", 
   "game": 656465, 
-  "score": 14, 
+  "score": 16, 
   "team": "India"
  }, 
  {
@@ -9644,7 +9644,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656465, 
-  "score": 14, 
+  "score": 16, 
   "team": "India"
  }, 
  {
@@ -9653,7 +9653,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656465, 
-  "score": 160, 
+  "score": 174, 
   "team": "India"
  }, 
  {
@@ -9662,7 +9662,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Rohit Sharma", 
   "game": 656465, 
-  "score": 160, 
+  "score": 174, 
   "team": "India"
  }, 
  {
@@ -9671,7 +9671,7 @@
   "batsman_1": "George Dockrell", 
   "batsman_2": "John Mooney", 
   "game": 656465, 
-  "score": 10, 
+  "score": 11, 
   "team": "Ireland"
  }, 
  {
@@ -9680,7 +9680,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "George Dockrell", 
   "game": 656465, 
-  "score": 10, 
+  "score": 11, 
   "team": "Ireland"
  }, 
  {
@@ -9689,7 +9689,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Stuart Thompson", 
   "game": 656465, 
-  "score": 0, 
+  "score": 1, 
   "team": "Ireland"
  }, 
  {
@@ -9698,7 +9698,7 @@
   "batsman_1": "Stuart Thompson", 
   "batsman_2": "John Mooney", 
   "game": 656465, 
-  "score": 0, 
+  "score": 1, 
   "team": "Ireland"
  }, 
  {
@@ -9707,7 +9707,7 @@
   "batsman_1": "Alex Cusack", 
   "batsman_2": "John Mooney", 
   "game": 656465, 
-  "score": 19, 
+  "score": 21, 
   "team": "Ireland"
  }, 
  {
@@ -9716,7 +9716,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Alex Cusack", 
   "game": 656465, 
-  "score": 19, 
+  "score": 21, 
   "team": "Ireland"
  }, 
  {
@@ -9725,7 +9725,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Virat Kohli", 
   "game": 656465, 
-  "score": 67, 
+  "score": 70, 
   "team": "India"
  }, 
  {
@@ -9734,7 +9734,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656465, 
-  "score": 67, 
+  "score": 70, 
   "team": "India"
  }, 
  {
@@ -9797,7 +9797,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Niall O'Brien", 
   "game": 656465, 
-  "score": 59, 
+  "score": 61, 
   "team": "Ireland"
  }, 
  {
@@ -9806,7 +9806,7 @@
   "batsman_1": "Niall O'Brien", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656465, 
-  "score": 59, 
+  "score": 61, 
   "team": "Ireland"
  }, 
  {
@@ -9851,7 +9851,7 @@
   "batsman_1": "Paul Stirling", 
   "batsman_2": "William Porterfield", 
   "game": 656465, 
-  "score": 84, 
+  "score": 89, 
   "team": "Ireland"
  }, 
  {
@@ -9860,7 +9860,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Paul Stirling", 
   "game": 656465, 
-  "score": 84, 
+  "score": 89, 
   "team": "Ireland"
  }, 
  {
@@ -9887,7 +9887,7 @@
   "batsman_1": "Richie Berrington", 
   "batsman_2": "Rob Taylor", 
   "game": 656467, 
-  "score": 8, 
+  "score": 9, 
   "team": "Scotland"
  }, 
  {
@@ -9896,7 +9896,7 @@
   "batsman_1": "Rob Taylor", 
   "batsman_2": "Richie Berrington", 
   "game": 656467, 
-  "score": 8, 
+  "score": 9, 
   "team": "Scotland"
  }, 
  {
@@ -9977,7 +9977,7 @@
   "batsman_1": "Angelo Mathews", 
   "batsman_2": "Kusal Perera", 
   "game": 656467, 
-  "score": 44, 
+  "score": 45, 
   "team": "Sri Lanka"
  }, 
  {
@@ -9986,7 +9986,7 @@
   "batsman_1": "Kusal Perera", 
   "batsman_2": "Angelo Mathews", 
   "game": 656467, 
-  "score": 44, 
+  "score": 45, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10031,7 +10031,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Mahela Jayawardene", 
   "game": 656467, 
-  "score": 25, 
+  "score": 28, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10040,7 +10040,7 @@
   "batsman_1": "Mahela Jayawardene", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656467, 
-  "score": 25, 
+  "score": 28, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10049,7 +10049,7 @@
   "batsman_1": "Lahiru Thirimanne", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656467, 
-  "score": 20, 
+  "score": 21, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10058,7 +10058,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Lahiru Thirimanne", 
   "game": 656467, 
-  "score": 20, 
+  "score": 21, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10067,7 +10067,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656467, 
-  "score": 189, 
+  "score": 195, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10076,7 +10076,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656467, 
-  "score": 189, 
+  "score": 195, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10103,7 +10103,7 @@
   "batsman_1": "Nuwan Kulasekara", 
   "batsman_2": "Seekkuge Prasanna", 
   "game": 656467, 
-  "score": 2, 
+  "score": 3, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10112,7 +10112,7 @@
   "batsman_1": "Seekkuge Prasanna", 
   "batsman_2": "Nuwan Kulasekara", 
   "game": 656467, 
-  "score": 2, 
+  "score": 3, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10139,7 +10139,7 @@
   "batsman_1": "Calum MacLeod", 
   "batsman_2": "Matt Machan", 
   "game": 656467, 
-  "score": 24, 
+  "score": 26, 
   "team": "Scotland"
  }, 
  {
@@ -10148,7 +10148,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Calum MacLeod", 
   "game": 656467, 
-  "score": 24, 
+  "score": 26, 
   "team": "Scotland"
  }, 
  {
@@ -10157,7 +10157,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Preston Mommsen", 
   "game": 656467, 
-  "score": 17, 
+  "score": 18, 
   "team": "Scotland"
  }, 
  {
@@ -10166,7 +10166,7 @@
   "batsman_1": "Preston Mommsen", 
   "batsman_2": "Matt Machan", 
   "game": 656467, 
-  "score": 17, 
+  "score": 18, 
   "team": "Scotland"
  }, 
  {
@@ -10175,7 +10175,7 @@
   "batsman_1": "Freddie Coleman", 
   "batsman_2": "Preston Mommsen", 
   "game": 656467, 
-  "score": 113, 
+  "score": 118, 
   "team": "Scotland"
  }, 
  {
@@ -10184,7 +10184,7 @@
   "batsman_1": "Preston Mommsen", 
   "batsman_2": "Freddie Coleman", 
   "game": 656467, 
-  "score": 113, 
+  "score": 118, 
   "team": "Scotland"
  }, 
  {
@@ -10211,7 +10211,7 @@
   "batsman_1": "Lasith Malinga", 
   "batsman_2": "Nuwan Kulasekara", 
   "game": 656467, 
-  "score": 4, 
+  "score": 5, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10220,7 +10220,7 @@
   "batsman_1": "Nuwan Kulasekara", 
   "batsman_2": "Lasith Malinga", 
   "game": 656467, 
-  "score": 4, 
+  "score": 5, 
   "team": "Sri Lanka"
  }, 
  {
@@ -10229,7 +10229,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Rilee Rossouw", 
   "game": 656469, 
-  "score": 10, 
+  "score": 11, 
   "team": "South Africa"
  }, 
  {
@@ -10238,7 +10238,7 @@
   "batsman_1": "Rilee Rossouw", 
   "batsman_2": "AB de Villiers", 
   "game": 656469, 
-  "score": 10, 
+  "score": 11, 
   "team": "South Africa"
  }, 
  {
@@ -10247,7 +10247,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Rilee Rossouw", 
   "game": 656469, 
-  "score": 60, 
+  "score": 68, 
   "team": "South Africa"
  }, 
  {
@@ -10256,7 +10256,7 @@
   "batsman_1": "Rilee Rossouw", 
   "batsman_2": "Quinton de Kock", 
   "game": 656469, 
-  "score": 60, 
+  "score": 68, 
   "team": "South Africa"
  }, 
  {
@@ -10301,7 +10301,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Raffaelo", 
   "game": 656469, 
-  "score": 17, 
+  "score": 20, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10310,7 +10310,7 @@
   "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Amjad Ali", 
   "game": 656469, 
-  "score": 17, 
+  "score": 20, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10319,7 +10319,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "game": 656469, 
-  "score": 5, 
+  "score": 9, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10328,7 +10328,7 @@
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "game": 656469, 
-  "score": 5, 
+  "score": 9, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10337,7 +10337,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Swapnil Patil", 
   "game": 656469, 
-  "score": 55, 
+  "score": 63, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10346,7 +10346,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Shaiman Anwar", 
   "game": 656469, 
-  "score": 55, 
+  "score": 63, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10373,7 +10373,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Swapnil Patil", 
   "game": 656469, 
-  "score": 20, 
+  "score": 26, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10382,7 +10382,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Mohammad Tauqir", 
   "game": 656469, 
-  "score": 20, 
+  "score": 26, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10409,7 +10409,7 @@
   "batsman_1": "Saqlain Haider", 
   "batsman_2": "Swapnil Patil", 
   "game": 656469, 
-  "score": 9, 
+  "score": 10, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10418,7 +10418,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Saqlain Haider", 
   "game": 656469, 
-  "score": 9, 
+  "score": 10, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10427,7 +10427,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Swapnil Patil", 
   "game": 656469, 
-  "score": 31, 
+  "score": 38, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10436,7 +10436,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Mohammad Naveed", 
   "game": 656469, 
-  "score": 31, 
+  "score": 38, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -10445,7 +10445,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Quinton de Kock", 
   "game": 656469, 
-  "score": 14, 
+  "score": 17, 
   "team": "South Africa"
  }, 
  {
@@ -10454,7 +10454,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Hashim Amla", 
   "game": 656469, 
-  "score": 14, 
+  "score": 17, 
   "team": "South Africa"
  }, 
  {
@@ -10463,7 +10463,7 @@
   "batsman_1": "Farhaan Behardien", 
   "batsman_2": "Vernon Philander", 
   "game": 656469, 
-  "score": 48, 
+  "score": 49, 
   "team": "South Africa"
  }, 
  {
@@ -10472,7 +10472,7 @@
   "batsman_1": "Vernon Philander", 
   "batsman_2": "Farhaan Behardien", 
   "game": 656469, 
-  "score": 48, 
+  "score": 49, 
   "team": "South Africa"
  }, 
  {
@@ -10499,7 +10499,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "David Miller", 
   "game": 656469, 
-  "score": 106, 
+  "score": 108, 
   "team": "South Africa"
  }, 
  {
@@ -10508,7 +10508,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "AB de Villiers", 
   "game": 656469, 
-  "score": 106, 
+  "score": 108, 
   "team": "South Africa"
  }, 
  {
@@ -10589,7 +10589,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Nasir Hossain", 
   "game": 656471, 
-  "score": 26, 
+  "score": 27, 
   "team": "Bangladesh"
  }, 
  {
@@ -10598,7 +10598,7 @@
   "batsman_1": "Nasir Hossain", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656471, 
-  "score": 26, 
+  "score": 27, 
   "team": "Bangladesh"
  }, 
  {
@@ -10607,7 +10607,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656471, 
-  "score": 88, 
+  "score": 90, 
   "team": "Bangladesh"
  }, 
  {
@@ -10616,7 +10616,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656471, 
-  "score": 88, 
+  "score": 90, 
   "team": "Bangladesh"
  }, 
  {
@@ -10625,7 +10625,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656471, 
-  "score": 33, 
+  "score": 34, 
   "team": "Bangladesh"
  }, 
  {
@@ -10634,7 +10634,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656471, 
-  "score": 33, 
+  "score": 34, 
   "team": "Bangladesh"
  }, 
  {
@@ -10643,7 +10643,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656471, 
-  "score": 30, 
+  "score": 31, 
   "team": "Bangladesh"
  }, 
  {
@@ -10652,7 +10652,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656471, 
-  "score": 30, 
+  "score": 31, 
   "team": "Bangladesh"
  }, 
  {
@@ -10715,7 +10715,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Ross Taylor", 
   "game": 656471, 
-  "score": 128, 
+  "score": 131, 
   "team": "New Zealand"
  }, 
  {
@@ -10724,7 +10724,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Martin Guptill", 
   "game": 656471, 
-  "score": 128, 
+  "score": 131, 
   "team": "New Zealand"
  }, 
  {
@@ -10769,7 +10769,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Luke Ronchi", 
   "game": 656471, 
-  "score": 27, 
+  "score": 28, 
   "team": "New Zealand"
  }, 
  {
@@ -10778,7 +10778,7 @@
   "batsman_1": "Luke Ronchi", 
   "batsman_2": "Corey Anderson", 
   "game": 656471, 
-  "score": 27, 
+  "score": 28, 
   "team": "New Zealand"
  }, 
  {
@@ -10805,7 +10805,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Ross Taylor", 
   "game": 656471, 
-  "score": 8, 
+  "score": 9, 
   "team": "New Zealand"
  }, 
  {
@@ -10814,7 +10814,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Corey Anderson", 
   "game": 656471, 
-  "score": 8, 
+  "score": 9, 
   "team": "New Zealand"
  }, 
  {
@@ -10859,7 +10859,7 @@
   "batsman_1": "Afsar Zazai", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656473, 
-  "score": 1, 
+  "score": 3, 
   "team": "Afghanistan"
  }, 
  {
@@ -10868,7 +10868,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Afsar Zazai", 
   "game": 656473, 
-  "score": 1, 
+  "score": 3, 
   "team": "Afghanistan"
  }, 
  {
@@ -10877,7 +10877,7 @@
   "batsman_1": "Alex Hales", 
   "batsman_2": "Ian Bell", 
   "game": 656473, 
-  "score": 81, 
+  "score": 83, 
   "team": "England"
  }, 
  {
@@ -10886,7 +10886,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "Alex Hales", 
   "game": 656473, 
-  "score": 81, 
+  "score": 83, 
   "team": "England"
  }, 
  {
@@ -10895,7 +10895,7 @@
   "batsman_1": "Nasir Jamal", 
   "batsman_2": "Samiullah Shenwari", 
   "game": 656473, 
-  "score": 8, 
+  "score": 9, 
   "team": "Afghanistan"
  }, 
  {
@@ -10904,7 +10904,7 @@
   "batsman_1": "Samiullah Shenwari", 
   "batsman_2": "Nasir Jamal", 
   "game": 656473, 
-  "score": 8, 
+  "score": 9, 
   "team": "Afghanistan"
  }, 
  {
@@ -10913,7 +10913,7 @@
   "batsman_1": "Ian Bell", 
   "batsman_2": "James Taylor", 
   "game": 656473, 
-  "score": 16, 
+  "score": 18, 
   "team": "England"
  }, 
  {
@@ -10922,7 +10922,7 @@
   "batsman_1": "James Taylor", 
   "batsman_2": "Ian Bell", 
   "game": 656473, 
-  "score": 16, 
+  "score": 18, 
   "team": "England"
  }, 
  {
@@ -10949,7 +10949,7 @@
   "batsman_1": "Nasir Jamal", 
   "batsman_2": "Shafiqullah Shafiq", 
   "game": 656473, 
-  "score": 28, 
+  "score": 31, 
   "team": "Afghanistan"
  }, 
  {
@@ -10958,7 +10958,7 @@
   "batsman_1": "Shafiqullah Shafiq", 
   "batsman_2": "Nasir Jamal", 
   "game": 656473, 
-  "score": 28, 
+  "score": 31, 
   "team": "Afghanistan"
  }, 
  {
@@ -11003,7 +11003,7 @@
   "batsman_1": "Javed Ahmadi", 
   "batsman_2": "Nawroz Mangal", 
   "game": 656473, 
-  "score": 11, 
+  "score": 17, 
   "team": "Afghanistan"
  }, 
  {
@@ -11012,7 +11012,7 @@
   "batsman_1": "Nawroz Mangal", 
   "batsman_2": "Javed Ahmadi", 
   "game": 656473, 
-  "score": 11, 
+  "score": 17, 
   "team": "Afghanistan"
  }, 
  {
@@ -11039,7 +11039,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656475, 
-  "score": 20, 
+  "score": 21, 
   "team": "India"
  }, 
  {
@@ -11048,7 +11048,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Rohit Sharma", 
   "game": 656475, 
-  "score": 20, 
+  "score": 21, 
   "team": "India"
  }, 
  {
@@ -11057,7 +11057,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Solomon Mire", 
   "game": 656475, 
-  "score": 19, 
+  "score": 20, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11066,7 +11066,7 @@
   "batsman_1": "Solomon Mire", 
   "batsman_2": "Brendan Taylor", 
   "game": 656475, 
-  "score": 19, 
+  "score": 20, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11093,7 +11093,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Virat Kohli", 
   "game": 656475, 
-  "score": 46, 
+  "score": 50, 
   "team": "India"
  }, 
  {
@@ -11102,7 +11102,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656475, 
-  "score": 46, 
+  "score": 50, 
   "team": "India"
  }, 
  {
@@ -11129,7 +11129,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Craig Ervine", 
   "game": 656475, 
-  "score": 106, 
+  "score": 109, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11138,7 +11138,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Brendan Taylor", 
   "game": 656475, 
-  "score": 106, 
+  "score": 109, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11147,7 +11147,7 @@
   "batsman_1": "Chamu Chibhabha", 
   "batsman_2": "Hamilton Masakadza", 
   "game": 656475, 
-  "score": 9, 
+  "score": 11, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11156,7 +11156,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Chamu Chibhabha", 
   "game": 656475, 
-  "score": 9, 
+  "score": 11, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11201,7 +11201,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Suresh Raina", 
   "game": 656475, 
-  "score": 185, 
+  "score": 196, 
   "team": "India"
  }, 
  {
@@ -11210,7 +11210,7 @@
   "batsman_1": "Suresh Raina", 
   "batsman_2": "MS Dhoni", 
   "game": 656475, 
-  "score": 185, 
+  "score": 196, 
   "team": "India"
  }, 
  {
@@ -11219,7 +11219,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Tinashe Panyangara", 
   "game": 656475, 
-  "score": 7, 
+  "score": 9, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11228,7 +11228,7 @@
   "batsman_1": "Tinashe Panyangara", 
   "batsman_2": "Regis Chakabva", 
   "game": 656475, 
-  "score": 7, 
+  "score": 9, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11255,7 +11255,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sean Williams", 
   "game": 656475, 
-  "score": 92, 
+  "score": 93, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11264,7 +11264,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Brendan Taylor", 
   "game": 656475, 
-  "score": 92, 
+  "score": 93, 
   "team": "Zimbabwe"
  }, 
  {
@@ -11291,7 +11291,7 @@
   "batsman_1": "Freddie Coleman", 
   "batsman_2": "Matt Machan", 
   "game": 656477, 
-  "score": 12, 
+  "score": 13, 
   "team": "Scotland"
  }, 
  {
@@ -11300,7 +11300,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Freddie Coleman", 
   "game": 656477, 
-  "score": 12, 
+  "score": 13, 
   "team": "Scotland"
  }, 
  {
@@ -11345,7 +11345,7 @@
   "batsman_1": "Josh Davey", 
   "batsman_2": "Rob Taylor", 
   "game": 656477, 
-  "score": 15, 
+  "score": 16, 
   "team": "Scotland"
  }, 
  {
@@ -11354,7 +11354,7 @@
   "batsman_1": "Rob Taylor", 
   "batsman_2": "Josh Davey", 
   "game": 656477, 
-  "score": 15, 
+  "score": 16, 
   "team": "Scotland"
  }, 
  {
@@ -11363,7 +11363,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "James Faulkner", 
   "game": 656477, 
-  "score": 37, 
+  "score": 41, 
   "team": "Australia"
  }, 
  {
@@ -11372,7 +11372,7 @@
   "batsman_1": "James Faulkner", 
   "batsman_2": "David Warner", 
   "game": 656477, 
-  "score": 37, 
+  "score": 41, 
   "team": "Australia"
  }, 
  {
@@ -11381,7 +11381,7 @@
   "batsman_1": "Josh Davey", 
   "batsman_2": "Michael Leask", 
   "game": 656477, 
-  "score": 34, 
+  "score": 35, 
   "team": "Scotland"
  }, 
  {
@@ -11390,7 +11390,7 @@
   "batsman_1": "Michael Leask", 
   "batsman_2": "Josh Davey", 
   "game": 656477, 
-  "score": 34, 
+  "score": 35, 
   "team": "Scotland"
  }, 
  {
@@ -11417,7 +11417,7 @@
   "batsman_1": "Josh Davey", 
   "batsman_2": "Matthew Cross", 
   "game": 656477, 
-  "score": 0, 
+  "score": 1, 
   "team": "Scotland"
  }, 
  {
@@ -11426,7 +11426,7 @@
   "batsman_1": "Matthew Cross", 
   "batsman_2": "Josh Davey", 
   "game": 656477, 
-  "score": 0, 
+  "score": 1, 
   "team": "Scotland"
  }, 
  {
@@ -11435,7 +11435,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Matthew Cross", 
   "game": 656477, 
-  "score": 23, 
+  "score": 27, 
   "team": "Scotland"
  }, 
  {
@@ -11444,7 +11444,7 @@
   "batsman_1": "Matthew Cross", 
   "batsman_2": "Matt Machan", 
   "game": 656477, 
-  "score": 23, 
+  "score": 27, 
   "team": "Scotland"
  }, 
  {
@@ -11507,7 +11507,7 @@
   "batsman_1": "Calum MacLeod", 
   "batsman_2": "Matt Machan", 
   "game": 656477, 
-  "score": 27, 
+  "score": 28, 
   "team": "Scotland"
  }, 
  {
@@ -11516,7 +11516,7 @@
   "batsman_1": "Matt Machan", 
   "batsman_2": "Calum MacLeod", 
   "game": 656477, 
-  "score": 27, 
+  "score": 28, 
   "team": "Scotland"
  }, 
  {
@@ -11525,7 +11525,7 @@
   "batsman_1": "Michael Clarke", 
   "batsman_2": "Shane Watson", 
   "game": 656477, 
-  "score": 57, 
+  "score": 58, 
   "team": "Australia"
  }, 
  {
@@ -11534,7 +11534,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "Michael Clarke", 
   "game": 656477, 
-  "score": 57, 
+  "score": 58, 
   "team": "Australia"
  }, 
  {
@@ -11543,7 +11543,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Krishna Chandran", 
   "game": 656479, 
-  "score": 2, 
+  "score": 3, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11552,7 +11552,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Amjad Ali", 
   "game": 656479, 
-  "score": 2, 
+  "score": 3, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11579,7 +11579,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Raffaelo", 
   "game": 656479, 
-  "score": 3, 
+  "score": 5, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11588,7 +11588,7 @@
   "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Amjad Ali", 
   "game": 656479, 
-  "score": 3, 
+  "score": 5, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11597,7 +11597,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "game": 656479, 
-  "score": 7, 
+  "score": 8, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11606,7 +11606,7 @@
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "game": 656479, 
-  "score": 7, 
+  "score": 8, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11651,7 +11651,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Nasir Aziz", 
   "game": 656479, 
-  "score": 103, 
+  "score": 107, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11660,7 +11660,7 @@
   "batsman_1": "Nasir Aziz", 
   "batsman_2": "Amjad Javed", 
   "game": 656479, 
-  "score": 103, 
+  "score": 107, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11669,7 +11669,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Swapnil Patil", 
   "game": 656479, 
-  "score": 16, 
+  "score": 20, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11678,7 +11678,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Amjad Javed", 
   "game": 656479, 
-  "score": 16, 
+  "score": 20, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11687,7 +11687,7 @@
   "batsman_1": "Johnson Charles", 
   "batsman_2": "Jonathan Carter", 
   "game": 656479, 
-  "score": 52, 
+  "score": 56, 
   "team": "West Indies"
  }, 
  {
@@ -11696,7 +11696,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Johnson Charles", 
   "game": 656479, 
-  "score": 52, 
+  "score": 56, 
   "team": "West Indies"
  }, 
  {
@@ -11741,7 +11741,7 @@
   "batsman_1": "Manjula Guruge", 
   "batsman_2": "Mohammad Tauqir", 
   "game": 656479, 
-  "score": 6, 
+  "score": 8, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11750,7 +11750,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Manjula Guruge", 
   "game": 656479, 
-  "score": 6, 
+  "score": 8, 
   "team": "United Arab Emirates"
  }, 
  {
@@ -11777,7 +11777,7 @@
   "batsman_1": "Denesh Ramdin", 
   "batsman_2": "Jonathan Carter", 
   "game": 656479, 
-  "score": 55, 
+  "score": 58, 
   "team": "West Indies"
  }, 
  {
@@ -11786,7 +11786,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Denesh Ramdin", 
   "game": 656479, 
-  "score": 55, 
+  "score": 58, 
   "team": "West Indies"
  }, 
  {
@@ -11849,7 +11849,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656481, 
-  "score": 10, 
+  "score": 12, 
   "team": "Ireland"
  }, 
  {
@@ -11858,7 +11858,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "John Mooney", 
   "game": 656481, 
-  "score": 10, 
+  "score": 12, 
   "team": "Ireland"
  }, 
  {
@@ -11867,7 +11867,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Sarfraz Ahmed", 
   "game": 656481, 
-  "score": 74, 
+  "score": 82, 
   "team": "Pakistan"
  }, 
  {
@@ -11876,7 +11876,7 @@
   "batsman_1": "Sarfraz Ahmed", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656481, 
-  "score": 74, 
+  "score": 82, 
   "team": "Pakistan"
  }, 
  {
@@ -11885,7 +11885,7 @@
   "batsman_1": "Sarfraz Ahmed", 
   "batsman_2": "Umar Akmal", 
   "game": 656481, 
-  "score": 30, 
+  "score": 33, 
   "team": "Pakistan"
  }, 
  {
@@ -11894,7 +11894,7 @@
   "batsman_1": "Umar Akmal", 
   "batsman_2": "Sarfraz Ahmed", 
   "game": 656481, 
-  "score": 30, 
+  "score": 33, 
   "team": "Pakistan"
  }, 
  {
@@ -11903,7 +11903,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "William Porterfield", 
   "game": 656481, 
-  "score": 43, 
+  "score": 45, 
   "team": "Ireland"
  }, 
  {
@@ -11912,7 +11912,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Ed Joyce", 
   "game": 656481, 
-  "score": 43, 
+  "score": 45, 
   "team": "Ireland"
  }, 
  {
@@ -11921,7 +11921,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "Stuart Thompson", 
   "game": 656481, 
-  "score": 14, 
+  "score": 15, 
   "team": "Ireland"
  }, 
  {
@@ -11930,7 +11930,7 @@
   "batsman_1": "Stuart Thompson", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656481, 
-  "score": 14, 
+  "score": 15, 
   "team": "Ireland"
  }, 
  {
@@ -11939,7 +11939,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Kevin O'Brien", 
   "game": 656481, 
-  "score": 6, 
+  "score": 7, 
   "team": "Ireland"
  }, 
  {
@@ -11948,7 +11948,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "Gary Wilson", 
   "game": 656481, 
-  "score": 6, 
+  "score": 7, 
   "team": "Ireland"
  }, 
  {
@@ -11957,7 +11957,7 @@
   "batsman_1": "Niall O'Brien", 
   "batsman_2": "William Porterfield", 
   "game": 656481, 
-  "score": 28, 
+  "score": 30, 
   "team": "Ireland"
  }, 
  {
@@ -11966,7 +11966,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Niall O'Brien", 
   "game": 656481, 
-  "score": 28, 
+  "score": 30, 
   "team": "Ireland"
  }, 
  {
@@ -11975,7 +11975,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Sarfraz Ahmed", 
   "game": 656481, 
-  "score": 116, 
+  "score": 120, 
   "team": "Pakistan"
  }, 
  {
@@ -11984,7 +11984,7 @@
   "batsman_1": "Sarfraz Ahmed", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656481, 
-  "score": 116, 
+  "score": 120, 
   "team": "Pakistan"
  }, 
  {
@@ -12011,7 +12011,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "William Porterfield", 
   "game": 656481, 
-  "score": 47, 
+  "score": 48, 
   "team": "Ireland"
  }, 
  {
@@ -12020,7 +12020,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Andy Balbirnie", 
   "game": 656481, 
-  "score": 47, 
+  "score": 48, 
   "team": "Ireland"
  }, 
  {
@@ -12029,7 +12029,7 @@
   "batsman_1": "Paul Stirling", 
   "batsman_2": "William Porterfield", 
   "game": 656481, 
-  "score": 10, 
+  "score": 11, 
   "team": "Ireland"
  }, 
  {
@@ -12038,7 +12038,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Paul Stirling", 
   "game": 656481, 
-  "score": 10, 
+  "score": 11, 
   "team": "Ireland"
  }, 
  {
@@ -12047,7 +12047,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "William Porterfield", 
   "game": 656481, 
-  "score": 46, 
+  "score": 48, 
   "team": "Ireland"
  }, 
  {
@@ -12056,7 +12056,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Gary Wilson", 
   "game": 656481, 
-  "score": 46, 
+  "score": 48, 
   "team": "Ireland"
  }, 
  {
@@ -12083,7 +12083,7 @@
   "batsman_1": "Dushmantha Chameera", 
   "batsman_2": "Lasith Malinga", 
   "game": 656483, 
-  "score": 5, 
+  "score": 6, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12092,7 +12092,7 @@
   "batsman_1": "Lasith Malinga", 
   "batsman_2": "Dushmantha Chameera", 
   "game": 656483, 
-  "score": 5, 
+  "score": 6, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12119,7 +12119,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Tillakaratne Dilshan", 
   "game": 656483, 
-  "score": 0, 
+  "score": 1, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12128,7 +12128,7 @@
   "batsman_1": "Tillakaratne Dilshan", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656483, 
-  "score": 0, 
+  "score": 1, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12137,7 +12137,7 @@
   "batsman_1": "Hashim Amla", 
   "batsman_2": "Quinton de Kock", 
   "game": 656483, 
-  "score": 38, 
+  "score": 40, 
   "team": "South Africa"
  }, 
  {
@@ -12146,7 +12146,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Hashim Amla", 
   "game": 656483, 
-  "score": 38, 
+  "score": 40, 
   "team": "South Africa"
  }, 
  {
@@ -12155,7 +12155,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Lahiru Thirimanne", 
   "game": 656483, 
-  "score": 56, 
+  "score": 65, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12164,7 +12164,7 @@
   "batsman_1": "Lahiru Thirimanne", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656483, 
-  "score": 56, 
+  "score": 65, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12263,7 +12263,7 @@
   "batsman_1": "Kumar Sangakkara", 
   "batsman_2": "Mahela Jayawardene", 
   "game": 656483, 
-  "score": 8, 
+  "score": 12, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12272,7 +12272,7 @@
   "batsman_1": "Mahela Jayawardene", 
   "batsman_2": "Kumar Sangakkara", 
   "game": 656483, 
-  "score": 8, 
+  "score": 12, 
   "team": "Sri Lanka"
  }, 
  {
@@ -12281,7 +12281,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Quinton de Kock", 
   "game": 656483, 
-  "score": 77, 
+  "score": 94, 
   "team": "South Africa"
  }, 
  {
@@ -12290,7 +12290,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Faf du Plessis", 
   "game": 656483, 
-  "score": 77, 
+  "score": 94, 
   "team": "South Africa"
  }, 
  {
@@ -12299,7 +12299,7 @@
   "batsman_1": "Imrul Kayes", 
   "batsman_2": "Tamim Iqbal", 
   "game": 656485, 
-  "score": 30, 
+  "score": 33, 
   "team": "Bangladesh"
  }, 
  {
@@ -12308,7 +12308,7 @@
   "batsman_1": "Tamim Iqbal", 
   "batsman_2": "Imrul Kayes", 
   "game": 656485, 
-  "score": 30, 
+  "score": 33, 
   "team": "Bangladesh"
  }, 
  {
@@ -12317,7 +12317,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656485, 
-  "score": 70, 
+  "score": 75, 
   "team": "India"
  }, 
  {
@@ -12326,7 +12326,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Rohit Sharma", 
   "game": 656485, 
-  "score": 70, 
+  "score": 75, 
   "team": "India"
  }, 
  {
@@ -12335,7 +12335,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Rohit Sharma", 
   "game": 656485, 
-  "score": 35, 
+  "score": 36, 
   "team": "India"
  }, 
  {
@@ -12344,7 +12344,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656485, 
-  "score": 35, 
+  "score": 36, 
   "team": "India"
  }, 
  {
@@ -12353,7 +12353,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Suresh Raina", 
   "game": 656485, 
-  "score": 114, 
+  "score": 122, 
   "team": "India"
  }, 
  {
@@ -12362,7 +12362,7 @@
   "batsman_1": "Suresh Raina", 
   "batsman_2": "Rohit Sharma", 
   "game": 656485, 
-  "score": 114, 
+  "score": 122, 
   "team": "India"
  }, 
  {
@@ -12371,7 +12371,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Virat Kohli", 
   "game": 656485, 
-  "score": 3, 
+  "score": 4, 
   "team": "India"
  }, 
  {
@@ -12380,7 +12380,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Rohit Sharma", 
   "game": 656485, 
-  "score": 3, 
+  "score": 4, 
   "team": "India"
  }, 
  {
@@ -12425,7 +12425,7 @@
   "batsman_1": "Mahmudullah Riyad", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656485, 
-  "score": 39, 
+  "score": 40, 
   "team": "Bangladesh"
  }, 
  {
@@ -12434,7 +12434,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Mahmudullah Riyad", 
   "game": 656485, 
-  "score": 39, 
+  "score": 40, 
   "team": "Bangladesh"
  }, 
  {
@@ -12443,7 +12443,7 @@
   "batsman_1": "Nasir Hossain", 
   "batsman_2": "Sabbir Rahman", 
   "game": 656485, 
-  "score": 48, 
+  "score": 50, 
   "team": "Bangladesh"
  }, 
  {
@@ -12452,7 +12452,7 @@
   "batsman_1": "Sabbir Rahman", 
   "batsman_2": "Nasir Hossain", 
   "game": 656485, 
-  "score": 48, 
+  "score": 50, 
   "team": "Bangladesh"
  }, 
  {
@@ -12479,7 +12479,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Sabbir Rahman", 
   "game": 656485, 
-  "score": 34, 
+  "score": 35, 
   "team": "Bangladesh"
  }, 
  {
@@ -12488,7 +12488,7 @@
   "batsman_1": "Sabbir Rahman", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656485, 
-  "score": 34, 
+  "score": 35, 
   "team": "Bangladesh"
  }, 
  {
@@ -12515,7 +12515,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Rohit Sharma", 
   "game": 656485, 
-  "score": 35, 
+  "score": 36, 
   "team": "India"
  }, 
  {
@@ -12524,7 +12524,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "MS Dhoni", 
   "game": 656485, 
-  "score": 35, 
+  "score": 36, 
   "team": "India"
  }, 
  {
@@ -12551,7 +12551,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Soumya Sarkar", 
   "game": 656485, 
-  "score": 16, 
+  "score": 17, 
   "team": "Bangladesh"
  }, 
  {
@@ -12560,7 +12560,7 @@
   "batsman_1": "Soumya Sarkar", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656485, 
-  "score": 16, 
+  "score": 17, 
   "team": "Bangladesh"
  }, 
  {
@@ -12587,7 +12587,7 @@
   "batsman_1": "Mushfiqur Rahim", 
   "batsman_2": "Shakib Al Hasan", 
   "game": 656485, 
-  "score": 12, 
+  "score": 14, 
   "team": "Bangladesh"
  }, 
  {
@@ -12596,7 +12596,7 @@
   "batsman_1": "Shakib Al Hasan", 
   "batsman_2": "Mushfiqur Rahim", 
   "game": 656485, 
-  "score": 12, 
+  "score": 14, 
   "team": "Bangladesh"
  }, 
  {
@@ -12695,7 +12695,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "Steven Smith", 
   "game": 656487, 
-  "score": 83, 
+  "score": 89, 
   "team": "Australia"
  }, 
  {
@@ -12704,7 +12704,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "Shane Watson", 
   "game": 656487, 
-  "score": 83, 
+  "score": 89, 
   "team": "Australia"
  }, 
  {
@@ -12713,7 +12713,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Steven Smith", 
   "game": 656487, 
-  "score": 33, 
+  "score": 34, 
   "team": "Australia"
  }, 
  {
@@ -12722,7 +12722,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "David Warner", 
   "game": 656487, 
-  "score": 33, 
+  "score": 34, 
   "team": "Australia"
  }, 
  {
@@ -12749,7 +12749,7 @@
   "batsman_1": "Glenn Maxwell", 
   "batsman_2": "Shane Watson", 
   "game": 656487, 
-  "score": 66, 
+  "score": 68, 
   "team": "Australia"
  }, 
  {
@@ -12758,7 +12758,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "Glenn Maxwell", 
   "game": 656487, 
-  "score": 66, 
+  "score": 68, 
   "team": "Australia"
  }, 
  {
@@ -12785,7 +12785,7 @@
   "batsman_1": "Sohaib Maqsood", 
   "batsman_2": "Wahab Riaz", 
   "game": 656487, 
-  "score": 29, 
+  "score": 30, 
   "team": "Pakistan"
  }, 
  {
@@ -12794,7 +12794,7 @@
   "batsman_1": "Wahab Riaz", 
   "batsman_2": "Sohaib Maqsood", 
   "game": 656487, 
-  "score": 29, 
+  "score": 30, 
   "team": "Pakistan"
  }, 
  {
@@ -12821,7 +12821,7 @@
   "batsman_1": "Ahmed Shehzad", 
   "batsman_2": "Sarfraz Ahmed", 
   "game": 656487, 
-  "score": 15, 
+  "score": 20, 
   "team": "Pakistan"
  }, 
  {
@@ -12830,7 +12830,7 @@
   "batsman_1": "Sarfraz Ahmed", 
   "batsman_2": "Ahmed Shehzad", 
   "game": 656487, 
-  "score": 15, 
+  "score": 20, 
   "team": "Pakistan"
  }, 
  {
@@ -12857,7 +12857,7 @@
   "batsman_1": "Haris Sohail", 
   "batsman_2": "Misbah-ul-Haq Niazi", 
   "game": 656487, 
-  "score": 69, 
+  "score": 73, 
   "team": "Pakistan"
  }, 
  {
@@ -12866,7 +12866,7 @@
   "batsman_1": "Misbah-ul-Haq Niazi", 
   "batsman_2": "Haris Sohail", 
   "game": 656487, 
-  "score": 69, 
+  "score": 73, 
   "team": "Pakistan"
  }, 
  {
@@ -12893,7 +12893,7 @@
   "batsman_1": "Darren Sammy", 
   "batsman_2": "Jonathan Carter", 
   "game": 656489, 
-  "score": 45, 
+  "score": 46, 
   "team": "West Indies"
  }, 
  {
@@ -12902,7 +12902,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Darren Sammy", 
   "game": 656489, 
-  "score": 45, 
+  "score": 46, 
   "team": "West Indies"
  }, 
  {
@@ -12911,7 +12911,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Martin Guptill", 
   "game": 656489, 
-  "score": 53, 
+  "score": 55, 
   "team": "New Zealand"
  }, 
  {
@@ -12920,7 +12920,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Grant Elliott", 
   "game": 656489, 
-  "score": 53, 
+  "score": 55, 
   "team": "New Zealand"
  }, 
  {
@@ -12929,7 +12929,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Ross Taylor", 
   "game": 656489, 
-  "score": 141, 
+  "score": 143, 
   "team": "New Zealand"
  }, 
  {
@@ -12938,7 +12938,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Martin Guptill", 
   "game": 656489, 
-  "score": 141, 
+  "score": 143, 
   "team": "New Zealand"
  }, 
  {
@@ -12947,7 +12947,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Martin Guptill", 
   "game": 656489, 
-  "score": 44, 
+  "score": 46, 
   "team": "New Zealand"
  }, 
  {
@@ -12956,7 +12956,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Corey Anderson", 
   "game": 656489, 
-  "score": 44, 
+  "score": 46, 
   "team": "New Zealand"
  }, 
  {
@@ -12983,7 +12983,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Martin Guptill", 
   "game": 656489, 
-  "score": 59, 
+  "score": 62, 
   "team": "New Zealand"
  }, 
  {
@@ -12992,7 +12992,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Kane Williamson", 
   "game": 656489, 
-  "score": 59, 
+  "score": 62, 
   "team": "New Zealand"
  }, 
  {
@@ -13001,7 +13001,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Martin Guptill", 
   "game": 656489, 
-  "score": 26, 
+  "score": 27, 
   "team": "New Zealand"
  }, 
  {
@@ -13010,7 +13010,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Brendon McCullum", 
   "game": 656489, 
-  "score": 26, 
+  "score": 27, 
   "team": "New Zealand"
  }, 
  {
@@ -13037,7 +13037,7 @@
   "batsman_1": "Jason Holder", 
   "batsman_2": "Sulieman Benn", 
   "game": 656489, 
-  "score": 28, 
+  "score": 29, 
   "team": "West Indies"
  }, 
  {
@@ -13046,7 +13046,7 @@
   "batsman_1": "Sulieman Benn", 
   "batsman_2": "Jason Holder", 
   "game": 656489, 
-  "score": 28, 
+  "score": 29, 
   "team": "West Indies"
  }, 
  {
@@ -13091,7 +13091,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Marlon Samuels", 
   "game": 656489, 
-  "score": 52, 
+  "score": 53, 
   "team": "West Indies"
  }, 
  {
@@ -13100,7 +13100,7 @@
   "batsman_1": "Marlon Samuels", 
   "batsman_2": "Chris Gayle", 
   "game": 656489, 
-  "score": 52, 
+  "score": 53, 
   "team": "West Indies"
  }, 
  {
@@ -13127,7 +13127,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Lendl Simmons", 
   "game": 656489, 
-  "score": 22, 
+  "score": 23, 
   "team": "West Indies"
  }, 
  {
@@ -13136,7 +13136,7 @@
   "batsman_1": "Lendl Simmons", 
   "batsman_2": "Chris Gayle", 
   "game": 656489, 
-  "score": 22, 
+  "score": 23, 
   "team": "West Indies"
  }, 
  {
@@ -13145,7 +13145,7 @@
   "batsman_1": "Chris Gayle", 
   "batsman_2": "Jonathan Carter", 
   "game": 656489, 
-  "score": 38, 
+  "score": 40, 
   "team": "West Indies"
  }, 
  {
@@ -13154,7 +13154,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Chris Gayle", 
   "game": 656489, 
-  "score": 38, 
+  "score": 40, 
   "team": "West Indies"
  }, 
  {
@@ -13181,7 +13181,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Rilee Rossouw", 
   "game": 656491, 
-  "score": 75, 
+  "score": 83, 
   "team": "South Africa"
  }, 
  {
@@ -13190,7 +13190,7 @@
   "batsman_1": "Rilee Rossouw", 
   "batsman_2": "Faf du Plessis", 
   "game": 656491, 
-  "score": 75, 
+  "score": 83, 
   "team": "South Africa"
  }, 
  {
@@ -13253,7 +13253,7 @@
   "batsman_1": "Brendon McCullum", 
   "batsman_2": "Martin Guptill", 
   "game": 656491, 
-  "score": 65, 
+  "score": 71, 
   "team": "New Zealand"
  }, 
  {
@@ -13262,7 +13262,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Brendon McCullum", 
   "game": 656491, 
-  "score": 65, 
+  "score": 71, 
   "team": "New Zealand"
  }, 
  {
@@ -13307,7 +13307,7 @@
   "batsman_1": "Corey Anderson", 
   "batsman_2": "Grant Elliott", 
   "game": 656491, 
-  "score": 98, 
+  "score": 103, 
   "team": "New Zealand"
  }, 
  {
@@ -13316,7 +13316,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Corey Anderson", 
   "game": 656491, 
-  "score": 98, 
+  "score": 103, 
   "team": "New Zealand"
  }, 
  {
@@ -13325,7 +13325,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Faf du Plessis", 
   "game": 656491, 
-  "score": 101, 
+  "score": 103, 
   "team": "South Africa"
  }, 
  {
@@ -13334,7 +13334,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "AB de Villiers", 
   "game": 656491, 
-  "score": 101, 
+  "score": 103, 
   "team": "South Africa"
  }, 
  {
@@ -13343,7 +13343,7 @@
   "batsman_1": "Faf du Plessis", 
   "batsman_2": "Quinton de Kock", 
   "game": 656491, 
-  "score": 9, 
+  "score": 10, 
   "team": "South Africa"
  }, 
  {
@@ -13352,7 +13352,7 @@
   "batsman_1": "Quinton de Kock", 
   "batsman_2": "Faf du Plessis", 
   "game": 656491, 
-  "score": 9, 
+  "score": 10, 
   "team": "South Africa"
  }, 
  {
@@ -13361,7 +13361,7 @@
   "batsman_1": "Daniel Vettori", 
   "batsman_2": "Grant Elliott", 
   "game": 656491, 
-  "score": 28, 
+  "score": 30, 
   "team": "New Zealand"
  }, 
  {
@@ -13370,7 +13370,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Daniel Vettori", 
   "game": 656491, 
-  "score": 28, 
+  "score": 30, 
   "team": "New Zealand"
  }, 
  {
@@ -13379,7 +13379,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "David Miller", 
   "game": 656491, 
-  "score": 53, 
+  "score": 55, 
   "team": "South Africa"
  }, 
  {
@@ -13388,7 +13388,7 @@
   "batsman_1": "David Miller", 
   "batsman_2": "AB de Villiers", 
   "game": 656491, 
-  "score": 53, 
+  "score": 55, 
   "team": "South Africa"
  }, 
  {
@@ -13397,7 +13397,7 @@
   "batsman_1": "AB de Villiers", 
   "batsman_2": "Jean-Paul Duminy", 
   "game": 656491, 
-  "score": 8, 
+  "score": 9, 
   "team": "South Africa"
  }, 
  {
@@ -13406,7 +13406,7 @@
   "batsman_1": "Jean-Paul Duminy", 
   "batsman_2": "AB de Villiers", 
   "game": 656491, 
-  "score": 8, 
+  "score": 9, 
   "team": "South Africa"
  }, 
  {
@@ -13415,7 +13415,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Shikhar Dhawan", 
   "game": 656493, 
-  "score": 69, 
+  "score": 76, 
   "team": "India"
  }, 
  {
@@ -13424,7 +13424,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Rohit Sharma", 
   "game": 656493, 
-  "score": 69, 
+  "score": 76, 
   "team": "India"
  }, 
  {
@@ -13433,7 +13433,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "Steven Smith", 
   "game": 656493, 
-  "score": 177, 
+  "score": 182, 
   "team": "Australia"
  }, 
  {
@@ -13442,7 +13442,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "Aaron Finch", 
   "game": 656493, 
-  "score": 177, 
+  "score": 182, 
   "team": "Australia"
  }, 
  {
@@ -13451,7 +13451,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "Glenn Maxwell", 
   "game": 656493, 
-  "score": 30, 
+  "score": 35, 
   "team": "Australia"
  }, 
  {
@@ -13460,7 +13460,7 @@
   "batsman_1": "Glenn Maxwell", 
   "batsman_2": "Aaron Finch", 
   "game": 656493, 
-  "score": 30, 
+  "score": 35, 
   "team": "Australia"
  }, 
  {
@@ -13469,7 +13469,7 @@
   "batsman_1": "Aaron Finch", 
   "batsman_2": "David Warner", 
   "game": 656493, 
-  "score": 13, 
+  "score": 15, 
   "team": "Australia"
  }, 
  {
@@ -13478,7 +13478,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Aaron Finch", 
   "game": 656493, 
-  "score": 13, 
+  "score": 15, 
   "team": "Australia"
  }, 
  {
@@ -13523,7 +13523,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "MS Dhoni", 
   "game": 656493, 
-  "score": 68, 
+  "score": 70, 
   "team": "India"
  }, 
  {
@@ -13532,7 +13532,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656493, 
-  "score": 68, 
+  "score": 70, 
   "team": "India"
  }, 
  {
@@ -13559,7 +13559,7 @@
   "batsman_1": "Ajinkya Rahane", 
   "batsman_2": "Suresh Raina", 
   "game": 656493, 
-  "score": 15, 
+  "score": 17, 
   "team": "India"
  }, 
  {
@@ -13568,7 +13568,7 @@
   "batsman_1": "Suresh Raina", 
   "batsman_2": "Ajinkya Rahane", 
   "game": 656493, 
-  "score": 15, 
+  "score": 17, 
   "team": "India"
  }, 
  {
@@ -13595,7 +13595,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Ravichandran Ashwin", 
   "game": 656493, 
-  "score": 22, 
+  "score": 23, 
   "team": "India"
  }, 
  {
@@ -13604,7 +13604,7 @@
   "batsman_1": "Ravichandran Ashwin", 
   "batsman_2": "MS Dhoni", 
   "game": 656493, 
-  "score": 22, 
+  "score": 23, 
   "team": "India"
  }, 
  {
@@ -13613,7 +13613,7 @@
   "batsman_1": "MS Dhoni", 
   "batsman_2": "Ravindra Jadeja", 
   "game": 656493, 
-  "score": 27, 
+  "score": 30, 
   "team": "India"
  }, 
  {
@@ -13622,7 +13622,7 @@
   "batsman_1": "Ravindra Jadeja", 
   "batsman_2": "MS Dhoni", 
   "game": 656493, 
-  "score": 27, 
+  "score": 30, 
   "team": "India"
  }, 
  {
@@ -13685,7 +13685,7 @@
   "batsman_1": "James Faulkner", 
   "batsman_2": "Shane Watson", 
   "game": 656493, 
-  "score": 35, 
+  "score": 36, 
   "team": "Australia"
  }, 
  {
@@ -13694,7 +13694,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "James Faulkner", 
   "game": 656493, 
-  "score": 35, 
+  "score": 36, 
   "team": "Australia"
  }, 
  {
@@ -13721,7 +13721,7 @@
   "batsman_1": "Michael Clarke", 
   "batsman_2": "Shane Watson", 
   "game": 656493, 
-  "score": 14, 
+  "score": 15, 
   "team": "Australia"
  }, 
  {
@@ -13730,7 +13730,7 @@
   "batsman_1": "Shane Watson", 
   "batsman_2": "Michael Clarke", 
   "game": 656493, 
-  "score": 14, 
+  "score": 15, 
   "team": "Australia"
  }, 
  {
@@ -13775,7 +13775,7 @@
   "batsman_1": "Kane Williamson", 
   "batsman_2": "Martin Guptill", 
   "game": 656495, 
-  "score": 26, 
+  "score": 32, 
   "team": "New Zealand"
  }, 
  {
@@ -13784,7 +13784,7 @@
   "batsman_1": "Martin Guptill", 
   "batsman_2": "Kane Williamson", 
   "game": 656495, 
-  "score": 26, 
+  "score": 32, 
   "team": "New Zealand"
  }, 
  {
@@ -13829,7 +13829,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Ross Taylor", 
   "game": 656495, 
-  "score": 106, 
+  "score": 111, 
   "team": "New Zealand"
  }, 
  {
@@ -13838,7 +13838,7 @@
   "batsman_1": "Ross Taylor", 
   "batsman_2": "Grant Elliott", 
   "game": 656495, 
-  "score": 106, 
+  "score": 111, 
   "team": "New Zealand"
  }, 
  {
@@ -13847,7 +13847,7 @@
   "batsman_1": "Daniel Vettori", 
   "batsman_2": "Grant Elliott", 
   "game": 656495, 
-  "score": 15, 
+  "score": 16, 
   "team": "New Zealand"
  }, 
  {
@@ -13856,7 +13856,7 @@
   "batsman_1": "Grant Elliott", 
   "batsman_2": "Daniel Vettori", 
   "game": 656495, 
-  "score": 15, 
+  "score": 16, 
   "team": "New Zealand"
  }, 
  {
@@ -13883,7 +13883,7 @@
   "batsman_1": "Tim Southee", 
   "batsman_2": "Trent Boult", 
   "game": 656495, 
-  "score": 0, 
+  "score": 1, 
   "team": "New Zealand"
  }, 
  {
@@ -13892,7 +13892,7 @@
   "batsman_1": "Trent Boult", 
   "batsman_2": "Tim Southee", 
   "game": 656495, 
-  "score": 0, 
+  "score": 1, 
   "team": "New Zealand"
  }, 
  {
@@ -13937,7 +13937,7 @@
   "batsman_1": "David Warner", 
   "batsman_2": "Steven Smith", 
   "game": 656495, 
-  "score": 57, 
+  "score": 61, 
   "team": "Australia"
  }, 
  {
@@ -13946,7 +13946,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "David Warner", 
   "game": 656495, 
-  "score": 57, 
+  "score": 61, 
   "team": "Australia"
  }, 
  {
@@ -13955,7 +13955,7 @@
   "batsman_1": "Michael Clarke", 
   "batsman_2": "Steven Smith", 
   "game": 656495, 
-  "score": 107, 
+  "score": 112, 
   "team": "Australia"
  }, 
  {
@@ -13964,7 +13964,7 @@
   "batsman_1": "Steven Smith", 
   "batsman_2": "Michael Clarke", 
   "game": 656495, 
-  "score": 107, 
+  "score": 112, 
   "team": "Australia"
  }, 
  {
