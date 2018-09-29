@@ -33,7 +33,31 @@ router.get('/bowler/:bowlID', function(req, res, next) {
 router.get('/:matchID', function(req, res, next) {
     var fileName = req.params.matchID + ".json";
     var matchBalls = JSON.parse(fs.readFileSync('data/newGames/' + fileName));
-    return res.status(201).send(matchBalls);
+    var inning1 = matchBalls.filter(d => d.inning == 1);
+    var inning2 = matchBalls.filter(d => d.inning == 2);
+    var firstBatsmen = [];
+    var secondBatsmen = [];
+    inning1.forEach(function(d) {
+        if (!firstBatsmen.includes(d.batsman_name)) {
+            firstBatsmen.push(d.batsman_name);
+        }
+        if (!firstBatsmen.includes(d.non_striker)) {
+            firstBatsmen.push(d.non_striker);
+        }
+    })
+    inning2.forEach(function(d) {
+        if (!secondBatsmen.includes(d.batsman_name)) {
+            secondBatsmen.push(d.batsman_name);
+        }
+        if (!secondBatsmen.includes(d.non_striker)) {
+            secondBatsmen.push(d.non_striker);
+        }
+    })
+    return res.status(201).send({
+        "balls": matchBalls,
+        "first_batsmen": firstBatsmen,
+        "second_batsmen": secondBatsmen
+    });
 });
 
 router.get('/:matchID/partnerships', function(req, res, next) {
