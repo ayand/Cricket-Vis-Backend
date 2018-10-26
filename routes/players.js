@@ -40,35 +40,6 @@ router.get('/graph', function(req, res, next) {
             })
         })
     })
-
-    /*var dividedByBatsman = d3.nest()
-        .key(function(d) { return d.batsman; })
-        .entries(balls);
-
-    dividedByBatsman.forEach(function(batsman) {
-        var dividedByBowler = d3.nest()
-            .key(function(d) { return d.bowler })
-
-    })*/
-
-    /*var batsmanDictionary = {}
-    for (var i = 0; i < balls.length; i++) {
-        var batsman = balls[i].batsman;
-        var bowler = balls[i].bowler;
-        if (batsmanDictionary[batsman.toString()] == null) {
-            batsmanDictionary[batsman.toString()] = [];
-        }
-        if (!batsmanDictionary[batsman.toString()].includes(bowler)) {
-            batsmanDictionary[batsman.toString()].push(bowler);
-        }
-    }
-    var playerEdges = [];
-    for (var key in batsmanDictionary) {
-        batsmanDictionary[key].forEach(function(d) {
-            playerEdges.push({ "batsman": parseInt(key), "bowler": d })
-        })
-    }*/
-
     var teams = Array.from(new Set(playerNodes.map(function(d) { return d.team; })))
     var letterOrder = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
