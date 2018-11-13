@@ -62,6 +62,10 @@ for game in gameNums:
             ball["batsman_name"] = "Andy McBrine"
         if ball["non_striker"] == "Andrew McBrine":
             ball["non_striker"] = "Andy McBrine"
+        if ball["batsman_name"] == "Andri Raffaelo":
+            ball["batsman_name"] = "Andri Berenger"
+        if ball["non_striker"] == "Andri Raffaelo":
+            ball["non_striker"] = "Andri Berenger"
     with open(inputFile, "w") as g:
         json.dump(allBalls, g, indent=1)
 
