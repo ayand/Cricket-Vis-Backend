@@ -19,7 +19,14 @@ router.get('/', function(req, res, next) {
   var result = balls.filter(function(d) {
 
       var condition1 = d[xName] >= leftX && d[xName] <= rightX;
+      /*if (condition1) {
+          console.log("CORRECT X: " + d[xName])
+      }*/
       var condition2 = d[yName] >= topY && d[yName] <= bottomY;
+      //console.log(d[yName])
+      if (!condition2) {
+          console.log("INCORRECT Y: " + d[yName])
+      }
       return condition1 && condition2;
   });
   return res.status(201).send(result);

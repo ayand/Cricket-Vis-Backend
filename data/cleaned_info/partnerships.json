@@ -2422,82 +2422,42 @@
  {
   "batsman_1_score": 7, 
   "game": 656413, 
-  "score": 7, 
+  "score": 26, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
+  "batsman_2": "Andri Berenger", 
+  "batsman_2_score": 14, 
   "position": 1
  }, 
  {
-  "batsman_1_score": 0, 
+  "batsman_1_score": 14, 
   "game": 656413, 
-  "score": 7, 
+  "score": 26, 
   "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
+  "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 7, 
   "position": 1
  }, 
  {
-  "batsman_1_score": 0, 
+  "batsman_1_score": 8, 
   "game": 656413, 
-  "score": 19, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Berenger", 
-  "batsman_2_score": 14, 
-  "position": 2
- }, 
- {
-  "batsman_1_score": 14, 
-  "game": 656413, 
-  "score": 19, 
+  "score": 14, 
   "team": "United Arab Emirates", 
   "batsman_1": "Andri Berenger", 
-  "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 0, 
-  "position": 2
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656413, 
-  "score": 5, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 4, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 4, 
   "game": 656413, 
-  "score": 5, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Krishna Chandran", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
-  "position": 3
- }, 
- {
-  "batsman_1_score": 8, 
-  "game": 656413, 
-  "score": 9, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Berenger", 
-  "batsman_2": "Krishna Chandran", 
-  "batsman_2_score": 0, 
-  "position": 4
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656413, 
-  "score": 9, 
+  "score": 14, 
   "team": "United Arab Emirates", 
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Andri Berenger", 
   "batsman_2_score": 8, 
-  "position": 4
+  "position": 2
  }, 
  {
   "batsman_1_score": 43, 
@@ -2507,7 +2467,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 30, 
-  "position": 5
+  "position": 3
  }, 
  {
   "batsman_1_score": 30, 
@@ -2517,7 +2477,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 43, 
-  "position": 5
+  "position": 3
  }, 
  {
   "batsman_1_score": 2, 
@@ -2527,7 +2487,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 10, 
-  "position": 6
+  "position": 4
  }, 
  {
   "batsman_1_score": 10, 
@@ -2537,7 +2497,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 2, 
-  "position": 6
+  "position": 4
  }, 
  {
   "batsman_1_score": 57, 
@@ -2547,7 +2507,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 22, 
-  "position": 7
+  "position": 5
  }, 
  {
   "batsman_1_score": 22, 
@@ -2557,7 +2517,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 57, 
-  "position": 7
+  "position": 5
  }, 
  {
   "batsman_1_score": 4, 
@@ -2567,7 +2527,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 9, 
-  "position": 8
+  "position": 6
  }, 
  {
   "batsman_1_score": 9, 
@@ -2577,7 +2537,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Rohan Mustafa", 
   "batsman_2_score": 4, 
-  "position": 8
+  "position": 6
  }, 
  {
   "batsman_1_score": 1, 
@@ -2587,7 +2547,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 1, 
-  "position": 9
+  "position": 7
  }, 
  {
   "batsman_1_score": 1, 
@@ -2597,7 +2557,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 1, 
-  "position": 9
+  "position": 7
  }, 
  {
   "batsman_1_score": 24, 
@@ -2607,7 +2567,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 23, 
-  "position": 10
+  "position": 8
  }, 
  {
   "batsman_1_score": 23, 
@@ -2617,7 +2577,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 24, 
-  "position": 10
+  "position": 8
  }, 
  {
   "batsman_1_score": 13, 
@@ -2627,7 +2587,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Sikandar Raza", 
   "batsman_2_score": 46, 
-  "position": 11
+  "position": 9
  }, 
  {
   "batsman_1_score": 46, 
@@ -2637,7 +2597,7 @@
   "batsman_1": "Sikandar Raza", 
   "batsman_2": "Regis Chakabva", 
   "batsman_2_score": 13, 
-  "position": 11
+  "position": 9
  }, 
  {
   "batsman_1_score": 1, 
@@ -2647,7 +2607,7 @@
   "batsman_1": "Hamilton Masakadza", 
   "batsman_2": "Regis Chakabva", 
   "batsman_2_score": 5, 
-  "position": 12
+  "position": 10
  }, 
  {
   "batsman_1_score": 5, 
@@ -2657,7 +2617,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Hamilton Masakadza", 
   "batsman_2_score": 1, 
-  "position": 12
+  "position": 10
  }, 
  {
   "batsman_1_score": 21, 
@@ -2667,7 +2627,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Regis Chakabva", 
   "batsman_2_score": 17, 
-  "position": 13
+  "position": 11
  }, 
  {
   "batsman_1_score": 17, 
@@ -2677,7 +2637,7 @@
   "batsman_1": "Regis Chakabva", 
   "batsman_2": "Brendan Taylor", 
   "batsman_2_score": 21, 
-  "position": 13
+  "position": 11
  }, 
  {
   "batsman_1_score": 26, 
@@ -2687,7 +2647,7 @@
   "batsman_1": "Brendan Taylor", 
   "batsman_2": "Sean Williams", 
   "batsman_2_score": 6, 
-  "position": 14
+  "position": 12
  }, 
  {
   "batsman_1_score": 6, 
@@ -2697,7 +2657,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Brendan Taylor", 
   "batsman_2_score": 26, 
-  "position": 14
+  "position": 12
  }, 
  {
   "batsman_1_score": 10, 
@@ -2707,7 +2667,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Solomon Mire", 
   "batsman_2_score": 9, 
-  "position": 15
+  "position": 13
  }, 
  {
   "batsman_1_score": 9, 
@@ -2717,7 +2677,7 @@
   "batsman_1": "Solomon Mire", 
   "batsman_2": "Sean Williams", 
   "batsman_2_score": 10, 
-  "position": 15
+  "position": 13
  }, 
  {
   "batsman_1_score": 42, 
@@ -2727,7 +2687,7 @@
   "batsman_1": "Craig Ervine", 
   "batsman_2": "Sean Williams", 
   "batsman_2_score": 38, 
-  "position": 16
+  "position": 14
  }, 
  {
   "batsman_1_score": 38, 
@@ -2737,7 +2697,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Craig Ervine", 
   "batsman_2_score": 42, 
-  "position": 16
+  "position": 14
  }, 
  {
   "batsman_1_score": 14, 
@@ -2747,7 +2707,7 @@
   "batsman_1": "Elton Chigumbura", 
   "batsman_2": "Sean Williams", 
   "batsman_2_score": 22, 
-  "position": 17
+  "position": 15
  }, 
  {
   "batsman_1_score": 22, 
@@ -2757,7 +2717,7 @@
   "batsman_1": "Sean Williams", 
   "batsman_2": "Elton Chigumbura", 
   "batsman_2_score": 14, 
-  "position": 17
+  "position": 15
  }, 
  {
   "batsman_1_score": 8, 
@@ -4682,42 +4642,22 @@
  {
   "batsman_1_score": 33, 
   "game": 656429, 
-  "score": 35, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
-  "position": 1
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656429, 
-  "score": 35, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
-  "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 33, 
-  "position": 1
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656429, 
-  "score": 14, 
+  "score": 49, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "batsman_2_score": 13, 
-  "position": 2
+  "position": 1
  }, 
  {
   "batsman_1_score": 13, 
   "game": 656429, 
-  "score": 14, 
+  "score": 49, 
   "team": "United Arab Emirates", 
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 0, 
-  "position": 2
+  "batsman_2_score": 33, 
+  "position": 1
  }, 
  {
   "batsman_1_score": 4, 
@@ -4727,7 +4667,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 0, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 0, 
@@ -4737,7 +4677,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 4, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 8, 
@@ -4747,7 +4687,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 12, 
-  "position": 4
+  "position": 3
  }, 
  {
   "batsman_1_score": 12, 
@@ -4757,7 +4697,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 8, 
-  "position": 4
+  "position": 3
  }, 
  {
   "batsman_1_score": 3, 
@@ -4767,7 +4707,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 2, 
-  "position": 5
+  "position": 4
  }, 
  {
   "batsman_1_score": 2, 
@@ -4777,7 +4717,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 3, 
-  "position": 5
+  "position": 4
  }, 
  {
   "batsman_1_score": 21, 
@@ -4787,7 +4727,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 25, 
-  "position": 6
+  "position": 5
  }, 
  {
   "batsman_1_score": 25, 
@@ -4797,7 +4737,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 21, 
-  "position": 6
+  "position": 5
  }, 
  {
   "batsman_1_score": 2, 
@@ -4807,7 +4747,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 3, 
-  "position": 7
+  "position": 6
  }, 
  {
   "batsman_1_score": 3, 
@@ -4817,7 +4757,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Rohan Mustafa", 
   "batsman_2_score": 2, 
-  "position": 7
+  "position": 6
  }, 
  {
   "batsman_1_score": 42, 
@@ -4827,7 +4767,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 56, 
-  "position": 8
+  "position": 7
  }, 
  {
   "batsman_1_score": 56, 
@@ -4837,7 +4777,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 42, 
-  "position": 8
+  "position": 7
  }, 
  {
   "batsman_1_score": 6, 
@@ -4847,7 +4787,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 22, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 22, 
@@ -4857,7 +4797,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 6, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 7, 
@@ -4867,7 +4807,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 0, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 0, 
@@ -4877,7 +4817,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 7, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 0, 
@@ -4887,7 +4827,7 @@
   "batsman_1": "Manjula Guruge", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 2, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 2, 
@@ -4897,7 +4837,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Manjula Guruge", 
   "batsman_2_score": 0, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 3, 
@@ -4907,7 +4847,7 @@
   "batsman_1": "Paul Stirling", 
   "batsman_2": "William Porterfield", 
   "batsman_2_score": 1, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 1, 
@@ -4917,7 +4857,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Paul Stirling", 
   "batsman_2_score": 3, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 37, 
@@ -4927,7 +4867,7 @@
   "batsman_1": "Ed Joyce", 
   "batsman_2": "William Porterfield", 
   "batsman_2_score": 29, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 29, 
@@ -4937,7 +4877,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Ed Joyce", 
   "batsman_2_score": 37, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 15, 
@@ -4947,7 +4887,7 @@
   "batsman_1": "Niall O'Brien", 
   "batsman_2": "William Porterfield", 
   "batsman_2_score": 7, 
-  "position": 14
+  "position": 13
  }, 
  {
   "batsman_1_score": 7, 
@@ -4957,7 +4897,7 @@
   "batsman_1": "William Porterfield", 
   "batsman_2": "Niall O'Brien", 
   "batsman_2_score": 15, 
-  "position": 14
+  "position": 13
  }, 
  {
   "batsman_1_score": 1, 
@@ -4967,7 +4907,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Niall O'Brien", 
   "batsman_2_score": 2, 
-  "position": 15
+  "position": 14
  }, 
  {
   "batsman_1_score": 2, 
@@ -4977,7 +4917,7 @@
   "batsman_1": "Niall O'Brien", 
   "batsman_2": "Andy Balbirnie", 
   "batsman_2_score": 1, 
-  "position": 15
+  "position": 14
  }, 
  {
   "batsman_1_score": 29, 
@@ -4987,7 +4927,7 @@
   "batsman_1": "Andy Balbirnie", 
   "batsman_2": "Gary Wilson", 
   "batsman_2_score": 43, 
-  "position": 16
+  "position": 15
  }, 
  {
   "batsman_1_score": 43, 
@@ -4997,7 +4937,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Andy Balbirnie", 
   "batsman_2_score": 29, 
-  "position": 16
+  "position": 15
  }, 
  {
   "batsman_1_score": 16, 
@@ -5007,7 +4947,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Kevin O'Brien", 
   "batsman_2_score": 50, 
-  "position": 17
+  "position": 16
  }, 
  {
   "batsman_1_score": 50, 
@@ -5017,7 +4957,7 @@
   "batsman_1": "Kevin O'Brien", 
   "batsman_2": "Gary Wilson", 
   "batsman_2_score": 16, 
-  "position": 17
+  "position": 16
  }, 
  {
   "batsman_1_score": 13, 
@@ -5027,7 +4967,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "John Mooney", 
   "batsman_2_score": 2, 
-  "position": 18
+  "position": 17
  }, 
  {
   "batsman_1_score": 2, 
@@ -5037,7 +4977,7 @@
   "batsman_1": "John Mooney", 
   "batsman_2": "Gary Wilson", 
   "batsman_2_score": 13, 
-  "position": 18
+  "position": 17
  }, 
  {
   "batsman_1_score": 0, 
@@ -5047,7 +4987,7 @@
   "batsman_1": "Alex Cusack", 
   "batsman_2": "Gary Wilson", 
   "batsman_2_score": 8, 
-  "position": 19
+  "position": 18
  }, 
  {
   "batsman_1_score": 8, 
@@ -5057,7 +4997,7 @@
   "batsman_1": "Gary Wilson", 
   "batsman_2": "Alex Cusack", 
   "batsman_2_score": 0, 
-  "position": 19
+  "position": 18
  }, 
  {
   "batsman_1_score": 5, 
@@ -5067,7 +5007,7 @@
   "batsman_1": "Alex Cusack", 
   "batsman_2": "George Dockrell", 
   "batsman_2_score": 7, 
-  "position": 20
+  "position": 19
  }, 
  {
   "batsman_1_score": 7, 
@@ -5077,7 +5017,7 @@
   "batsman_1": "George Dockrell", 
   "batsman_2": "Alex Cusack", 
   "batsman_2_score": 5, 
-  "position": 20
+  "position": 19
  }, 
  {
   "batsman_1_score": 0, 
@@ -6442,42 +6382,22 @@
  {
   "batsman_1_score": 1, 
   "game": 656439, 
-  "score": 3, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
-  "position": 1
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656439, 
-  "score": 3, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
-  "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 1, 
-  "position": 1
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656439, 
-  "score": 4, 
+  "score": 7, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "batsman_2_score": 4, 
-  "position": 2
+  "position": 1
  }, 
  {
   "batsman_1_score": 4, 
   "game": 656439, 
-  "score": 4, 
+  "score": 7, 
   "team": "United Arab Emirates", 
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 0, 
-  "position": 2
+  "batsman_2_score": 1, 
+  "position": 1
  }, 
  {
   "batsman_1_score": 3, 
@@ -6487,7 +6407,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 1, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 1, 
@@ -6497,7 +6417,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 3, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 8, 
@@ -6507,7 +6427,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 3, 
-  "position": 4
+  "position": 3
  }, 
  {
   "batsman_1_score": 3, 
@@ -6517,7 +6437,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 8, 
-  "position": 4
+  "position": 3
  }, 
  {
   "batsman_1_score": 4, 
@@ -6527,7 +6447,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 7, 
-  "position": 5
+  "position": 4
  }, 
  {
   "batsman_1_score": 7, 
@@ -6537,7 +6457,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 4, 
-  "position": 5
+  "position": 4
  }, 
  {
   "batsman_1_score": 2, 
@@ -6547,7 +6467,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 1, 
-  "position": 6
+  "position": 5
  }, 
  {
   "batsman_1_score": 1, 
@@ -6557,7 +6477,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 2, 
-  "position": 6
+  "position": 5
  }, 
  {
   "batsman_1_score": 2, 
@@ -6567,7 +6487,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 5, 
-  "position": 7
+  "position": 6
  }, 
  {
   "batsman_1_score": 5, 
@@ -6577,7 +6497,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Rohan Mustafa", 
   "batsman_2_score": 2, 
-  "position": 7
+  "position": 6
  }, 
  {
   "batsman_1_score": 2, 
@@ -6587,7 +6507,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 5, 
-  "position": 8
+  "position": 7
  }, 
  {
   "batsman_1_score": 5, 
@@ -6597,7 +6517,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 2, 
-  "position": 8
+  "position": 7
  }, 
  {
   "batsman_1_score": 6, 
@@ -6607,7 +6527,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 1, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 1, 
@@ -6617,7 +6537,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 6, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 1, 
@@ -6627,7 +6547,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 2, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 2, 
@@ -6637,7 +6557,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 1, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 10, 
@@ -6647,7 +6567,7 @@
   "batsman_1": "Manjula Guruge", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 21, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 21, 
@@ -6657,7 +6577,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Manjula Guruge", 
   "batsman_2_score": 10, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 15, 
@@ -6667,7 +6587,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Shikhar Dhawan", 
   "batsman_2_score": 14, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 14, 
@@ -6677,7 +6597,7 @@
   "batsman_1": "Shikhar Dhawan", 
   "batsman_2": "Rohit Sharma", 
   "batsman_2_score": 15, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 42, 
@@ -6687,7 +6607,7 @@
   "batsman_1": "Rohit Sharma", 
   "batsman_2": "Virat Kohli", 
   "batsman_2_score": 33, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 33, 
@@ -6697,7 +6617,7 @@
   "batsman_1": "Virat Kohli", 
   "batsman_2": "Rohit Sharma", 
   "batsman_2_score": 42, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 36, 
@@ -7682,19 +7602,19 @@
  {
   "batsman_1_score": 14, 
   "game": 656447, 
-  "score": 16, 
+  "score": 18, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
+  "batsman_2": "Andri Berenger", 
+  "batsman_2_score": 2, 
   "position": 8
  }, 
  {
-  "batsman_1_score": 0, 
+  "batsman_1_score": 2, 
   "game": 656447, 
-  "score": 16, 
+  "score": 18, 
   "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
+  "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 14, 
   "position": 8
@@ -7705,16 +7625,6 @@
   "score": 2, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Berenger", 
-  "batsman_2_score": 2, 
-  "position": 9
- }, 
- {
-  "batsman_1_score": 2, 
-  "game": 656447, 
-  "score": 2, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 0, 
   "position": 9
@@ -7727,37 +7637,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 0, 
-  "position": 10
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656447, 
-  "score": 2, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Amjad Ali", 
-  "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 0, 
-  "position": 10
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656447, 
-  "score": 0, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
-  "batsman_2": "Krishna Chandran", 
-  "batsman_2_score": 0, 
-  "position": 11
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656447, 
-  "score": 0, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Krishna Chandran", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
-  "position": 11
+  "position": 9
  }, 
  {
   "batsman_1_score": 0, 
@@ -7767,7 +7647,7 @@
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 0, 
-  "position": 12
+  "position": 10
  }, 
  {
   "batsman_1_score": 0, 
@@ -7777,7 +7657,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Andri Berenger", 
   "batsman_2_score": 0, 
-  "position": 12
+  "position": 10
  }, 
  {
   "batsman_1_score": 4, 
@@ -7787,7 +7667,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 0, 
-  "position": 13
+  "position": 11
  }, 
  {
   "batsman_1_score": 0, 
@@ -7797,7 +7677,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 4, 
-  "position": 13
+  "position": 11
  }, 
  {
   "batsman_1_score": 39, 
@@ -7807,7 +7687,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 42, 
-  "position": 14
+  "position": 12
  }, 
  {
   "batsman_1_score": 42, 
@@ -7817,7 +7697,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 39, 
-  "position": 14
+  "position": 12
  }, 
  {
   "batsman_1_score": 20, 
@@ -7827,7 +7707,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 12, 
-  "position": 15
+  "position": 13
  }, 
  {
   "batsman_1_score": 12, 
@@ -7837,7 +7717,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 20, 
-  "position": 15
+  "position": 13
  }, 
  {
   "batsman_1_score": 0, 
@@ -7847,7 +7727,7 @@
   "batsman_1": "Rohan Mustafa", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 0, 
-  "position": 16
+  "position": 14
  }, 
  {
   "batsman_1_score": 0, 
@@ -7857,7 +7737,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Rohan Mustafa", 
   "batsman_2_score": 0, 
-  "position": 16
+  "position": 14
  }, 
  {
   "batsman_1_score": 40, 
@@ -7867,7 +7747,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 22, 
-  "position": 17
+  "position": 15
  }, 
  {
   "batsman_1_score": 22, 
@@ -7877,7 +7757,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 40, 
-  "position": 17
+  "position": 15
  }, 
  {
   "batsman_1_score": 0, 
@@ -7887,7 +7767,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 2, 
-  "position": 18
+  "position": 16
  }, 
  {
   "batsman_1_score": 2, 
@@ -7897,7 +7777,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 0, 
-  "position": 18
+  "position": 16
  }, 
  {
   "batsman_1_score": 0, 
@@ -7907,7 +7787,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 0, 
-  "position": 19
+  "position": 17
  }, 
  {
   "batsman_1_score": 0, 
@@ -7917,7 +7797,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 0, 
-  "position": 19
+  "position": 17
  }, 
  {
   "batsman_1_score": 4, 
@@ -11502,42 +11382,22 @@
  {
   "batsman_1_score": 17, 
   "game": 656469, 
-  "score": 20, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
-  "position": 8
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656469, 
-  "score": 20, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
-  "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 17, 
-  "position": 8
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656469, 
-  "score": 9, 
+  "score": 29, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "batsman_2_score": 5, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 5, 
   "game": 656469, 
-  "score": 9, 
+  "score": 29, 
   "team": "United Arab Emirates", 
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 0, 
-  "position": 9
+  "batsman_2_score": 17, 
+  "position": 8
  }, 
  {
   "batsman_1_score": 4, 
@@ -11547,7 +11407,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 12, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 12, 
@@ -11557,7 +11417,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 4, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 0, 
@@ -11567,7 +11427,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 0, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 0, 
@@ -11577,7 +11437,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 0, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 39, 
@@ -11587,7 +11447,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 16, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 16, 
@@ -11597,7 +11457,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 39, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 7, 
@@ -11607,7 +11467,7 @@
   "batsman_1": "Saqlain Haider", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 2, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 2, 
@@ -11617,7 +11477,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Saqlain Haider", 
   "batsman_2_score": 7, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 5, 
@@ -11627,7 +11487,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 2, 
-  "position": 14
+  "position": 13
  }, 
  {
   "batsman_1_score": 2, 
@@ -11637,7 +11497,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 5, 
-  "position": 14
+  "position": 13
  }, 
  {
   "batsman_1_score": 17, 
@@ -11647,7 +11507,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 14, 
-  "position": 15
+  "position": 14
  }, 
  {
   "batsman_1_score": 14, 
@@ -11657,7 +11517,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 17, 
-  "position": 15
+  "position": 14
  }, 
  {
   "batsman_1_score": 3, 
@@ -11667,7 +11527,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 17, 
-  "position": 16
+  "position": 15
  }, 
  {
   "batsman_1_score": 17, 
@@ -11677,7 +11537,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 3, 
-  "position": 16
+  "position": 15
  }, 
  {
   "batsman_1_score": 0, 
@@ -11687,7 +11547,7 @@
   "batsman_1": "Kamran Shazad", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 6, 
-  "position": 17
+  "position": 16
  }, 
  {
   "batsman_1_score": 6, 
@@ -11697,7 +11557,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Kamran Shazad", 
   "batsman_2_score": 0, 
-  "position": 17
+  "position": 16
  }, 
  {
   "batsman_1_score": 0, 
@@ -11707,7 +11567,7 @@
   "batsman_1": "Fahad Alhashmi", 
   "batsman_2": "Kamran Shazad", 
   "batsman_2_score": 0, 
-  "position": 18
+  "position": 17
  }, 
  {
   "batsman_1_score": 0, 
@@ -11717,7 +11577,7 @@
   "batsman_1": "Kamran Shazad", 
   "batsman_2": "Fahad Alhashmi", 
   "batsman_2_score": 0, 
-  "position": 18
+  "position": 17
  }, 
  {
   "batsman_1_score": 2, 
@@ -12822,42 +12682,22 @@
  {
   "batsman_1_score": 3, 
   "game": 656479, 
-  "score": 5, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Amjad Ali", 
-  "batsman_2": "Andri Raffaelo", 
-  "batsman_2_score": 0, 
-  "position": 1
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656479, 
-  "score": 5, 
-  "team": "United Arab Emirates", 
-  "batsman_1": "Andri Raffaelo", 
-  "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 3, 
-  "position": 1
- }, 
- {
-  "batsman_1_score": 0, 
-  "game": 656479, 
-  "score": 8, 
+  "score": 13, 
   "team": "United Arab Emirates", 
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Andri Berenger", 
   "batsman_2_score": 7, 
-  "position": 2
+  "position": 1
  }, 
  {
   "batsman_1_score": 7, 
   "game": 656479, 
-  "score": 8, 
+  "score": 13, 
   "team": "United Arab Emirates", 
   "batsman_1": "Andri Berenger", 
   "batsman_2": "Amjad Ali", 
-  "batsman_2_score": 0, 
-  "position": 2
+  "batsman_2_score": 3, 
+  "position": 1
  }, 
  {
   "batsman_1_score": 2, 
@@ -12867,7 +12707,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Krishna Chandran", 
   "batsman_2_score": 0, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 0, 
@@ -12877,7 +12717,7 @@
   "batsman_1": "Krishna Chandran", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 2, 
-  "position": 3
+  "position": 2
  }, 
  {
   "batsman_1_score": 0, 
@@ -12887,7 +12727,7 @@
   "batsman_1": "Amjad Ali", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 1, 
-  "position": 4
+  "position": 3
  }, 
  {
   "batsman_1_score": 1, 
@@ -12897,7 +12737,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Amjad Ali", 
   "batsman_2_score": 0, 
-  "position": 4
+  "position": 3
  }, 
  {
   "batsman_1_score": 4, 
@@ -12907,7 +12747,7 @@
   "batsman_1": "Khurram Khan", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 0, 
-  "position": 5
+  "position": 4
  }, 
  {
   "batsman_1_score": 0, 
@@ -12917,7 +12757,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Khurram Khan", 
   "batsman_2_score": 4, 
-  "position": 5
+  "position": 4
  }, 
  {
   "batsman_1_score": 2, 
@@ -12927,7 +12767,7 @@
   "batsman_1": "Shaiman Anwar", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 3, 
-  "position": 6
+  "position": 5
  }, 
  {
   "batsman_1_score": 3, 
@@ -12937,7 +12777,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Shaiman Anwar", 
   "batsman_2_score": 2, 
-  "position": 6
+  "position": 5
  }, 
  {
   "batsman_1_score": 13, 
@@ -12947,7 +12787,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Swapnil Patil", 
   "batsman_2_score": 3, 
-  "position": 7
+  "position": 6
  }, 
  {
   "batsman_1_score": 3, 
@@ -12957,7 +12797,7 @@
   "batsman_1": "Swapnil Patil", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 13, 
-  "position": 7
+  "position": 6
  }, 
  {
   "batsman_1_score": 43, 
@@ -12967,7 +12807,7 @@
   "batsman_1": "Amjad Javed", 
   "batsman_2": "Nasir Aziz", 
   "batsman_2_score": 60, 
-  "position": 8
+  "position": 7
  }, 
  {
   "batsman_1_score": 60, 
@@ -12977,7 +12817,7 @@
   "batsman_1": "Nasir Aziz", 
   "batsman_2": "Amjad Javed", 
   "batsman_2_score": 43, 
-  "position": 8
+  "position": 7
  }, 
  {
   "batsman_1_score": 14, 
@@ -12987,7 +12827,7 @@
   "batsman_1": "Mohammad Naveed", 
   "batsman_2": "Nasir Aziz", 
   "batsman_2_score": 0, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 0, 
@@ -12997,7 +12837,7 @@
   "batsman_1": "Nasir Aziz", 
   "batsman_2": "Mohammad Naveed", 
   "batsman_2_score": 14, 
-  "position": 9
+  "position": 8
  }, 
  {
   "batsman_1_score": 0, 
@@ -13007,7 +12847,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Nasir Aziz", 
   "batsman_2_score": 0, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 0, 
@@ -13017,7 +12857,7 @@
   "batsman_1": "Nasir Aziz", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 0, 
-  "position": 10
+  "position": 9
  }, 
  {
   "batsman_1_score": 4, 
@@ -13027,7 +12867,7 @@
   "batsman_1": "Manjula Guruge", 
   "batsman_2": "Mohammad Tauqir", 
   "batsman_2_score": 2, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 2, 
@@ -13037,7 +12877,7 @@
   "batsman_1": "Mohammad Tauqir", 
   "batsman_2": "Manjula Guruge", 
   "batsman_2_score": 4, 
-  "position": 11
+  "position": 10
  }, 
  {
   "batsman_1_score": 15, 
@@ -13047,7 +12887,7 @@
   "batsman_1": "Dwayne Smith", 
   "batsman_2": "Johnson Charles", 
   "batsman_2_score": 18, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 18, 
@@ -13057,7 +12897,7 @@
   "batsman_1": "Johnson Charles", 
   "batsman_2": "Dwayne Smith", 
   "batsman_2_score": 15, 
-  "position": 12
+  "position": 11
  }, 
  {
   "batsman_1_score": 11, 
@@ -13067,7 +12907,7 @@
   "batsman_1": "Johnson Charles", 
   "batsman_2": "Marlon Samuels", 
   "batsman_2_score": 9, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 9, 
@@ -13077,7 +12917,7 @@
   "batsman_1": "Marlon Samuels", 
   "batsman_2": "Johnson Charles", 
   "batsman_2_score": 11, 
-  "position": 13
+  "position": 12
  }, 
  {
   "batsman_1_score": 26, 
@@ -13087,7 +12927,7 @@
   "batsman_1": "Johnson Charles", 
   "batsman_2": "Jonathan Carter", 
   "batsman_2_score": 26, 
-  "position": 14
+  "position": 13
  }, 
  {
   "batsman_1_score": 26, 
@@ -13097,7 +12937,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Johnson Charles", 
   "batsman_2_score": 26, 
-  "position": 14
+  "position": 13
  }, 
  {
   "batsman_1_score": 7, 
@@ -13107,7 +12947,7 @@
   "batsman_1": "Andre Russell", 
   "batsman_2": "Jonathan Carter", 
   "batsman_2_score": 2, 
-  "position": 15
+  "position": 14
  }, 
  {
   "batsman_1_score": 2, 
@@ -13117,7 +12957,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Andre Russell", 
   "batsman_2_score": 7, 
-  "position": 15
+  "position": 14
  }, 
  {
   "batsman_1_score": 33, 
@@ -13127,7 +12967,7 @@
   "batsman_1": "Denesh Ramdin", 
   "batsman_2": "Jonathan Carter", 
   "batsman_2_score": 22, 
-  "position": 16
+  "position": 15
  }, 
  {
   "batsman_1_score": 22, 
@@ -13137,7 +12977,7 @@
   "batsman_1": "Jonathan Carter", 
   "batsman_2": "Denesh Ramdin", 
   "batsman_2_score": 33, 
-  "position": 16
+  "position": 15
  }, 
  {
   "batsman_1_score": 3, 

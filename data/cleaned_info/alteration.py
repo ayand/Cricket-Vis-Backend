@@ -55,9 +55,13 @@ for ball in allBalls:
         ball["batsman_name"] = "Andy McBrine"
     if ball["non_striker"] == "Andrew McBrine":
         ball["non_striker"] = "Andy McBrine"
+    if ball["batsman_name"] == "Andri Raffaelo":
+        ball["batsman_name"] = "Andri Berenger"
+    if ball["non_striker"] == "Andri Raffaelo":
+        ball["non_striker"] = "Andri Berenger"
 
 
-with open("editedAllBalls.json", "w") as outputFile:
+with open("allBalls.json", "w") as outputFile:
     json.dump(allBalls, outputFile, indent=1)
 
 print("Done")
