@@ -18,11 +18,11 @@ for game in gameNums:
             ball["non_striker"] = "Shafiqullah Shafiq"
         if ball["bowler_name"] == "Shafiqullah" or ball["bowler_name"] == "Shafiqullah Shafiq":
             ball["bowler_name"] = "Shafiqullah Shafiq"
-        if ball["batsman_name"] == "Mahmudullah" or ball["batsman_name"] == "Mahmudullah Riyad":
+        if ball["batsman_name"] == "Mahmudullah" or ball["batsman_name"] == "Mahmudullah Riyad" or ball["batsman_name"] == "Mohammad Mahmudullah Riyad":
             ball["batsman_name"] = "Mahmudullah Riyad"
-        if ball["non_striker"] == "Mahmudullah" or ball["non_striker"] == "Mahmudullah Riyad":
+        if ball["non_striker"] == "Mahmudullah" or ball["non_striker"] == "Mahmudullah Riyad" or ball["non_striker"] == "Mohammad Mahmudullah Riyad":
             ball["non_striker"] = "Mahmudullah Riyad"
-        if ball["bowler_name"] == "Mahmudullah" or ball["bowler_name"] == "Mahmudullah Riyad":
+        if ball["bowler_name"] == "Mahmudullah" or ball["bowler_name"] == "Mahmudullah Riyad" or ball["bowler_name"] == "Mohammad Mahmudullah Riyad":
             ball["bowler_name"] = "Mahmudullah Riyad"
         if ball["batsman_name"] == "Misbah-ul-Haq" or ball["batsman_name"] == "Misbah-ul-Haq Niazi":
             ball["batsman_name"] = "Misbah-ul-Haq Niazi"
